@@ -54,8 +54,12 @@ public class Main {
         juegos = convertirBinario.getJuegos();
         // Crear y leer XMl.
         // GeneradorXML xml = new GeneradorXML(getPlataformas(), juegos);
-        //xml.generarXML();
-        //xml.leerXML();
+        // xml.generarXML();
+        // xml.leerXML();
+        // ArrayList<GameXML> juegosXML = xml.getJuegosXML();
+        // for (GameXML juego : juegosXML) {
+        //    System.out.println(juego.toString());
+        //}
 
         // Lee el fichero XML y crear una estructura de carpetas con todas las plataformas y juegos de la misma.
         //GeneradorCarpetasPlataforma carpetas = new GeneradorCarpetasPlataforma(xml.getJuegosXML(), xml.getPlataformas());

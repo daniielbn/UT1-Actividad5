@@ -13,6 +13,7 @@ import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
 public class GeneradorXML {
@@ -49,8 +50,21 @@ public class GeneradorXML {
         this.juegosXML = juegosXML;
     }
 
+    public void formatearPlataforma() {
+        for (String plataforma : plataformas) {
+            if (plataforma == null || plataforma.isEmpty()) {
+                plataforma = "Desconocida";
+            }
+            String plataformaFormateada = plataforma.replaceAll("[^a-zA-Z0-9]", "");
+            if (Character.isDigit(plataformaFormateada.charAt(0))) {
+                plataforma = "Plataforma " + plataformaFormateada;
+            }
+        }
+    }
+
     public void generarXML() {
         try {
+            formatearPlataforma();
             DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder documentBuilder = documentFactory.newDocumentBuilder();
             Document document = documentBuilder.newDocument();
@@ -59,8 +73,7 @@ public class GeneradorXML {
             document.appendChild(root);
 
             for (String plataforma : plataformas) {
-                Element plataformaElement = document.createElement("plataforma");
-                plataformaElement.setAttribute("nombre", plataforma);
+                Element plataformaElement = document.createElement(plataforma);
                 root.appendChild(plataformaElement);
 
                 Element juegosElement = document.createElement("Juegos");
@@ -96,36 +109,43 @@ public class GeneradorXML {
 
     public void leerXML() {
         try {
+            formatearPlataforma();
+            File xmlFile = new File("Resultados\\juegos.xml");
+            if (!xmlFile.exists()) {
+                throw new FileNotFoundException("El archivo juegos.xml no existe en la carpeta Resultados");
+            }
+
             DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder documentBuilder = documentFactory.newDocumentBuilder();
-            Document document = documentBuilder.parse(new File("Resultados\\juegos.xml"));
+            Document document = documentBuilder.parse(xmlFile);
 
             document.getDocumentElement().normalize();
-            NodeList plataformas = document.getElementsByTagName("plataforma");
+            for (String plataforma : plataformas) {
+                NodeList plataformas = document.getElementsByTagName(plataforma);
 
-            for (int i = 0; i < plataformas.getLength(); i++) {
-                Node plataformaNode = plataformas.item(i);
-                if (plataformaNode.getNodeType() == plataformaNode.ELEMENT_NODE) {
-                    Element plataformaElement = (Element) plataformaNode;
-                    String nombrePlataforma = plataformaElement.getAttribute("nombre");
+                for (int i = 0; i < plataformas.getLength(); i++) {
+                    Node plataformaNode = plataformas.item(i);
+                    if (plataformaNode.getNodeType() == plataformaNode.ELEMENT_NODE) {
+                        Element plataformaElement = (Element) plataformaNode;
+                        String nombrePlataforma = plataformaElement.getTextContent();
 
-                    NodeList juegos = plataformaElement.getElementsByTagName("Juego");
-                    for (int j = 0; j < juegos.getLength(); j++) {
-                        Node juegoNode = juegos.item(j);
-                        if (juegoNode.getNodeType() == juegoNode.ELEMENT_NODE) {
-                            Element juegoElement = (Element) juegoNode;
-                            String nombreJuego = juegoElement.getElementsByTagName("Nombre").item(0).getTextContent();
-                            String desarrollador = juegoElement.getElementsByTagName("Desarrollador").item(0).getTextContent();
-                            juegosXML.add(new GameXML(nombrePlataforma, nombreJuego, desarrollador));
+                        NodeList juegos = plataformaElement.getElementsByTagName("Juego");
+                        for (int j = 0; j < juegos.getLength(); j++) {
+                            Node juegoNode = juegos.item(j);
+                            if (juegoNode.getNodeType() == juegoNode.ELEMENT_NODE) {
+                                Element juegoElement = (Element) juegoNode;
+                                String nombreJuego = juegoElement.getElementsByTagName("Nombre").item(0).getTextContent();
+                                String desarrollador = juegoElement.getElementsByTagName("Desarrollador").item(0).getTextContent();
+                                juegosXML.add(new GameXML(nombrePlataforma, nombreJuego, desarrollador));
+                            }
                         }
                     }
                 }
             }
 
 
-
         } catch (Exception e) {
-            System.out.println("Error al leer el XML");
+            System.out.println("Error al leer el XML: " + e.getMessage());
         }
     }
 
