@@ -1,0 +1,916 @@
+Game{name= Monday Night Combat, platform= PC, developer= Uber Entertainment, genre= Action, numberPlayers= 1 Player, rating= T, releaseDate= Jan 24, 2011, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 10, neutralUsers= 8, negativeUsers= 4, metaScore= 82, userScore= 73}
+
+Game{name= Dead Space 2, platform= PC, developer= Visceral Games, genre= Action, numberPlayers= , rating= M, releaseDate= Jan 25, 2011, positiveCritics= 27, neutralCritics= 1, negativeCritics= 0, positiveUsers= 128, neutralUsers= 31, negativeUsers= 12, metaScore= 87, userScore= 84}
+
+Game{name= Crysis 2, platform= PC, developer= Crytek, genre= Action, numberPlayers= , rating= M, releaseDate= Mar 22, 2011, positiveCritics= 39, neutralCritics= 3, negativeCritics= 0, positiveUsers= 202, neutralUsers= 119, negativeUsers= 120, metaScore= 86, userScore= 68}
+
+Game{name= Super Street Fighter IV: 3D Edition, platform= 3DS, developer= Capcom, genre= Action, numberPlayers= , rating= T, releaseDate= Mar 27, 2011, positiveCritics= 67, neutralCritics= 2, negativeCritics= 0, positiveUsers= 43, neutralUsers= 9, negativeUsers= 2, metaScore= 85, userScore= 80}
+
+Game{name= Portal 2, platform= PC, developer= Valve Software, genre= Action, numberPlayers= , rating= E10+, releaseDate= Apr 18, 2011, positiveCritics= 51, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1700, neutralUsers= 107, negativeUsers= 19, metaScore= 95, userScore= 90}
+
+Game{name= CAPSIZED, platform= PC, developer= Alientrap, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Apr 29, 2011, positiveCritics= 16, neutralCritics= 3, negativeCritics= 0, positiveUsers= 14, neutralUsers= 10, negativeUsers= 5, metaScore= 80, userScore= 72}
+
+Game{name= Terraria, platform= PC, developer= Re-Logic, genre= Action, numberPlayers= Up to 8 , rating= T, releaseDate= May 16, 2011, positiveCritics= 25, neutralCritics= 4, negativeCritics= 0, positiveUsers= 495, neutralUsers= 53, negativeUsers= 26, metaScore= 83, userScore= 86}
+
+Game{name= Jamestown: Legend of the Lost Colony, platform= PC, developer= Final Form Games, LLC, genre= Action, numberPlayers= , rating= , releaseDate= Jun  8, 2011, positiveCritics= 17, neutralCritics= 3, negativeCritics= 0, positiveUsers= 29, neutralUsers= 9, negativeUsers= 2, metaScore= 81, userScore= 75}
+
+Game{name= Super Street Fighter IV: Arcade Edition, platform= PC, developer= Capcom, QLOC, genre= Action, numberPlayers= , rating= T, releaseDate= Jul  7, 2011, positiveCritics= 10, neutralCritics= 1, negativeCritics= 0, positiveUsers= 18, neutralUsers= 3, negativeUsers= 5, metaScore= 84, userScore= 77}
+
+Game{name= LIMBO, platform= PC, developer= PLAYDEAD, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Aug  2, 2011, positiveCritics= 22, neutralCritics= 0, negativeCritics= 0, positiveUsers= 190, neutralUsers= 63, negativeUsers= 25, metaScore= 88, userScore= 81}
+
+Game{name= Bastion, platform= PC, developer= Supergiant Games, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Aug 16, 2011, positiveCritics= 16, neutralCritics= 1, negativeCritics= 0, positiveUsers= 302, neutralUsers= 51, negativeUsers= 12, metaScore= 86, userScore= 85}
+
+Game{name= Deus Ex: Human Revolution, platform= PC, developer= Nixxes Software, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Aug 23, 2011, positiveCritics= 52, neutralCritics= 0, negativeCritics= 0, positiveUsers= 520, neutralUsers= 112, negativeUsers= 78, metaScore= 90, userScore= 85}
+
+Game{name= Star Fox 64 3D, platform= 3DS, developer= Nintendo, genre= Action, numberPlayers= 4  Online, rating= E10+, releaseDate= Sep  9, 2011, positiveCritics= 56, neutralCritics= 9, negativeCritics= 0, positiveUsers= 53, neutralUsers= 17, negativeUsers= 3, metaScore= 81, userScore= 81}
+
+Game{name= The Binding of Isaac, platform= PC, developer= Edmund McMillen, Florian Himsl, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Sep 28, 2011, positiveCritics= 28, neutralCritics= 2, negativeCritics= 0, positiveUsers= 194, neutralUsers= 34, negativeUsers= 23, metaScore= 84, userScore= 84}
+
+Game{name= Orcs Must Die!, platform= PC, developer= Robot Entertainment, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Oct 11, 2011, positiveCritics= 22, neutralCritics= 3, negativeCritics= 0, positiveUsers= 93, neutralUsers= 19, negativeUsers= 3, metaScore= 83, userScore= 81}
+
+Game{name= 'Skylanders: Spyro''s Adventure', platform= 3DS, developer= Vicarious Visions, genre= Action, numberPlayers= , rating= E10+, releaseDate= Oct 16, 2011, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 4, neutralUsers= 3, negativeUsers= 8, metaScore= 82, userScore= 50}
+
+Game{name= Battlefield 3, platform= PC, developer= EA DICE, genre= Action, numberPlayers= , rating= M, releaseDate= Oct 25, 2011, positiveCritics= 60, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1061, neutralUsers= 191, negativeUsers= 271, metaScore= 89, userScore= 76}
+
+Game{name= Cave Story 3D, platform= 3DS, developer= Nicalis, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Nov  8, 2011, positiveCritics= 26, neutralCritics= 3, negativeCritics= 0, positiveUsers= 15, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 82}
+
+Game{name= Super Mario 3D Land, platform= 3DS, developer= Nintendo, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Nov 13, 2011, positiveCritics= 81, neutralCritics= 1, negativeCritics= 0, positiveUsers= 251, neutralUsers= 39, negativeUsers= 11, metaScore= 90, userScore= 84}
+
+Game{name= Rochard, platform= PC, developer= Recoil Games, genre= Action, numberPlayers= , rating= T, releaseDate= Nov 15, 2011, positiveCritics= 14, neutralCritics= 2, negativeCritics= 0, positiveUsers= 24, neutralUsers= 6, negativeUsers= 2, metaScore= 81, userScore= 79}
+
+Game{name= Trine 2, platform= PC, developer= Frozenbyte, Inc., genre= Action, numberPlayers= , rating= E10+, releaseDate= Dec  7, 2011, positiveCritics= 51, neutralCritics= 4, negativeCritics= 0, positiveUsers= 84, neutralUsers= 14, negativeUsers= 4, metaScore= 84, userScore= 84}
+
+Game{name= Battlefield 3: Back to Karkand, platform= PC, developer= EA DICE, genre= Action, numberPlayers= , rating= M, releaseDate= Dec 13, 2011, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 22, neutralUsers= 8, negativeUsers= 6, metaScore= 86, userScore= 72}
+
+Game{name= VVVVVV, platform= 3DS, developer= Terry Cavanagh, genre= Action, numberPlayers= 1 Player, rating= E, releaseDate= Dec 29, 2011, positiveCritics= 18, neutralCritics= 1, negativeCritics= 0, positiveUsers= 9, neutralUsers= 8, negativeUsers= 0, metaScore= 83, userScore= 80}
+
+Game{name= Mutant Mudds, platform= 3DS, developer= Renegade Kid, genre= Action, numberPlayers= 1 Player, rating= E, releaseDate= Jan 26, 2012, positiveCritics= 18, neutralCritics= 7, negativeCritics= 0, positiveUsers= 15, neutralUsers= 3, negativeUsers= 3, metaScore= 80, userScore= 68}
+
+Game{name= BlazBlue: Continuum Shift Extend, platform= VITA, developer= Arc System Works, genre= Action, numberPlayers= Up to 6 , rating= T, releaseDate= Feb 14, 2012, positiveCritics= 26, neutralCritics= 2, negativeCritics= 0, positiveUsers= 11, neutralUsers= 2, negativeUsers= 0, metaScore= 83, userScore= 75}
+
+Game{name= Ultimate Marvel vs. Capcom 3, platform= VITA, developer= Capcom, genre= Action, numberPlayers= , rating= T, releaseDate= Feb 15, 2012, positiveCritics= 41, neutralCritics= 7, negativeCritics= 0, positiveUsers= 18, neutralUsers= 3, negativeUsers= 1, metaScore= 80, userScore= 78}
+
+Game{name= Tales From Space: Mutant Blobs Attack, platform= VITA, developer= DrinkBox Studios, genre= Action, numberPlayers= , rating= E10+, releaseDate= Feb 21, 2012, positiveCritics= 30, neutralCritics= 0, negativeCritics= 0, positiveUsers= 30, neutralUsers= 3, negativeUsers= 0, metaScore= 86, userScore= 83}
+
+Game{name= Vessel, platform= PC, developer= Strange Loop Games, genre= Action, numberPlayers= , rating= E, releaseDate= Mar  1, 2012, positiveCritics= 22, neutralCritics= 4, negativeCritics= 0, positiveUsers= 18, neutralUsers= 8, negativeUsers= 0, metaScore= 81, userScore= 78}
+
+Game{name= Rayman Origins, platform= PC, developer= UBlart Montpellier, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Mar 29, 2012, positiveCritics= 11, neutralCritics= 0, negativeCritics= 0, positiveUsers= 52, neutralUsers= 4, negativeUsers= 5, metaScore= 86, userScore= 84}
+
+Game{name= Tribes: Ascend, platform= PC, developer= Hi-Rez Studios, genre= Action, numberPlayers= , rating= T, releaseDate= Apr 12, 2012, positiveCritics= 29, neutralCritics= 1, negativeCritics= 0, positiveUsers= 146, neutralUsers= 13, negativeUsers= 23, metaScore= 86, userScore= 78}
+
+Game{name= The Walking Dead: Episode 1 - A New Day, platform= PC, developer= Telltale Games, genre= Action, numberPlayers= , rating= M, releaseDate= Apr 24, 2012, positiveCritics= 33, neutralCritics= 7, negativeCritics= 0, positiveUsers= 116, neutralUsers= 25, negativeUsers= 22, metaScore= 82, userScore= 84}
+
+Game{name= Mortal Kombat, platform= VITA, developer= NetherRealm Studios, genre= Action, numberPlayers= , rating= M, releaseDate= May  1, 2012, positiveCritics= 47, neutralCritics= 4, negativeCritics= 0, positiveUsers= 50, neutralUsers= 6, negativeUsers= 2, metaScore= 85, userScore= 78}
+
+Game{name= Max Payne 3, platform= PC, developer= Rockstar Games, Rockstar Studios, genre= Action, numberPlayers= , rating= M, releaseDate= May 31, 2012, positiveCritics= 28, neutralCritics= 2, negativeCritics= 0, positiveUsers= 277, neutralUsers= 109, negativeUsers= 135, metaScore= 87, userScore= 77}
+
+Game{name= Gravity Rush, platform= VITA, developer= SCE Japan Studio, genre= Action, numberPlayers= , rating= T, releaseDate= Jun 12, 2012, positiveCritics= 62, neutralCritics= 11, negativeCritics= 0, positiveUsers= 134, neutralUsers= 20, negativeUsers= 0, metaScore= 83, userScore= 86}
+
+Game{name= La-Mulana (Remake), platform= PC, developer= Nigoro, genre= Action, numberPlayers= , rating= , releaseDate= Jul 13, 2012, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 13, neutralUsers= 2, negativeUsers= 9, metaScore= 80, userScore= 72}
+
+Game{name= Orcs Must Die! 2, platform= PC, developer= Robot Entertainment, genre= Action, numberPlayers= , rating= T, releaseDate= Jul 30, 2012, positiveCritics= 39, neutralCritics= 4, negativeCritics= 0, positiveUsers= 66, neutralUsers= 24, negativeUsers= 3, metaScore= 83, userScore= 79}
+
+Game{name= Sound Shapes, platform= VITA, developer= SCEA, genre= Action, numberPlayers= , rating= E, releaseDate= Aug  7, 2012, positiveCritics= 46, neutralCritics= 9, negativeCritics= 0, positiveUsers= 25, neutralUsers= 9, negativeUsers= 2, metaScore= 84, userScore= 78}
+
+Game{name= Counter-Strike: Global Offensive, platform= PC, developer= Valve Software, Hidden Path Entertainment, genre= Action, numberPlayers= , rating= M, releaseDate= Aug 21, 2012, positiveCritics= 34, neutralCritics= 4, negativeCritics= 0, positiveUsers= 406, neutralUsers= 118, negativeUsers= 155, metaScore= 83, userScore= 75}
+
+Game{name= Battlefield 3: Armored Kill, platform= PC, developer= EA DICE, genre= Action, numberPlayers= , rating= M, releaseDate= Sep 11, 2012, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 6, neutralUsers= 0, negativeUsers= 2, metaScore= 87, userScore= 71}
+
+Game{name= Black Mesa, platform= PC, developer= Black Mesa Modification Team, genre= Action, numberPlayers= Online Multiplayer, rating= , releaseDate= Sep 14, 2012, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 98, neutralUsers= 6, negativeUsers= 3, metaScore= 86, userScore= 89}
+
+Game{name= Borderlands 2, platform= PC, developer= Gearbox Software, genre= Action, numberPlayers= Up to 4 , rating= M, releaseDate= Sep 17, 2012, positiveCritics= 37, neutralCritics= 1, negativeCritics= 0, positiveUsers= 400, neutralUsers= 90, negativeUsers= 58, metaScore= 89, userScore= 82}
+
+Game{name= LittleBigPlanet PS Vita, platform= VITA, developer= Tarsier Studios, Double Eleven, genre= Action, numberPlayers= Up to 4 , rating= E, releaseDate= Sep 18, 2012, positiveCritics= 70, neutralCritics= 1, negativeCritics= 0, positiveUsers= 60, neutralUsers= 4, negativeUsers= 2, metaScore= 88, userScore= 86}
+
+Game{name= Mark of the Ninja, platform= PC, developer= Klei Entertainment, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct 16, 2012, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 124, neutralUsers= 12, negativeUsers= 13, metaScore= 91, userScore= 80}
+
+Game{name= 'Borderlands 2: Captain Scarlett and Her Pirate''s Booty', platform= PC, developer= Gearbox Software, genre= Action, numberPlayers= , rating= M, releaseDate= Oct 16, 2012, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 4, neutralUsers= 4, negativeUsers= 2, metaScore= 80, userScore= 74}
+
+Game{name= Hotline Miami, platform= PC, developer= Dennaton, genre= Action, numberPlayers= , rating= M, releaseDate= Oct 23, 2012, positiveCritics= 48, neutralCritics= 2, negativeCritics= 1, positiveUsers= 214, neutralUsers= 32, negativeUsers= 18, metaScore= 85, userScore= 86}
+
+Game{name= Pinball FX 2, platform= PC, developer= Zen Studios, genre= Action, numberPlayers= 1-4 , rating= E, releaseDate= Oct 27, 2012, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 24, neutralUsers= 3, negativeUsers= 2, metaScore= 84, userScore= 77}
+
+Game{name= Natural Selection 2, platform= PC, developer= Unknown Worlds Entertainment, genre= Action, numberPlayers= Online Multiplayer, rating= , releaseDate= Oct 30, 2012, positiveCritics= 24, neutralCritics= 4, negativeCritics= 0, positiveUsers= 177, neutralUsers= 27, negativeUsers= 12, metaScore= 80, userScore= 85}
+
+Game{name= 'Trine 2: Director''s Cut', platform= WIIU, developer= Frozenbyte, Inc., genre= Action, numberPlayers= , rating= E10+, releaseDate= Nov 18, 2012, positiveCritics= 22, neutralCritics= 3, negativeCritics= 0, positiveUsers= 11, neutralUsers= 1, negativeUsers= 0, metaScore= 84, userScore= 80}
+
+Game{name= New Super Mario Bros. U, platform= WIIU, developer= Nintendo, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Nov 18, 2012, positiveCritics= 65, neutralCritics= 5, negativeCritics= 0, positiveUsers= 126, neutralUsers= 39, negativeUsers= 11, metaScore= 84, userScore= 80}
+
+Game{name= Tekken Tag Tournament 2: Wii U Edition, platform= WIIU, developer= Namco Bandai Games, genre= Action, numberPlayers= Up to 4 , rating= T, releaseDate= Nov 18, 2012, positiveCritics= 26, neutralCritics= 2, negativeCritics= 0, positiveUsers= 13, neutralUsers= 1, negativeUsers= 1, metaScore= 83, userScore= 80}
+
+Game{name= Call of Duty: Black Ops II, platform= WIIU, developer= Treyarch, genre= Action, numberPlayers= , rating= M, releaseDate= Nov 18, 2012, positiveCritics= 26, neutralCritics= 4, negativeCritics= 1, positiveUsers= 34, neutralUsers= 10, negativeUsers= 4, metaScore= 81, userScore= 69}
+
+Game{name= Mighty Switch Force! Hyper Drive Edition, platform= WIIU, developer= WayForward, genre= Action, numberPlayers= , rating= E10+, releaseDate= Nov 18, 2012, positiveCritics= 16, neutralCritics= 3, negativeCritics= 0, positiveUsers= 8, neutralUsers= 4, negativeUsers= 1, metaScore= 80, userScore= 77}
+
+Game{name= Skylanders Giants, platform= WIIU, developer= Vicarious Visions, genre= Action, numberPlayers= , rating= E10+, releaseDate= Nov 18, 2012, positiveCritics= 5, neutralCritics= 3, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 1, metaScore= 80, userScore= 62}
+
+Game{name= Sine Mora, platform= VITA, developer= Digital Reality, Grasshopper Manufacture, genre= Action, numberPlayers= , rating= M, releaseDate= Nov 20, 2012, positiveCritics= 15, neutralCritics= 1, negativeCritics= 0, positiveUsers= 4, neutralUsers= 6, negativeUsers= 0, metaScore= 85, userScore= 72}
+
+Game{name= 'Borderlands 2: Mr. Torgue''s Campaign of Carnage', platform= PC, developer= Gearbox Software, genre= Action, numberPlayers= , rating= M, releaseDate= Nov 20, 2012, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 7, neutralUsers= 4, negativeUsers= 0, metaScore= 82, userScore= 74}
+
+Game{name= Stealth Bastard Deluxe, platform= PC, developer= Curve Studios, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Nov 28, 2012, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 4, neutralUsers= 2, negativeUsers= 0, metaScore= 80, userScore= 78}
+
+Game{name= Far Cry 3, platform= PC, developer= Ubisoft Montreal, genre= Action, numberPlayers= Up to 4 , rating= M, releaseDate= Dec  4, 2012, positiveCritics= 42, neutralCritics= 1, negativeCritics= 0, positiveUsers= 465, neutralUsers= 116, negativeUsers= 87, metaScore= 88, userScore= 83}
+
+Game{name= Gunman Clive, platform= 3DS, developer= Horberg Productions, genre= Action, numberPlayers= , rating= E10+, releaseDate= Jan  3, 2013, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 20, neutralUsers= 5, negativeUsers= 0, metaScore= 82, userScore= 83}
+
+Game{name= DmC: Devil May Cry, platform= PC, developer= Ninja Theory, QLOC, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jan 24, 2013, positiveCritics= 22, neutralCritics= 0, negativeCritics= 0, positiveUsers= 203, neutralUsers= 65, negativeUsers= 44, metaScore= 85, userScore= 69}
+
+Game{name= Bit.Trip Presents...Runner2: Future Legend of Rhythm Alien, platform= PC, developer= Gaijin Games, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Feb 26, 2013, positiveCritics= 23, neutralCritics= 0, negativeCritics= 0, positiveUsers= 20, neutralUsers= 7, negativeUsers= 1, metaScore= 85, userScore= 81}
+
+Game{name= Bit.Trip Presents...Runner2: Future Legend of Rhythm Alien, platform= WIIU, developer= Gaijin Games, genre= Action, numberPlayers= , rating= T, releaseDate= Feb 26, 2013, positiveCritics= 16, neutralCritics= 2, negativeCritics= 0, positiveUsers= 13, neutralUsers= 1, negativeUsers= 0, metaScore= 84, userScore= 81}
+
+Game{name= Brutal Legend, platform= PC, developer= Double Fine Productions, genre= Action, numberPlayers= , rating= M, releaseDate= Feb 26, 2013, positiveCritics= 14, neutralCritics= 3, negativeCritics= 0, positiveUsers= 48, neutralUsers= 19, negativeUsers= 10, metaScore= 80, userScore= 78}
+
+Game{name= Dead or Alive 5 Plus, platform= VITA, developer= Team Ninja, genre= Action, numberPlayers= 2, rating= M, releaseDate= Mar 19, 2013, positiveCritics= 31, neutralCritics= 5, negativeCritics= 0, positiveUsers= 14, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 80}
+
+Game{name= BioShock Infinite, platform= PC, developer= Irrational Games, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Mar 25, 2013, positiveCritics= 68, neutralCritics= 0, negativeCritics= 0, positiveUsers= 1105, neutralUsers= 297, negativeUsers= 147, metaScore= 94, userScore= 86}
+
+Game{name= Guacamelee!, platform= VITA, developer= DrinkBox Studios, genre= Action, numberPlayers= , rating= E10+, releaseDate= Apr  9, 2013, positiveCritics= 22, neutralCritics= 0, negativeCritics= 0, positiveUsers= 35, neutralUsers= 3, negativeUsers= 1, metaScore= 87, userScore= 83}
+
+Game{name= Fez, platform= PC, developer= Polytron Corp., genre= Action, numberPlayers= 1 Player, rating= E, releaseDate= May  1, 2013, positiveCritics= 11, neutralCritics= 0, negativeCritics= 0, positiveUsers= 104, neutralUsers= 36, negativeUsers= 31, metaScore= 91, userScore= 67}
+
+Game{name= Far Cry 3: Blood Dragon, platform= PC, developer= Ubisoft Montreal, genre= Action, numberPlayers= , rating= M, releaseDate= May  1, 2013, positiveCritics= 26, neutralCritics= 5, negativeCritics= 0, positiveUsers= 119, neutralUsers= 25, negativeUsers= 15, metaScore= 81, userScore= 81}
+
+Game{name= Metro: Last Light, platform= PC, developer= 4A Games, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= May 13, 2013, positiveCritics= 60, neutralCritics= 11, negativeCritics= 0, positiveUsers= 364, neutralUsers= 67, negativeUsers= 41, metaScore= 82, userScore= 85}
+
+Game{name= Donkey Kong Country Returns 3D, platform= 3DS, developer= Monster Games Inc., genre= Action, numberPlayers= , rating= E, releaseDate= May 24, 2013, positiveCritics= 55, neutralCritics= 7, negativeCritics= 0, positiveUsers= 38, neutralUsers= 2, negativeUsers= 5, metaScore= 83, userScore= 83}
+
+Game{name= The Swapper, platform= PC, developer= Facepalm Games, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= May 30, 2013, positiveCritics= 35, neutralCritics= 1, negativeCritics= 0, positiveUsers= 85, neutralUsers= 15, negativeUsers= 0, metaScore= 87, userScore= 86}
+
+Game{name= Rising Storm, platform= PC, developer= Antimatter Games, genre= Action, numberPlayers= , rating= , releaseDate= May 30, 2013, positiveCritics= 20, neutralCritics= 1, negativeCritics= 0, positiveUsers= 51, neutralUsers= 5, negativeUsers= 5, metaScore= 82, userScore= 85}
+
+Game{name= Mutant Mudds Deluxe, platform= WIIU, developer= Renegade Kid, genre= Action, numberPlayers= , rating= E, releaseDate= Jun 13, 2013, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 4, neutralUsers= 2, negativeUsers= 0, metaScore= 84, userScore= 73}
+
+Game{name= Dungeons & Dragons: Chronicles of Mystara, platform= PC, developer= Iron Galaxy Studios, genre= Action, numberPlayers= , rating= T, releaseDate= Jun 18, 2013, positiveCritics= 7, neutralCritics= 2, negativeCritics= 0, positiveUsers= 2, neutralUsers= 3, negativeUsers= 3, metaScore= 80, userScore= 68}
+
+Game{name= Hotline Miami, platform= VITA, developer= Abstraction Games, Dennaton, genre= Action, numberPlayers= , rating= M, releaseDate= Jun 25, 2013, positiveCritics= 26, neutralCritics= 1, negativeCritics= 0, positiveUsers= 37, neutralUsers= 3, negativeUsers= 0, metaScore= 85, userScore= 84}
+
+Game{name= Velocity Ultra, platform= VITA, developer= FuturLab, genre= Action, numberPlayers= , rating= E, releaseDate= Jul  2, 2013, positiveCritics= 18, neutralCritics= 0, negativeCritics= 0, positiveUsers= 11, neutralUsers= 1, negativeUsers= 0, metaScore= 87, userScore= 79}
+
+Game{name= Mortal Kombat Komplete Edition, platform= PC, developer= NetherRealm Studios, genre= Action, numberPlayers= , rating= M, releaseDate= Jul  3, 2013, positiveCritics= 16, neutralCritics= 2, negativeCritics= 0, positiveUsers= 77, neutralUsers= 13, negativeUsers= 3, metaScore= 81, userScore= 87}
+
+Game{name= Star Wars Pinball, platform= WIIU, developer= Zen Studios, genre= Action, numberPlayers= , rating= E10+, releaseDate= Jul 11, 2013, positiveCritics= 12, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 0, metaScore= 83, userScore= 72}
+
+Game{name= Spelunky, platform= PC, developer= Derek Yu, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Aug  8, 2013, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 51, neutralUsers= 7, negativeUsers= 23, metaScore= 90, userScore= 72}
+
+Game{name= Guacamelee! Gold Edition, platform= PC, developer= DrinkBox Studios, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Aug  8, 2013, positiveCritics= 21, neutralCritics= 1, negativeCritics= 0, positiveUsers= 25, neutralUsers= 12, negativeUsers= 4, metaScore= 88, userScore= 73}
+
+Game{name= SteamWorld Dig, platform= 3DS, developer= Image & Form, genre= Action, numberPlayers= 1 Player, rating= E10+, releaseDate= Aug  8, 2013, positiveCritics= 26, neutralCritics= 5, negativeCritics= 0, positiveUsers= 23, neutralUsers= 0, negativeUsers= 1, metaScore= 82, userScore= 80}
+
+Game{name= War Thunder, platform= PC, developer= Gaijin Entertainment, genre= Action, numberPlayers= , rating= T, releaseDate= Aug 15, 2013, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 89, neutralUsers= 40, negativeUsers= 122, metaScore= 81, userScore= 65}
+
+Game{name= Spelunky, platform= VITA, developer= Mossmouth, genre= Action, numberPlayers= , rating= T, releaseDate= Aug 27, 2013, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 10, neutralUsers= 3, negativeUsers= 2, metaScore= 88, userScore= 80}
+
+Game{name= Rayman Legends, platform= WIIU, developer= Ubisoft Montpellier, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Sep  3, 2013, positiveCritics= 34, neutralCritics= 1, negativeCritics= 0, positiveUsers= 77, neutralUsers= 4, negativeUsers= 0, metaScore= 92, userScore= 88}
+
+Game{name= Rayman Legends, platform= VITA, developer= Ubisoft Montpellier, genre= Action, numberPlayers= 2, rating= E10+, releaseDate= Sep  3, 2013, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 13, neutralUsers= 5, negativeUsers= 4, metaScore= 87, userScore= 84}
+
+Game{name= Valdis Story: Abyssal City, platform= PC, developer= Endless Fluff, genre= Action, numberPlayers= , rating= , releaseDate= Sep  8, 2013, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 19, neutralUsers= 8, negativeUsers= 4, metaScore= 83, userScore= 76}
+
+Game{name= Pac-Man Championship Edition DX +, platform= PC, developer= Namco Bandai Games, genre= Action, numberPlayers= , rating= E, releaseDate= Sep 24, 2013, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 12, neutralUsers= 3, negativeUsers= 5, metaScore= 86, userScore= 75}
+
+Game{name= Skylanders Swap Force, platform= WIIU, developer= Vicarious Visions, genre= Action, numberPlayers= , rating= E10+, releaseDate= Oct 13, 2013, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 6, neutralUsers= 2, negativeUsers= 1, metaScore= 89, userScore= 60}
+
+Game{name= The Stanley Parable, platform= PC, developer= Davey Wreden, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Oct 17, 2013, positiveCritics= 46, neutralCritics= 1, negativeCritics= 0, positiveUsers= 287, neutralUsers= 66, negativeUsers= 90, metaScore= 88, userScore= 80}
+
+Game{name= Rocksmith 2014 Edition, platform= PC, developer= Ubisoft, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Oct 22, 2013, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 27, neutralUsers= 5, negativeUsers= 8, metaScore= 89, userScore= 79}
+
+Game{name= Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst, platform= PC, developer= CyberConnect2, genre= Action, numberPlayers= Online Multiplayer, rating= T, releaseDate= Oct 24, 2013, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 28, neutralUsers= 1, negativeUsers= 7, metaScore= 80, userScore= 81}
+
+Game{name= Battlefield 4, platform= PC, developer= EA DICE, genre= Action, numberPlayers= , rating= M, releaseDate= Oct 29, 2013, positiveCritics= 42, neutralCritics= 10, negativeCritics= 0, positiveUsers= 339, neutralUsers= 172, negativeUsers= 448, metaScore= 81, userScore= 61}
+
+Game{name= Battlefield 4, platform= PS4, developer= EA DICE, genre= Action, numberPlayers= Up to 64 , rating= M, releaseDate= Nov 12, 2013, positiveCritics= 17, neutralCritics= 1, negativeCritics= 0, positiveUsers= 191, neutralUsers= 93, negativeUsers= 104, metaScore= 85, userScore= 70}
+
+Game{name= Injustice: Gods Among Us - Ultimate Edition, platform= PS4, developer= NetherRealm Studios, genre= Action, numberPlayers= , rating= T, releaseDate= Nov 12, 2013, positiveCritics= 19, neutralCritics= 3, negativeCritics= 0, positiveUsers= 32, neutralUsers= 23, negativeUsers= 3, metaScore= 80, userScore= 72}
+
+Game{name= Terraria, platform= VITA, developer= Engine Software, genre= Action, numberPlayers= Up to 8 , rating= T, releaseDate= Dec 17, 2013, positiveCritics= 16, neutralCritics= 1, negativeCritics= 0, positiveUsers= 15, neutralUsers= 3, negativeUsers= 0, metaScore= 85, userScore= 79}
+
+Game{name= Bit.Trip Presents...Runner2: Future Legend of Rhythm Alien, platform= VITA, developer= Gaijin Games, genre= Action, numberPlayers= , rating= T, releaseDate= Dec 17, 2013, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 0, metaScore= 83, userScore= 72}
+
+Game{name= The Pinball Arcade, platform= PS4, developer= Farsight Studios, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Dec 17, 2013, positiveCritics= 14, neutralCritics= 2, negativeCritics= 0, positiveUsers= 13, neutralUsers= 2, negativeUsers= 2, metaScore= 82, userScore= 68}
+
+Game{name= The Walking Dead: Season Two - A Telltale Games Series, platform= PC, developer= Telltale Games, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Dec 17, 2013, positiveCritics= 10, neutralCritics= 4, negativeCritics= 0, positiveUsers= 41, neutralUsers= 13, negativeUsers= 5, metaScore= 80, userScore= 83}
+
+Game{name= ZEN Pinball 2, platform= PS4, developer= Zen Studios, genre= Action, numberPlayers= , rating= E10+, releaseDate= Dec 24, 2013, positiveCritics= 8, neutralCritics= 4, negativeCritics= 0, positiveUsers= 13, neutralUsers= 4, negativeUsers= 2, metaScore= 82, userScore= 70}
+
+Game{name= Metal Gear Rising: Revengeance, platform= PC, developer= PlatinumGames, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jan  9, 2014, positiveCritics= 26, neutralCritics= 1, negativeCritics= 0, positiveUsers= 78, neutralUsers= 23, negativeUsers= 18, metaScore= 83, userScore= 80}
+
+Game{name= TxK, platform= VITA, developer= Llamasoft, genre= Action, numberPlayers= , rating= E, releaseDate= Feb 11, 2014, positiveCritics= 35, neutralCritics= 3, negativeCritics= 0, positiveUsers= 10, neutralUsers= 3, negativeUsers= 1, metaScore= 84, userScore= 72}
+
+Game{name= Gunslugs, platform= VITA, developer= Abstraction Games, genre= Action, numberPlayers= , rating= T, releaseDate= Feb 18, 2014, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 2, metaScore= 81, userScore= 72}
+
+Game{name= Hatsune Miku: Project Diva f, platform= VITA, developer= Sega, genre= Action, numberPlayers= , rating= T, releaseDate= Mar  4, 2014, positiveCritics= 7, neutralCritics= 3, negativeCritics= 0, positiveUsers= 10, neutralUsers= 0, negativeUsers= 1, metaScore= 81, userScore= 80}
+
+Game{name= TowerFall Ascension, platform= PC, developer= Matt Thorson, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Mar 11, 2014, positiveCritics= 16, neutralCritics= 0, negativeCritics= 0, positiveUsers= 16, neutralUsers= 3, negativeUsers= 2, metaScore= 87, userScore= 68}
+
+Game{name= TowerFall Ascension, platform= PS4, developer= Matt Thorson, genre= Action, numberPlayers= , rating= E10+, releaseDate= Mar 11, 2014, positiveCritics= 30, neutralCritics= 1, negativeCritics= 0, positiveUsers= 54, neutralUsers= 6, negativeUsers= 9, metaScore= 87, userScore= 70}
+
+Game{name= Luftrausers, platform= VITA, developer= Vlambeer, genre= Action, numberPlayers= , rating= E, releaseDate= Mar 18, 2014, positiveCritics= 14, neutralCritics= 3, negativeCritics= 0, positiveUsers= 10, neutralUsers= 7, negativeUsers= 0, metaScore= 83, userScore= 74}
+
+Game{name= SteamWorld Dig, platform= PS4, developer= Image & Form, genre= Action, numberPlayers= , rating= E10+, releaseDate= Mar 18, 2014, positiveCritics= 15, neutralCritics= 3, negativeCritics= 0, positiveUsers= 17, neutralUsers= 8, negativeUsers= 3, metaScore= 82, userScore= 73}
+
+Game{name= Fez, platform= PS4, developer= Polytron Corp., genre= Action, numberPlayers= 1 Player, rating= E, releaseDate= Mar 25, 2014, positiveCritics= 17, neutralCritics= 0, negativeCritics= 0, positiveUsers= 24, neutralUsers= 20, negativeUsers= 9, metaScore= 90, userScore= 63}
+
+Game{name= Child of Light, platform= WIIU, developer= Ubisoft Montreal, genre= Action, numberPlayers= , rating= E10+, releaseDate= Apr 29, 2014, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 29, neutralUsers= 5, negativeUsers= 0, metaScore= 84, userScore= 85}
+
+Game{name= Child of Light, platform= PS4, developer= Ubisoft Montreal, genre= Action, numberPlayers= , rating= E10+, releaseDate= Apr 29, 2014, positiveCritics= 41, neutralCritics= 5, negativeCritics= 0, positiveUsers= 70, neutralUsers= 18, negativeUsers= 5, metaScore= 82, userScore= 80}
+
+Game{name= Star Wars Pinball: Heroes Within, platform= PS4, developer= Zen Studios, genre= Action, numberPlayers= , rating= E10+, releaseDate= Apr 29, 2014, positiveCritics= 7, neutralCritics= 2, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 1, metaScore= 80, userScore= 52}
+
+Game{name= Child of Light, platform= XONE, developer= Ubisoft Montreal, genre= Action, numberPlayers= , rating= E10+, releaseDate= Apr 30, 2014, positiveCritics= 28, neutralCritics= 4, negativeCritics= 0, positiveUsers= 31, neutralUsers= 7, negativeUsers= 2, metaScore= 82, userScore= 76}
+
+Game{name= Stick it to the Man!, platform= WIIU, developer= Zoink!, genre= Action, numberPlayers= , rating= T, releaseDate= May  1, 2014, positiveCritics= 10, neutralCritics= 1, negativeCritics= 0, positiveUsers= 4, neutralUsers= 2, negativeUsers= 0, metaScore= 81, userScore= 75}
+
+Game{name= Super Time Force, platform= XONE, developer= Capy Games, genre= Action, numberPlayers= , rating= T, releaseDate= May 14, 2014, positiveCritics= 30, neutralCritics= 6, negativeCritics= 0, positiveUsers= 7, neutralUsers= 3, negativeUsers= 1, metaScore= 80, userScore= 66}
+
+Game{name= BattleBlock Theater, platform= PC, developer= The Behemoth, genre= Action, numberPlayers= Online Multiplayer, rating= T, releaseDate= May 15, 2014, positiveCritics= 17, neutralCritics= 0, negativeCritics= 0, positiveUsers= 24, neutralUsers= 4, negativeUsers= 1, metaScore= 85, userScore= 79}
+
+Game{name= Astebreed, platform= PC, developer= Edelweiss, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= May 30, 2014, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 15, neutralUsers= 2, negativeUsers= 2, metaScore= 86, userScore= 73}
+
+Game{name= PixelJunk Shooter Ultimate, platform= PS4, developer= Double Eleven, genre= Action, numberPlayers= , rating= E, releaseDate= Jun  3, 2014, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 8, neutralUsers= 7, negativeUsers= 5, metaScore= 82, userScore= 72}
+
+Game{name= Resogun: Heroes, platform= PS4, developer= Housemarque, genre= Action, numberPlayers= , rating= E10+, releaseDate= Jun 24, 2014, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 0, metaScore= 86, userScore= 73}
+
+Game{name= Guacamelee! Super Turbo Championship Edition, platform= PS4, developer= DrinkBox Studios, genre= Action, numberPlayers= , rating= E10+, releaseDate= Jul  1, 2014, positiveCritics= 30, neutralCritics= 0, negativeCritics= 0, positiveUsers= 31, neutralUsers= 8, negativeUsers= 2, metaScore= 87, userScore= 76}
+
+Game{name= Guacamelee! Super Turbo Championship Edition, platform= WIIU, developer= DrinkBox Studios, genre= Action, numberPlayers= , rating= E10+, releaseDate= Jul  2, 2014, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 19, neutralUsers= 1, negativeUsers= 0, metaScore= 90, userScore= 77}
+
+Game{name= Guacamelee! Super Turbo Championship Edition, platform= XONE, developer= DrinkBox Studios, genre= Action, numberPlayers= , rating= E10+, releaseDate= Jul  2, 2014, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 21, neutralUsers= 3, negativeUsers= 3, metaScore= 88, userScore= 70}
+
+Game{name= Freedom Planet, platform= PC, developer= GalaxyTrail, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Jul 21, 2014, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 30, neutralUsers= 0, negativeUsers= 1, metaScore= 83, userScore= 83}
+
+Game{name= Rogue Legacy, platform= VITA, developer= Cellar Door Games, genre= Action, numberPlayers= 1 Player, rating= E10+, releaseDate= Jul 29, 2014, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 5, neutralUsers= 3, negativeUsers= 2, metaScore= 85, userScore= 78}
+
+Game{name= Rogue Legacy, platform= PS4, developer= Cellar Door Games, genre= Action, numberPlayers= 1 Player, rating= E10+, releaseDate= Jul 29, 2014, positiveCritics= 21, neutralCritics= 1, negativeCritics= 0, positiveUsers= 26, neutralUsers= 6, negativeUsers= 1, metaScore= 85, userScore= 77}
+
+Game{name= The Swapper, platform= PS4, developer= Facepalm Games, genre= Action, numberPlayers= , rating= E10+, releaseDate= Aug  5, 2014, positiveCritics= 24, neutralCritics= 4, negativeCritics= 0, positiveUsers= 12, neutralUsers= 8, negativeUsers= 2, metaScore= 83, userScore= 76}
+
+Game{name= Super Time Force Ultra, platform= PC, developer= Capy Games, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Aug 25, 2014, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 6, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 65}
+
+Game{name= Metro Redux, platform= PC, developer= 4A Games, genre= Action, numberPlayers= , rating= M, releaseDate= Aug 26, 2014, positiveCritics= 28, neutralCritics= 0, negativeCritics= 0, positiveUsers= 18, neutralUsers= 5, negativeUsers= 0, metaScore= 84, userScore= 76}
+
+Game{name= Metro Redux, platform= XONE, developer= 4A Games, genre= Action, numberPlayers= , rating= M, releaseDate= Aug 26, 2014, positiveCritics= 17, neutralCritics= 2, negativeCritics= 0, positiveUsers= 34, neutralUsers= 3, negativeUsers= 5, metaScore= 84, userScore= 79}
+
+Game{name= Metro Redux, platform= PS4, developer= 4A Games, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Aug 26, 2014, positiveCritics= 27, neutralCritics= 3, negativeCritics= 0, positiveUsers= 53, neutralUsers= 16, negativeUsers= 2, metaScore= 83, userScore= 79}
+
+Game{name= ZEN Pinball 2: The Walking Dead, platform= PS4, developer= Zen Studios, genre= Action, numberPlayers= , rating= E10+, releaseDate= Aug 26, 2014, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 1, metaScore= 83, userScore= 60}
+
+Game{name= Lethal League, platform= PC, developer= Reptile, genre= Action, numberPlayers= , rating= , releaseDate= Aug 27, 2014, positiveCritics= 9, neutralCritics= 2, negativeCritics= 0, positiveUsers= 8, neutralUsers= 2, negativeUsers= 0, metaScore= 82, userScore= 77}
+
+Game{name= SteamWorld Dig, platform= WIIU, developer= Image & Form, genre= Action, numberPlayers= , rating= E10+, releaseDate= Aug 28, 2014, positiveCritics= 11, neutralCritics= 2, negativeCritics= 0, positiveUsers= 7, neutralUsers= 5, negativeUsers= 0, metaScore= 83, userScore= 80}
+
+Game{name= Velocity 2X, platform= PS4, developer= FuturLab, genre= Action, numberPlayers= , rating= E10+, releaseDate= Sep  2, 2014, positiveCritics= 36, neutralCritics= 2, negativeCritics= 0, positiveUsers= 18, neutralUsers= 12, negativeUsers= 7, metaScore= 86, userScore= 69}
+
+Game{name= Danganronpa 2: Goodbye Despair, platform= VITA, developer= Spike Chunsoft, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Sep  2, 2014, positiveCritics= 44, neutralCritics= 6, negativeCritics= 0, positiveUsers= 14, neutralUsers= 1, negativeUsers= 0, metaScore= 81, userScore= 88}
+
+Game{name= Theatrhythm Final Fantasy: Curtain Call, platform= 3DS, developer= Indies Zero , genre= Action, numberPlayers= 2, rating= T, releaseDate= Sep 16, 2014, positiveCritics= 47, neutralCritics= 5, negativeCritics= 0, positiveUsers= 7, neutralUsers= 3, negativeUsers= 1, metaScore= 83, userScore= 90}
+
+Game{name= Outland, platform= PC, developer= Housemarque, Knockout Games, genre= Action, numberPlayers= , rating= E10+, releaseDate= Sep 29, 2014, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 2, metaScore= 83, userScore= 73}
+
+Game{name= Pix the Cat, platform= PS4, developer= Pasta Games, genre= Action, numberPlayers= , rating= E, releaseDate= Oct  7, 2014, positiveCritics= 10, neutralCritics= 2, negativeCritics= 0, positiveUsers= 8, neutralUsers= 7, negativeUsers= 4, metaScore= 80, userScore= 60}
+
+Game{name= ZEN Pinball 2: South Park: Super-Sweet Pinball, platform= PS4, developer= Zen Studios, genre= Action, numberPlayers= , rating= E10+, releaseDate= Oct 14, 2014, positiveCritics= 12, neutralCritics= 1, negativeCritics= 0, positiveUsers= 0, neutralUsers= 1, negativeUsers= 2, metaScore= 84, userScore= 60}
+
+Game{name= Bayonetta, platform= WIIU, developer= Bee Tribe, genre= Action, numberPlayers= , rating= M, releaseDate= Oct 24, 2014, positiveCritics= 18, neutralCritics= 0, negativeCritics= 0, positiveUsers= 36, neutralUsers= 2, negativeUsers= 1, metaScore= 86, userScore= 88}
+
+Game{name= Stealth Inc 2: A Game of Clones, platform= WIIU, developer= Curve Digital, genre= Action, numberPlayers= , rating= T, releaseDate= Oct 30, 2014, positiveCritics= 18, neutralCritics= 3, negativeCritics= 0, positiveUsers= 3, neutralUsers= 2, negativeUsers= 0, metaScore= 82, userScore= 83}
+
+Game{name= Call of Duty: Advanced Warfare, platform= PS4, developer= Sledgehammer Games, genre= Action, numberPlayers= Up to 18 , rating= M, releaseDate= Nov  3, 2014, positiveCritics= 35, neutralCritics= 4, negativeCritics= 0, positiveUsers= 166, neutralUsers= 110, negativeUsers= 118, metaScore= 83, userScore= 57}
+
+Game{name= Call of Duty: Advanced Warfare, platform= XONE, developer= Sledgehammer Games, genre= Action, numberPlayers= Up to 18 , rating= M, releaseDate= Nov  3, 2014, positiveCritics= 45, neutralCritics= 8, negativeCritics= 0, positiveUsers= 118, neutralUsers= 62, negativeUsers= 96, metaScore= 81, userScore= 55}
+
+Game{name= Pro Evolution Soccer 2015, platform= PS4, developer= Konami, genre= Action, numberPlayers= Up to 22 , rating= E, releaseDate= Nov 11, 2014, positiveCritics= 50, neutralCritics= 6, negativeCritics= 0, positiveUsers= 58, neutralUsers= 14, negativeUsers= 27, metaScore= 82, userScore= 71}
+
+Game{name= This War of Mine, platform= PC, developer= 11 bit studios, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Nov 14, 2014, positiveCritics= 57, neutralCritics= 5, negativeCritics= 0, positiveUsers= 106, neutralUsers= 21, negativeUsers= 12, metaScore= 83, userScore= 84}
+
+Game{name= Far Cry 4, platform= PC, developer= Ubisoft Montreal, genre= Action, numberPlayers= , rating= M, releaseDate= Nov 17, 2014, positiveCritics= 15, neutralCritics= 2, negativeCritics= 0, positiveUsers= 130, neutralUsers= 78, negativeUsers= 66, metaScore= 80, userScore= 68}
+
+Game{name= Far Cry 4, platform= PS4, developer= Ubisoft Montreal, genre= Action, numberPlayers= Up to 10 , rating= M, releaseDate= Nov 18, 2014, positiveCritics= 75, neutralCritics= 8, negativeCritics= 0, positiveUsers= 236, neutralUsers= 106, negativeUsers= 28, metaScore= 85, userScore= 77}
+
+Game{name= Far Cry 4, platform= XONE, developer= Ubisoft Montreal, genre= Action, numberPlayers= Up to 10 , rating= M, releaseDate= Nov 18, 2014, positiveCritics= 14, neutralCritics= 1, negativeCritics= 0, positiveUsers= 55, neutralUsers= 25, negativeUsers= 7, metaScore= 82, userScore= 76}
+
+Game{name= Hatsune Miku: Project Diva F 2nd, platform= VITA, developer= Sega, genre= Action, numberPlayers= , rating= T, releaseDate= Nov 18, 2014, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 7, neutralUsers= 1, negativeUsers= 0, metaScore= 81, userScore= 85}
+
+Game{name= Super Smash Bros. for Wii U, platform= WIIU, developer= Bandai Namco Games, genre= Action, numberPlayers= Up to 4 , rating= E10+, releaseDate= Nov 21, 2014, positiveCritics= 76, neutralCritics= 1, negativeCritics= 0, positiveUsers= 410, neutralUsers= 38, negativeUsers= 14, metaScore= 92, userScore= 89}
+
+Game{name= Geometry Wars 3: Dimensions, platform= PS4, developer= Lucid Games, genre= Action, numberPlayers= Up to 8 , rating= E, releaseDate= Nov 25, 2014, positiveCritics= 23, neutralCritics= 2, negativeCritics= 0, positiveUsers= 7, neutralUsers= 2, negativeUsers= 0, metaScore= 85, userScore= 75}
+
+Game{name= Geometry Wars 3: Dimensions, platform= XONE, developer= Lucid Games, genre= Action, numberPlayers= , rating= E, releaseDate= Nov 26, 2014, positiveCritics= 25, neutralCritics= 2, negativeCritics= 0, positiveUsers= 5, neutralUsers= 3, negativeUsers= 1, metaScore= 82, userScore= 77}
+
+Game{name= Game of Thrones: Episode One - Iron From Ice, platform= XONE, developer= Telltale Games, genre= Action, numberPlayers= , rating= M, releaseDate= Dec  3, 2014, positiveCritics= 11, neutralCritics= 3, negativeCritics= 0, positiveUsers= 12, neutralUsers= 2, negativeUsers= 2, metaScore= 80, userScore= 79}
+
+Game{name= Captain Toad: Treasure Tracker, platform= WIIU, developer= Nintendo EAD Tokyo , genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Dec  5, 2014, positiveCritics= 67, neutralCritics= 11, negativeCritics= 0, positiveUsers= 70, neutralUsers= 6, negativeUsers= 3, metaScore= 81, userScore= 86}
+
+Game{name= Guilty Gear Xrd -SIGN-, platform= PS4, developer= Arc System Works, genre= Action, numberPlayers= , rating= T, releaseDate= Dec 16, 2014, positiveCritics= 29, neutralCritics= 4, negativeCritics= 0, positiveUsers= 17, neutralUsers= 1, negativeUsers= 0, metaScore= 84, userScore= 79}
+
+Game{name= Kalimba, platform= XONE, developer= Press Play, genre= Action, numberPlayers= , rating= E, releaseDate= Dec 17, 2014, positiveCritics= 22, neutralCritics= 4, negativeCritics= 0, positiveUsers= 5, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 74}
+
+Game{name= 'Shantae and the Pirate''s Curse', platform= WIIU, developer= WayForward, genre= Action, numberPlayers= , rating= T, releaseDate= Dec 25, 2014, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 11, neutralUsers= 1, negativeUsers= 0, metaScore= 85, userScore= 88}
+
+Game{name= Joe Danger 2: The Movie, platform= VITA, developer= Four Door Lemon, genre= Action, numberPlayers= , rating= E, releaseDate= Jan 13, 2015, positiveCritics= 10, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 64}
+
+Game{name= 3D After Burner II, platform= 3DS, developer= M2, genre= Action, numberPlayers= , rating= E10+, releaseDate= Jan 15, 2015, positiveCritics= 11, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 1, negativeUsers= 0, metaScore= 81, userScore= 82}
+
+Game{name= Gunman Clive 2, platform= 3DS, developer= Horberg Productions, genre= Action, numberPlayers= , rating= E10+, releaseDate= Jan 20, 2015, positiveCritics= 15, neutralCritics= 5, negativeCritics= 0, positiveUsers= 8, neutralUsers= 3, negativeUsers= 1, metaScore= 80, userScore= 79}
+
+Game{name= Resogun: Defenders, platform= PS4, developer= Housemarque, genre= Action, numberPlayers= , rating= E10+, releaseDate= Feb 17, 2015, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 0, metaScore= 85, userScore= 71}
+
+Game{name= 'Oddworld: Abe''s Oddysee - New ''n'' Tasty', platform= PC, developer= Just Add Water, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Feb 25, 2015, positiveCritics= 12, neutralCritics= 0, negativeCritics= 0, positiveUsers= 9, neutralUsers= 2, negativeUsers= 4, metaScore= 87, userScore= 77}
+
+Game{name= Ori and the Blind Forest, platform= XONE, developer= Moon Studios, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Mar 11, 2015, positiveCritics= 69, neutralCritics= 4, negativeCritics= 0, positiveUsers= 114, neutralUsers= 6, negativeUsers= 9, metaScore= 88, userScore= 86}
+
+Game{name= Ori and the Blind Forest, platform= PC, developer= Moon Studios, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Mar 11, 2015, positiveCritics= 12, neutralCritics= 0, negativeCritics= 0, positiveUsers= 124, neutralUsers= 14, negativeUsers= 3, metaScore= 88, userScore= 87}
+
+Game{name= Game of Thrones: Episode Three - The Sword in the Darkness, platform= XONE, developer= Telltale Games, genre= Action, numberPlayers= , rating= M, releaseDate= Mar 25, 2015, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 0, metaScore= 80, userScore= 78}
+
+Game{name= Stealth Inc 2: A Game of Clones, platform= XONE, developer= Curve Digital, genre= Action, numberPlayers= , rating= T, releaseDate= Apr  3, 2015, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 0, neutralUsers= 1, negativeUsers= 0, metaScore= 82, userScore= 69}
+
+Game{name= Mortal Kombat X, platform= XONE, developer= Warner Bros. Interactive Entertainment, NetherRealm Studios, genre= Action, numberPlayers= Up to 10 , rating= M, releaseDate= Apr 14, 2015, positiveCritics= 21, neutralCritics= 0, negativeCritics= 0, positiveUsers= 64, neutralUsers= 17, negativeUsers= 4, metaScore= 86, userScore= 75}
+
+Game{name= Mortal Kombat X, platform= PS4, developer= Warner Bros. Interactive Entertainment, NetherRealm Studios, genre= Action, numberPlayers= Up to 10 , rating= M, releaseDate= Apr 14, 2015, positiveCritics= 76, neutralCritics= 5, negativeCritics= 0, positiveUsers= 140, neutralUsers= 29, negativeUsers= 14, metaScore= 83, userScore= 78}
+
+Game{name= Westerado: Double Barreled, platform= PC, developer= Ostrich Banditos, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Apr 16, 2015, positiveCritics= 15, neutralCritics= 3, negativeCritics= 0, positiveUsers= 7, neutralUsers= 3, negativeUsers= 1, metaScore= 80, userScore= 76}
+
+Game{name= Shovel Knight, platform= PS4, developer= Yacht Club Games, genre= Action, numberPlayers= , rating= E, releaseDate= Apr 21, 2015, positiveCritics= 18, neutralCritics= 0, negativeCritics= 0, positiveUsers= 39, neutralUsers= 4, negativeUsers= 6, metaScore= 90, userScore= 77}
+
+Game{name= Shovel Knight, platform= XONE, developer= Yacht Club Games, genre= Action, numberPlayers= , rating= E, releaseDate= Apr 21, 2015, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 0, metaScore= 86, userScore= 77}
+
+Game{name= Ziggurat, platform= PS4, developer= Milkstone Studios, genre= Action, numberPlayers= , rating= T, releaseDate= Apr 21, 2015, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 3, negativeUsers= 0, metaScore= 80, userScore= 70}
+
+Game{name= Crypt of the NecroDancer, platform= PC, developer= Brace Yourself Games, genre= Action, numberPlayers= , rating= , releaseDate= Apr 23, 2015, positiveCritics= 43, neutralCritics= 2, negativeCritics= 0, positiveUsers= 16, neutralUsers= 4, negativeUsers= 0, metaScore= 87, userScore= 77}
+
+Game{name= ZEN Pinball 2: Portal Pinball, platform= PS4, developer= Zen Studios, genre= Action, numberPlayers= , rating= E10+, releaseDate= May 26, 2015, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 2, metaScore= 83, userScore= 49}
+
+Game{name= Game of Thrones: Episode Four - Sons of Winter, platform= XONE, developer= Telltale Games, genre= Action, numberPlayers= , rating= M, releaseDate= May 26, 2015, positiveCritics= 5, neutralCritics= 3, negativeCritics= 0, positiveUsers= 3, neutralUsers= 2, negativeUsers= 2, metaScore= 80, userScore= 71}
+
+Game{name= Heroes of the Storm, platform= PC, developer= Blizzard Entertainment, genre= Action, numberPlayers= Up to 10 , rating= T, releaseDate= Jun  2, 2015, positiveCritics= 54, neutralCritics= 3, negativeCritics= 0, positiveUsers= 147, neutralUsers= 61, negativeUsers= 122, metaScore= 86, userScore= 64}
+
+Game{name= SteamWorld Dig, platform= XONE, developer= Image & Form, genre= Action, numberPlayers= , rating= E10+, releaseDate= Jun  5, 2015, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 1, neutralUsers= 1, negativeUsers= 0, metaScore= 83, userScore= 78}
+
+Game{name= BlazBlue: Chrono Phantasma Extend, platform= PS4, developer= Arc System Works, genre= Action, numberPlayers= Up to 64 , rating= T, releaseDate= Jun 30, 2015, positiveCritics= 9, neutralCritics= 0, negativeCritics= 1, positiveUsers= 5, neutralUsers= 1, negativeUsers= 0, metaScore= 80, userScore= 76}
+
+Game{name= Skullgirls: 2nd Encore, platform= PS4, developer= Lab Zero Games, genre= Action, numberPlayers= 2, rating= T, releaseDate= Jul  7, 2015, positiveCritics= 16, neutralCritics= 2, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 74}
+
+Game{name= Journey, platform= PS4, developer= Tricky Pixels, genre= Action, numberPlayers= 2, rating= E, releaseDate= Jul 21, 2015, positiveCritics= 44, neutralCritics= 1, negativeCritics= 0, positiveUsers= 118, neutralUsers= 34, negativeUsers= 33, metaScore= 92, userScore= 84}
+
+Game{name= 3D Streets of Rage II, platform= 3DS, developer= M2, genre= Action, numberPlayers= , rating= E10+, releaseDate= Jul 23, 2015, positiveCritics= 15, neutralCritics= 0, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 89, userScore= 75}
+
+Game{name= Zenzizenzic, platform= PC, developer= Ruud Koorevaar, genre= Action, numberPlayers= , rating= , releaseDate= Jul 23, 2015, positiveCritics= 13, neutralCritics= 0, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 1, metaScore= 85, userScore= 61}
+
+Game{name= BADLAND: Game of the Year Edition, platform= WIIU, developer= Frogmind, genre= Action, numberPlayers= , rating= E, releaseDate= Jul 30, 2015, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 75}
+
+Game{name= Volume, platform= PC, developer= Mike Bithell, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Aug 18, 2015, positiveCritics= 29, neutralCritics= 5, negativeCritics= 0, positiveUsers= 5, neutralUsers= 1, negativeUsers= 0, metaScore= 80, userScore= 73}
+
+Game{name= 3D Gunstar Heroes, platform= 3DS, developer= M2, genre= Action, numberPlayers= , rating= E10+, releaseDate= Aug 20, 2015, positiveCritics= 11, neutralCritics= 2, negativeCritics= 0, positiveUsers= 4, neutralUsers= 0, negativeUsers= 0, metaScore= 89, userScore= 79}
+
+Game{name= Freedom Planet, platform= WIIU, developer= GalaxyTrail, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Aug 20, 2015, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 11, neutralUsers= 3, negativeUsers= 0, metaScore= 84, userScore= 85}
+
+Game{name= Gears of War: Ultimate Edition, platform= XONE, developer= Splash Damage, The Coalition, genre= Action, numberPlayers= Up to 8 , rating= M, releaseDate= Aug 25, 2015, positiveCritics= 69, neutralCritics= 4, negativeCritics= 1, positiveUsers= 82, neutralUsers= 18, negativeUsers= 12, metaScore= 82, userScore= 76}
+
+Game{name= Runbow, platform= WIIU, developer= 13AM Games, genre= Action, numberPlayers= , rating= E, releaseDate= Aug 27, 2015, positiveCritics= 27, neutralCritics= 7, negativeCritics= 0, positiveUsers= 8, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 78}
+
+Game{name= Castle Crashers Remastered, platform= XONE, developer= The Behemoth, genre= Action, numberPlayers= , rating= T, releaseDate= Sep  9, 2015, positiveCritics= 14, neutralCritics= 2, negativeCritics= 0, positiveUsers= 2, neutralUsers= 4, negativeUsers= 1, metaScore= 83, userScore= 74}
+
+Game{name= Lovers in a Dangerous Spacetime, platform= PC, developer= Asteroid Base, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Sep  9, 2015, positiveCritics= 15, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 0, metaScore= 80, userScore= 74}
+
+Game{name= Super Mario Maker, platform= WIIU, developer= Nintendo, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Sep 11, 2015, positiveCritics= 81, neutralCritics= 4, negativeCritics= 0, positiveUsers= 164, neutralUsers= 20, negativeUsers= 5, metaScore= 88, userScore= 87}
+
+Game{name= Destiny: The Taken King, platform= XONE, developer= Bungie Software, Bungie, genre= Action, numberPlayers= , rating= T, releaseDate= Sep 15, 2015, positiveCritics= 10, neutralCritics= 1, negativeCritics= 0, positiveUsers= 44, neutralUsers= 15, negativeUsers= 40, metaScore= 89, userScore= 52}
+
+Game{name= Skylanders SuperChargers, platform= WIIU, developer= Vicarious Visions, genre= Action, numberPlayers= , rating= E10+, releaseDate= Sep 20, 2015, positiveCritics= 13, neutralCritics= 0, negativeCritics= 0, positiveUsers= 6, neutralUsers= 2, negativeUsers= 0, metaScore= 87, userScore= 56}
+
+Game{name= Skylanders SuperChargers, platform= PS4, developer= Vicarious Visions, genre= Action, numberPlayers= Up to 4 , rating= E10+, releaseDate= Sep 20, 2015, positiveCritics= 45, neutralCritics= 6, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 5, metaScore= 81, userScore= 36}
+
+Game{name= NBA 2K16, platform= PS4, developer= Visual Concepts, genre= Action, numberPlayers= Up to 10 , rating= E10+, releaseDate= Sep 25, 2015, positiveCritics= 47, neutralCritics= 4, negativeCritics= 0, positiveUsers= 43, neutralUsers= 32, negativeUsers= 37, metaScore= 87, userScore= 67}
+
+Game{name= NBA 2K16, platform= XONE, developer= Visual Concepts, genre= Action, numberPlayers= Up to 10 , rating= E10+, releaseDate= Sep 25, 2015, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 13, neutralUsers= 10, negativeUsers= 20, metaScore= 86, userScore= 61}
+
+Game{name= Super Meat Boy, platform= PS4, developer= Team Meat, genre= Action, numberPlayers= , rating= T, releaseDate= Oct  6, 2015, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 22, neutralUsers= 2, negativeUsers= 8, metaScore= 85, userScore= 70}
+
+Game{name= 3D Sonic the Hedgehog 2, platform= 3DS, developer= M2, genre= Action, numberPlayers= , rating= E, releaseDate= Oct  8, 2015, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 14, neutralUsers= 0, negativeUsers= 0, metaScore= 87, userScore= 83}
+
+Game{name= Downwell, platform= PC, developer= Moppin, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Oct 15, 2015, positiveCritics= 16, neutralCritics= 4, negativeCritics= 0, positiveUsers= 8, neutralUsers= 1, negativeUsers= 2, metaScore= 81, userScore= 66}
+
+Game{name= Guitar Hero Live, platform= XONE, developer= FreeStyleGames, genre= Action, numberPlayers= , rating= T, releaseDate= Oct 20, 2015, positiveCritics= 17, neutralCritics= 4, negativeCritics= 0, positiveUsers= 7, neutralUsers= 5, negativeUsers= 11, metaScore= 81, userScore= 51}
+
+Game{name= Guitar Hero Live, platform= PS4, developer= FreeStyleGames, genre= Action, numberPlayers= , rating= T, releaseDate= Oct 20, 2015, positiveCritics= 54, neutralCritics= 15, negativeCritics= 0, positiveUsers= 26, neutralUsers= 14, negativeUsers= 14, metaScore= 80, userScore= 62}
+
+Game{name= The Binding of Isaac: Afterbirth, platform= PC, developer= Nicalis, genre= Action, numberPlayers= , rating= M, releaseDate= Oct 30, 2015, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 18, neutralUsers= 3, negativeUsers= 1, metaScore= 85, userScore= 82}
+
+Game{name= Call of Duty: Black Ops III, platform= XONE, developer= Treyarch, genre= Action, numberPlayers= Up to 18 , rating= M, releaseDate= Nov  6, 2015, positiveCritics= 12, neutralCritics= 3, negativeCritics= 0, positiveUsers= 67, neutralUsers= 51, negativeUsers= 92, metaScore= 81, userScore= 45}
+
+Game{name= Call of Duty: Black Ops III, platform= PS4, developer= Treyarch, genre= Action, numberPlayers= Up to 18 , rating= M, releaseDate= Nov  6, 2015, positiveCritics= 73, neutralCritics= 14, negativeCritics= 0, positiveUsers= 208, neutralUsers= 144, negativeUsers= 243, metaScore= 81, userScore= 48}
+
+Game{name= SUPERBEAT: XONiC, platform= VITA, developer= Nurijoy, genre= Action, numberPlayers= , rating= T, releaseDate= Nov 10, 2015, positiveCritics= 17, neutralCritics= 5, negativeCritics= 0, positiveUsers= 6, neutralUsers= 1, negativeUsers= 2, metaScore= 81, userScore= 73}
+
+Game{name= Game of Thrones: Episode Six - The Ice Dragon, platform= XONE, developer= Telltale Games, genre= Action, numberPlayers= , rating= M, releaseDate= Nov 17, 2015, positiveCritics= 5, neutralCritics= 2, negativeCritics= 0, positiveUsers= 1, neutralUsers= 4, negativeUsers= 1, metaScore= 80, userScore= 78}
+
+Game{name= Dariusburst: Chronicle Saviours, platform= PS4, developer= Pyramid, genre= Action, numberPlayers= , rating= E, releaseDate= Dec  2, 2015, positiveCritics= 14, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 0, metaScore= 80, userScore= 75}
+
+Game{name= Dariusburst: Chronicle Saviours, platform= PC, developer= Pyramid, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Dec  3, 2015, positiveCritics= 7, neutralCritics= 2, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 86}
+
+Game{name= Helldivers, platform= PC, developer= Arrowhead Game Studios, genre= Action, numberPlayers= , rating= T, releaseDate= Dec  7, 2015, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 9, neutralUsers= 0, negativeUsers= 0, metaScore= 83, userScore= 69}
+
+Game{name= Star Wars Pinball: The Force Awakens, platform= PS4, developer= Zen Studios, genre= Action, numberPlayers= , rating= , releaseDate= Jan 12, 2016, positiveCritics= 7, neutralCritics= 2, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 48}
+
+Game{name= The Bug Butcher, platform= PC, developer= Awfully Nice Studios, genre= Action, numberPlayers= , rating= , releaseDate= Jan 19, 2016, positiveCritics= 17, neutralCritics= 3, negativeCritics= 0, positiveUsers= 5, neutralUsers= 1, negativeUsers= 0, metaScore= 81, userScore= 75}
+
+Game{name= World of Tanks, platform= PS4, developer= Wargaming.net, genre= Action, numberPlayers= Up to 30 , rating= T, releaseDate= Jan 19, 2016, positiveCritics= 16, neutralCritics= 2, negativeCritics= 0, positiveUsers= 11, neutralUsers= 3, negativeUsers= 4, metaScore= 80, userScore= 56}
+
+Game{name= Gravity Rush Remastered, platform= PS4, developer= Bluepoint Games, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Feb  2, 2016, positiveCritics= 52, neutralCritics= 10, negativeCritics= 0, positiveUsers= 39, neutralUsers= 12, negativeUsers= 2, metaScore= 80, userScore= 81}
+
+Game{name= Lovers in a Dangerous Spacetime, platform= PS4, developer= Asteroid Base, genre= Action, numberPlayers= , rating= E10+, releaseDate= Feb  9, 2016, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 4, neutralUsers= 3, negativeUsers= 2, metaScore= 82, userScore= 70}
+
+Game{name= Unravel, platform= PC, developer= Coldwood Interactive, genre= Action, numberPlayers= , rating= E, releaseDate= Feb  9, 2016, positiveCritics= 10, neutralCritics= 2, negativeCritics= 0, positiveUsers= 17, neutralUsers= 5, negativeUsers= 3, metaScore= 81, userScore= 77}
+
+Game{name= Naruto Shippuden: Ultimate Ninja Storm 4, platform= XONE, developer= CyberConnect2, genre= Action, numberPlayers= , rating= T, releaseDate= Feb  9, 2016, positiveCritics= 9, neutralCritics= 3, negativeCritics= 0, positiveUsers= 8, neutralUsers= 2, negativeUsers= 0, metaScore= 80, userScore= 84}
+
+Game{name= Devil Daggers, platform= PC, developer= Sorath, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Feb 18, 2016, positiveCritics= 18, neutralCritics= 2, negativeCritics= 0, positiveUsers= 10, neutralUsers= 3, negativeUsers= 1, metaScore= 83, userScore= 71}
+
+Game{name= Plants vs Zombies: Garden Warfare 2, platform= XONE, developer= PopCap, genre= Action, numberPlayers= , rating= E10+, releaseDate= Feb 23, 2016, positiveCritics= 56, neutralCritics= 8, negativeCritics= 0, positiveUsers= 14, neutralUsers= 1, negativeUsers= 4, metaScore= 80, userScore= 78}
+
+Game{name= Mortal Kombat XL, platform= PS4, developer= NetherRealm Studios, genre= Action, numberPlayers= Up to 10 , rating= M, releaseDate= Mar  1, 2016, positiveCritics= 12, neutralCritics= 0, negativeCritics= 0, positiveUsers= 25, neutralUsers= 5, negativeUsers= 3, metaScore= 85, userScore= 77}
+
+Game{name= BlazBlue: Chrono Phantasma Extend, platform= PC, developer= Arc System Works, genre= Action, numberPlayers= , rating= T, releaseDate= Mar  2, 2016, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 85, userScore= 76}
+
+Game{name= Ori and the Blind Forest: Definitive Edition, platform= XONE, developer= Moon Studios, genre= Action, numberPlayers= , rating= E, releaseDate= Mar 11, 2016, positiveCritics= 22, neutralCritics= 2, negativeCritics= 0, positiveUsers= 25, neutralUsers= 3, negativeUsers= 4, metaScore= 88, userScore= 77}
+
+Game{name= Salt and Sanctuary, platform= PS4, developer= Ska Studios, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Mar 15, 2016, positiveCritics= 51, neutralCritics= 5, negativeCritics= 0, positiveUsers= 65, neutralUsers= 6, negativeUsers= 5, metaScore= 84, userScore= 81}
+
+Game{name= Mutant Mudds: Super Challenge, platform= WIIU, developer= Renegade Kid, genre= Action, numberPlayers= , rating= E, releaseDate= Mar 17, 2016, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 1, metaScore= 83, userScore= 69}
+
+Game{name= Killer Instinct Season 3, platform= XONE, developer= Iron Galaxy Studios, genre= Action, numberPlayers= , rating= , releaseDate= Mar 29, 2016, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 13, neutralUsers= 4, negativeUsers= 0, metaScore= 86, userScore= 65}
+
+Game{name= Leap of Fate, platform= PC, developer= Clever-Plays, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Mar 30, 2016, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 0, neutralUsers= 2, negativeUsers= 0, metaScore= 80, userScore= 75}
+
+Game{name= Enter the Gungeon, platform= PC, developer= Dodge Roll, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Apr  5, 2016, positiveCritics= 25, neutralCritics= 1, negativeCritics= 0, positiveUsers= 22, neutralUsers= 6, negativeUsers= 6, metaScore= 84, userScore= 77}
+
+Game{name= Enter the Gungeon, platform= PS4, developer= Dodge Roll, genre= Action, numberPlayers= , rating= T, releaseDate= Apr  5, 2016, positiveCritics= 26, neutralCritics= 6, negativeCritics= 0, positiveUsers= 11, neutralUsers= 6, negativeUsers= 3, metaScore= 82, userScore= 75}
+
+Game{name= Ratchet & Clank, platform= PS4, developer= Insomniac Games, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Apr 12, 2016, positiveCritics= 98, neutralCritics= 3, negativeCritics= 0, positiveUsers= 260, neutralUsers= 29, negativeUsers= 5, metaScore= 85, userScore= 86}
+
+Game{name= SpeedRunners, platform= PC, developer= DoubleDutch Games, genre= Action, numberPlayers= Online Multiplayer, rating= , releaseDate= Apr 19, 2016, positiveCritics= 11, neutralCritics= 0, negativeCritics= 0, positiveUsers= 7, neutralUsers= 2, negativeUsers= 2, metaScore= 84, userScore= 76}
+
+Game{name= ZEN Pinball 2: Aliens Vs. Pinball, platform= PS4, developer= Zen Studios, genre= Action, numberPlayers= , rating= , releaseDate= Apr 26, 2016, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 84, userScore= 59}
+
+Game{name= Ori and the Blind Forest: Definitive Edition, platform= PC, developer= Moon Studios, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Apr 27, 2016, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 33, neutralUsers= 1, negativeUsers= 5, metaScore= 88, userScore= 87}
+
+Game{name= Overwatch, platform= XONE, developer= Blizzard Entertainment, genre= Action, numberPlayers= Up to 12 , rating= T, releaseDate= May 23, 2016, positiveCritics= 18, neutralCritics= 0, negativeCritics= 0, positiveUsers= 91, neutralUsers= 24, negativeUsers= 34, metaScore= 91, userScore= 59}
+
+Game{name= Overwatch, platform= PS4, developer= Blizzard Entertainment, genre= Action, numberPlayers= Up to 12 , rating= T, releaseDate= May 23, 2016, positiveCritics= 31, neutralCritics= 0, negativeCritics= 0, positiveUsers= 206, neutralUsers= 80, negativeUsers= 91, metaScore= 90, userScore= 64}
+
+Game{name= Downwell, platform= PS4, developer= Moppin, genre= Action, numberPlayers= , rating= E10+, releaseDate= May 24, 2016, positiveCritics= 12, neutralCritics= 2, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 0, metaScore= 80, userScore= 72}
+
+Game{name= Score Rush Extended, platform= PS4, developer= Xona Games, genre= Action, numberPlayers= , rating= E, releaseDate= May 31, 2016, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 75}
+
+Game{name= Guilty Gear Xrd -REVELATOR-, platform= PS4, developer= Arc System Works, genre= Action, numberPlayers= Up to 64 , rating= T, releaseDate= Jun  7, 2016, positiveCritics= 29, neutralCritics= 1, negativeCritics= 0, positiveUsers= 15, neutralUsers= 1, negativeUsers= 2, metaScore= 86, userScore= 81}
+
+Game{name= Kirby: Planet Robobot, platform= 3DS, developer= HAL Labs, genre= Action, numberPlayers= , rating= E, releaseDate= Jun 10, 2016, positiveCritics= 62, neutralCritics= 9, negativeCritics= 0, positiveUsers= 36, neutralUsers= 4, negativeUsers= 1, metaScore= 81, userScore= 85}
+
+Game{name= Rhythm Heaven Megamix, platform= 3DS, developer= Nintendo, genre= Action, numberPlayers= , rating= E, releaseDate= Jun 15, 2016, positiveCritics= 32, neutralCritics= 5, negativeCritics= 0, positiveUsers= 10, neutralUsers= 3, negativeUsers= 1, metaScore= 83, userScore= 83}
+
+Game{name= Pac-Man 256, platform= XONE, developer= HIPSTER WHALE, genre= Action, numberPlayers= , rating= E, releaseDate= Jun 21, 2016, positiveCritics= 8, neutralCritics= 2, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 73}
+
+Game{name= INSIDE, platform= XONE, developer= PLAYDEAD, genre= Action, numberPlayers= , rating= M, releaseDate= Jun 29, 2016, positiveCritics= 87, neutralCritics= 0, negativeCritics= 0, positiveUsers= 70, neutralUsers= 7, negativeUsers= 4, metaScore= 93, userScore= 83}
+
+Game{name= INSIDE, platform= PC, developer= PLAYDEAD, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jul  7, 2016, positiveCritics= 20, neutralCritics= 2, negativeCritics= 0, positiveUsers= 78, neutralUsers= 24, negativeUsers= 6, metaScore= 87, userScore= 86}
+
+Game{name= 10 Second Ninja X, platform= XONE, developer= GameDesignDan, genre= Action, numberPlayers= , rating= T, releaseDate= Jul 19, 2016, positiveCritics= 8, neutralCritics= 1, negativeCritics= 1, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 45}
+
+Game{name= Maldita Castilla EX: Cursed Castilla, platform= XONE, developer= Locomalito, genre= Action, numberPlayers= , rating= T, releaseDate= Jul 20, 2016, positiveCritics= 11, neutralCritics= 1, negativeCritics= 0, positiveUsers= 4, neutralUsers= 1, negativeUsers= 1, metaScore= 81, userScore= 78}
+
+Game{name= Overcooked!, platform= PC, developer= Ghost Town Games Ltd., genre= Action, numberPlayers= , rating= , releaseDate= Aug  3, 2016, positiveCritics= 13, neutralCritics= 2, negativeCritics= 0, positiveUsers= 13, neutralUsers= 1, negativeUsers= 1, metaScore= 81, userScore= 78}
+
+Game{name= Overcooked!, platform= XONE, developer= Ghost Town Games Ltd., genre= Action, numberPlayers= , rating= E, releaseDate= Aug  3, 2016, positiveCritics= 9, neutralCritics= 4, negativeCritics= 0, positiveUsers= 4, neutralUsers= 2, negativeUsers= 2, metaScore= 80, userScore= 65}
+
+Game{name= INSIDE, platform= PS4, developer= PLAYDEAD, genre= Action, numberPlayers= , rating= M, releaseDate= Aug 23, 2016, positiveCritics= 17, neutralCritics= 1, negativeCritics= 0, positiveUsers= 83, neutralUsers= 13, negativeUsers= 4, metaScore= 91, userScore= 83}
+
+Game{name= The Turing Test, platform= XONE, developer= Bulkhead Interactive, genre= Action, numberPlayers= , rating= T, releaseDate= Aug 30, 2016, positiveCritics= 11, neutralCritics= 5, negativeCritics= 0, positiveUsers= 9, neutralUsers= 6, negativeUsers= 2, metaScore= 80, userScore= 74}
+
+Game{name= BioShock: The Collection, platform= XONE, developer= 2K Games, genre= Action, numberPlayers= , rating= M, releaseDate= Sep 13, 2016, positiveCritics= 16, neutralCritics= 1, negativeCritics= 0, positiveUsers= 10, neutralUsers= 0, negativeUsers= 0, metaScore= 84, userScore= 87}
+
+Game{name= BioShock: The Collection, platform= PS4, developer= 2K Games, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Sep 13, 2016, positiveCritics= 38, neutralCritics= 1, negativeCritics= 0, positiveUsers= 48, neutralUsers= 2, negativeUsers= 4, metaScore= 84, userScore= 84}
+
+Game{name= BioShock: The Collection, platform= PC, developer= 2K Games, genre= Action, numberPlayers= , rating= M, releaseDate= Sep 16, 2016, positiveCritics= 5, neutralCritics= 3, negativeCritics= 0, positiveUsers= 7, neutralUsers= 0, negativeUsers= 7, metaScore= 80, userScore= 69}
+
+Game{name= Thumper, platform= PC, developer= drool Games, Drool, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Oct 10, 2016, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 5, neutralUsers= 2, negativeUsers= 0, metaScore= 85, userScore= 77}
+
+Game{name= Thumper, platform= PS4, developer= drool Games, Drool, genre= Action, numberPlayers= , rating= E10+, releaseDate= Oct 10, 2016, positiveCritics= 36, neutralCritics= 4, negativeCritics= 0, positiveUsers= 20, neutralUsers= 0, negativeUsers= 1, metaScore= 84, userScore= 72}
+
+Game{name= Gears of War 4, platform= PC, developer= The Coalition, genre= Action, numberPlayers= , rating= M, releaseDate= Oct 11, 2016, positiveCritics= 20, neutralCritics= 2, negativeCritics= 0, positiveUsers= 37, neutralUsers= 9, negativeUsers= 20, metaScore= 86, userScore= 67}
+
+Game{name= Rez Infinite, platform= PS4, developer= Q Entertainment, Monstars Inc., Enhance Games, genre= Action, numberPlayers= , rating= E10+, releaseDate= Oct 13, 2016, positiveCritics= 47, neutralCritics= 0, negativeCritics= 0, positiveUsers= 13, neutralUsers= 5, negativeUsers= 2, metaScore= 89, userScore= 77}
+
+Game{name= Battlefield 1, platform= PS4, developer= EA DICE, genre= Action, numberPlayers= Up to 64 , rating= M, releaseDate= Oct 18, 2016, positiveCritics= 34, neutralCritics= 0, negativeCritics= 0, positiveUsers= 205, neutralUsers= 48, negativeUsers= 39, metaScore= 89, userScore= 79}
+
+Game{name= Battlefield 1, platform= XONE, developer= EA DICE, genre= Action, numberPlayers= Up to 64 , rating= M, releaseDate= Oct 18, 2016, positiveCritics= 37, neutralCritics= 2, negativeCritics= 0, positiveUsers= 93, neutralUsers= 19, negativeUsers= 21, metaScore= 87, userScore= 76}
+
+Game{name= Rock Band Rivals, platform= XONE, developer= Harmonix Music Systems, genre= Action, numberPlayers= , rating= , releaseDate= Oct 18, 2016, positiveCritics= 8, neutralCritics= 2, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 66}
+
+Game{name= Maldita Castilla EX: Cursed Castilla, platform= PC, developer= Locomalito, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Oct 20, 2016, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 1, negativeUsers= 0, metaScore= 81, userScore= 74}
+
+Game{name= Titanfall 2, platform= PS4, developer= Respawn Entertainment, genre= Action, numberPlayers= Up to 16 , rating= M, releaseDate= Oct 28, 2016, positiveCritics= 60, neutralCritics= 1, negativeCritics= 0, positiveUsers= 217, neutralUsers= 16, negativeUsers= 15, metaScore= 89, userScore= 84}
+
+Game{name= Titanfall 2, platform= XONE, developer= Respawn Entertainment, genre= Action, numberPlayers= Up to 16 , rating= M, releaseDate= Oct 28, 2016, positiveCritics= 29, neutralCritics= 3, negativeCritics= 0, positiveUsers= 82, neutralUsers= 8, negativeUsers= 9, metaScore= 87, userScore= 83}
+
+Game{name= Titanfall 2, platform= PC, developer= Respawn Entertainment, genre= Action, numberPlayers= , rating= M, releaseDate= Oct 28, 2016, positiveCritics= 25, neutralCritics= 5, negativeCritics= 0, positiveUsers= 158, neutralUsers= 28, negativeUsers= 26, metaScore= 86, userScore= 82}
+
+Game{name= BlazBlue: Central Fiction, platform= PS4, developer= Arc System Works, genre= Action, numberPlayers= Up to 32 , rating= T, releaseDate= Nov  1, 2016, positiveCritics= 22, neutralCritics= 0, negativeCritics= 0, positiveUsers= 13, neutralUsers= 1, negativeUsers= 1, metaScore= 84, userScore= 77}
+
+Game{name= Motorsport Manager, platform= PC, developer= Playsport Games, Playsport Games Ltd, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Nov  9, 2016, positiveCritics= 14, neutralCritics= 2, negativeCritics= 0, positiveUsers= 11, neutralUsers= 2, negativeUsers= 0, metaScore= 81, userScore= 85}
+
+Game{name= Candle, platform= PC, developer= Teku Studios , genre= Action, numberPlayers= No Online Multiplayer, rating= RP, releaseDate= Nov 11, 2016, positiveCritics= 13, neutralCritics= 2, negativeCritics= 0, positiveUsers= 9, neutralUsers= 0, negativeUsers= 1, metaScore= 80, userScore= 77}
+
+Game{name= ICEY, platform= PC, developer= Shanghai FantaBlade Network Technology Co., Ltd., genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Nov 17, 2016, positiveCritics= 11, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 2, negativeUsers= 0, metaScore= 84, userScore= 75}
+
+Game{name= Pinball FX2 VR, platform= PS4, developer= Zen Studios, genre= Action, numberPlayers= , rating= E10+, releaseDate= Nov 29, 2016, positiveCritics= 20, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 0, metaScore= 80, userScore= 67}
+
+Game{name= SUPERHOT VR, platform= PC, developer= SUPERHOT, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Dec  5, 2016, positiveCritics= 14, neutralCritics= 2, negativeCritics= 0, positiveUsers= 9, neutralUsers= 2, negativeUsers= 0, metaScore= 85, userScore= 72}
+
+Game{name= The Walking Dead: The Telltale Series - A New Frontier Episode 1: Ties That Bind Part One, platform= PC, developer= Telltale Games, genre= Action, numberPlayers= , rating= , releaseDate= Dec 20, 2016, positiveCritics= 30, neutralCritics= 5, negativeCritics= 0, positiveUsers= 9, neutralUsers= 9, negativeUsers= 6, metaScore= 81, userScore= 71}
+
+Game{name= Shantae: Half-Genie Hero, platform= PS4, developer= WayForward, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Dec 20, 2016, positiveCritics= 27, neutralCritics= 1, negativeCritics= 0, positiveUsers= 14, neutralUsers= 4, negativeUsers= 0, metaScore= 81, userScore= 76}
+
+Game{name= Shantae: Half-Genie Hero, platform= WIIU, developer= WayForward, genre= Action, numberPlayers= , rating= T, releaseDate= Dec 20, 2016, positiveCritics= 7, neutralCritics= 2, negativeCritics= 0, positiveUsers= 4, neutralUsers= 1, negativeUsers= 0, metaScore= 80, userScore= 85}
+
+Game{name= The Walking Dead: The Telltale Series - A New Frontier Episode 2: Ties That Bind Part Two, platform= PC, developer= Telltale Games, genre= Action, numberPlayers= , rating= , releaseDate= Dec 20, 2016, positiveCritics= 28, neutralCritics= 5, negativeCritics= 0, positiveUsers= 5, neutralUsers= 2, negativeUsers= 4, metaScore= 80, userScore= 71}
+
+Game{name= The Walking Dead: The Telltale Series - A New Frontier Episode 1: Ties That Bind Part One, platform= PS4, developer= Telltale Games, genre= Action, numberPlayers= , rating= M, releaseDate= Dec 20, 2016, positiveCritics= 8, neutralCritics= 2, negativeCritics= 0, positiveUsers= 3, neutralUsers= 2, negativeUsers= 3, metaScore= 80, userScore= 70}
+
+Game{name= The Walking Dead: The Telltale Series - A New Frontier Episode 2: Ties That Bind Part Two, platform= PS4, developer= Telltale Games, genre= Action, numberPlayers= , rating= M, releaseDate= Dec 20, 2016, positiveCritics= 7, neutralCritics= 2, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 2, metaScore= 80, userScore= 66}
+
+Game{name= Hatsune Miku: Project Diva Future Tone - Colorful Tone, platform= PS4, developer= Sega, genre= Action, numberPlayers= , rating= T, releaseDate= Jan 10, 2017, positiveCritics= 18, neutralCritics= 3, negativeCritics= 0, positiveUsers= 4, neutralUsers= 1, negativeUsers= 0, metaScore= 84, userScore= 76}
+
+Game{name= Hatsune Miku: Project Diva Future Tone - Future Sound, platform= PS4, developer= Sega, genre= Action, numberPlayers= , rating= T, releaseDate= Jan 10, 2017, positiveCritics= 18, neutralCritics= 3, negativeCritics= 0, positiveUsers= 4, neutralUsers= 0, negativeUsers= 0, metaScore= 84, userScore= 76}
+
+Game{name= Gravity Rush 2, platform= PS4, developer= SCE Japan Studio, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jan 20, 2017, positiveCritics= 78, neutralCritics= 15, negativeCritics= 1, positiveUsers= 39, neutralUsers= 19, negativeUsers= 4, metaScore= 80, userScore= 81}
+
+Game{name= TowerFall Ascension, platform= XONE, developer= Matt Makes Games Inc., genre= Action, numberPlayers= , rating= , releaseDate= Jan 25, 2017, positiveCritics= 7, neutralCritics= 3, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 66}
+
+Game{name= Bleed 2, platform= PC, developer= BootdiskRevolution, genre= Action, numberPlayers= , rating= , releaseDate= Feb  8, 2017, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 83, userScore= 70}
+
+Game{name= Sniper Elite 4, platform= XONE, developer= Rebellion, genre= Action, numberPlayers= , rating= M, releaseDate= Feb 14, 2017, positiveCritics= 15, neutralCritics= 3, negativeCritics= 0, positiveUsers= 9, neutralUsers= 2, negativeUsers= 0, metaScore= 81, userScore= 74}
+
+Game{name= Robo Recall, platform= PC, developer= Epic Games, genre= Action, numberPlayers= , rating= , releaseDate= Mar  1, 2017, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 5, neutralUsers= 1, negativeUsers= 1, metaScore= 86, userScore= 77}
+
+Game{name= Shovel Knight: Treasure Trove, platform= Switch, developer= Yacht Club Games, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Mar  3, 2017, positiveCritics= 16, neutralCritics= 1, negativeCritics= 0, positiveUsers= 42, neutralUsers= 5, negativeUsers= 4, metaScore= 91, userScore= 82}
+
+Game{name= Shovel Knight: Specter of Torment, platform= Switch, developer= Yacht Club Games, genre= Action, numberPlayers= , rating= E, releaseDate= Mar  3, 2017, positiveCritics= 20, neutralCritics= 1, negativeCritics= 0, positiveUsers= 9, neutralUsers= 1, negativeUsers= 0, metaScore= 84, userScore= 79}
+
+Game{name= VOEZ, platform= Switch, developer= Flyhigh Works, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Mar  9, 2017, positiveCritics= 16, neutralCritics= 2, negativeCritics= 0, positiveUsers= 12, neutralUsers= 3, negativeUsers= 0, metaScore= 81, userScore= 80}
+
+Game{name= The Binding of Isaac: Afterbirth +, platform= Switch, developer= Edmund McMillen, Nicalis, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Mar 17, 2017, positiveCritics= 16, neutralCritics= 0, negativeCritics= 0, positiveUsers= 33, neutralUsers= 3, negativeUsers= 5, metaScore= 85, userScore= 81}
+
+Game{name= Enter The Gungeon, platform= XONE, developer= Dodge Roll, genre= Action, numberPlayers= , rating= T, releaseDate= Apr  5, 2017, positiveCritics= 8, neutralCritics= 2, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 1, metaScore= 84, userScore= 73}
+
+Game{name= Bulletstorm: Full Clip Edition, platform= XONE, developer= People Can Fly, genre= Action, numberPlayers= , rating= M, releaseDate= Apr  7, 2017, positiveCritics= 12, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 0, metaScore= 82, userScore= 73}
+
+Game{name= Aaero, platform= XONE, developer= Mad Fellows Ltd, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Apr 11, 2017, positiveCritics= 9, neutralCritics= 4, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 0, metaScore= 80, userScore= 65}
+
+Game{name= Flinthook, platform= PC, developer= Tribute Games, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Apr 18, 2017, positiveCritics= 8, neutralCritics= 2, negativeCritics= 0, positiveUsers= 7, neutralUsers= 0, negativeUsers= 1, metaScore= 80, userScore= 76}
+
+Game{name= Polybius, platform= PS4, developer= Llamasoft, genre= Action, numberPlayers= , rating= E10+, releaseDate= May  9, 2017, positiveCritics= 11, neutralCritics= 2, negativeCritics= 0, positiveUsers= 17, neutralUsers= 1, negativeUsers= 1, metaScore= 84, userScore= 75}
+
+Game{name= Injustice 2, platform= XONE, developer= NetherRealm Studios, genre= Action, numberPlayers= 2, rating= T, releaseDate= May 16, 2017, positiveCritics= 23, neutralCritics= 0, negativeCritics= 0, positiveUsers= 26, neutralUsers= 2, negativeUsers= 5, metaScore= 89, userScore= 82}
+
+Game{name= Injustice 2, platform= PS4, developer= NetherRealm Studios, genre= Action, numberPlayers= 2, rating= T, releaseDate= May 16, 2017, positiveCritics= 88, neutralCritics= 2, negativeCritics= 0, positiveUsers= 84, neutralUsers= 15, negativeUsers= 14, metaScore= 87, userScore= 81}
+
+Game{name= Thumper, platform= Switch, developer= Drool, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= May 18, 2017, positiveCritics= 14, neutralCritics= 1, negativeCritics= 0, positiveUsers= 12, neutralUsers= 4, negativeUsers= 2, metaScore= 85, userScore= 78}
+
+Game{name= Guilty Gear Xrd: Rev 2, platform= PS4, developer= Arc System Works, genre= Action, numberPlayers= Up to 8 , rating= T, releaseDate= May 26, 2017, positiveCritics= 35, neutralCritics= 0, negativeCritics= 0, positiveUsers= 3, neutralUsers= 2, negativeUsers= 0, metaScore= 86, userScore= 78}
+
+Game{name= RiME, platform= XONE, developer= Tequila Works, genre= Action, numberPlayers= , rating= E10+, releaseDate= May 26, 2017, positiveCritics= 16, neutralCritics= 2, negativeCritics= 0, positiveUsers= 7, neutralUsers= 2, negativeUsers= 1, metaScore= 82, userScore= 71}
+
+Game{name= Rising Storm 2: Vietnam, platform= PC, developer= Antimatter Games, genre= Action, numberPlayers= Online Multiplayer, rating= , releaseDate= May 30, 2017, positiveCritics= 17, neutralCritics= 1, negativeCritics= 0, positiveUsers= 15, neutralUsers= 6, negativeUsers= 3, metaScore= 81, userScore= 77}
+
+Game{name= Tekken 7, platform= PC, developer= Bandai Namco Games, genre= Action, numberPlayers= Online Multiplayer, rating= T, releaseDate= Jun  1, 2017, positiveCritics= 18, neutralCritics= 1, negativeCritics= 0, positiveUsers= 19, neutralUsers= 13, negativeUsers= 16, metaScore= 82, userScore= 67}
+
+Game{name= Tekken 7, platform= PS4, developer= Bandai Namco Games, genre= Action, numberPlayers= Up to 8 , rating= T, releaseDate= Jun  2, 2017, positiveCritics= 67, neutralCritics= 11, negativeCritics= 0, positiveUsers= 67, neutralUsers= 29, negativeUsers= 34, metaScore= 82, userScore= 68}
+
+Game{name= Tekken 7, platform= XONE, developer= Bandai Namco Games, genre= Action, numberPlayers= Up to 8 , rating= T, releaseDate= Jun  2, 2017, positiveCritics= 15, neutralCritics= 1, negativeCritics= 0, positiveUsers= 5, neutralUsers= 8, negativeUsers= 2, metaScore= 81, userScore= 63}
+
+Game{name= Shantae: Half-Genie Hero, platform= Switch, developer= WayForward, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jun  8, 2017, positiveCritics= 5, neutralCritics= 2, negativeCritics= 0, positiveUsers= 8, neutralUsers= 2, negativeUsers= 3, metaScore= 82, userScore= 76}
+
+Game{name= Cave Story +, platform= Switch, developer= Nicalis, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Jun 20, 2017, positiveCritics= 12, neutralCritics= 0, negativeCritics= 0, positiveUsers= 15, neutralUsers= 4, negativeUsers= 0, metaScore= 88, userScore= 79}
+
+Game{name= Nex Machina: Death Machine, platform= PS4, developer= Housemarque, genre= Action, numberPlayers= , rating= T, releaseDate= Jun 20, 2017, positiveCritics= 46, neutralCritics= 1, negativeCritics= 0, positiveUsers= 20, neutralUsers= 3, negativeUsers= 1, metaScore= 88, userScore= 79}
+
+Game{name= Nex Machina: Death Machine, platform= PC, developer= Housemarque, genre= Action, numberPlayers= , rating= , releaseDate= Jun 20, 2017, positiveCritics= 15, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 1, metaScore= 84, userScore= 67}
+
+Game{name= The End Is Nigh, platform= PC, developer= Edmund McMillen, Tyler Glaiel , genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Jul 12, 2017, positiveCritics= 14, neutralCritics= 1, negativeCritics= 0, positiveUsers= 4, neutralUsers= 2, negativeUsers= 0, metaScore= 84, userScore= 78}
+
+Game{name= Splatoon 2, platform= Switch, developer= Nintendo, genre= Action, numberPlayers= Up to 8 , rating= E10+, releaseDate= Jul 21, 2017, positiveCritics= 94, neutralCritics= 6, negativeCritics= 0, positiveUsers= 213, neutralUsers= 42, negativeUsers= 13, metaScore= 83, userScore= 85}
+
+Game{name= SUPERHOT, platform= PS4, developer= SUPERHOT, genre= Action, numberPlayers= , rating= T, releaseDate= Jul 21, 2017, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 6, neutralUsers= 1, negativeUsers= 0, metaScore= 83, userScore= 72}
+
+Game{name= Fortnite, platform= PC, developer= Epic Games, genre= Action, numberPlayers= Massively Multiplayer, rating= T, releaseDate= Jul 25, 2017, positiveCritics= 9, neutralCritics= 2, negativeCritics= 0, positiveUsers= 38, neutralUsers= 16, negativeUsers= 159, metaScore= 81, userScore= 29}
+
+Game{name= Slime Rancher, platform= PC, developer= Monomi Park, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Aug  1, 2017, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 8, neutralUsers= 1, negativeUsers= 2, metaScore= 81, userScore= 78}
+
+Game{name= Sine Mora EX, platform= PS4, developer= Digital Reality, genre= Action, numberPlayers= , rating= M, releaseDate= Aug  8, 2017, positiveCritics= 16, neutralCritics= 2, negativeCritics= 0, positiveUsers= 0, neutralUsers= 1, negativeUsers= 0, metaScore= 81, userScore= 76}
+
+Game{name= Rez Infinite, platform= PC, developer= UGA, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Aug  9, 2017, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 4, neutralUsers= 0, negativeUsers= 0, metaScore= 89, userScore= 74}
+
+Game{name= Sonic Mania, platform= PS4, developer= SegaSoft, Sega, PagodaWest Games, genre= Action, numberPlayers= 2, rating= E, releaseDate= Aug 15, 2017, positiveCritics= 65, neutralCritics= 5, negativeCritics= 0, positiveUsers= 108, neutralUsers= 6, negativeUsers= 4, metaScore= 86, userScore= 84}
+
+Game{name= Sonic Mania, platform= Switch, developer= Tantalus, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Aug 15, 2017, positiveCritics= 17, neutralCritics= 4, negativeCritics= 0, positiveUsers= 141, neutralUsers= 13, negativeUsers= 5, metaScore= 86, userScore= 88}
+
+Game{name= Sonic Mania, platform= XONE, developer= SegaSoft, Sega, PagodaWest Games, genre= Action, numberPlayers= , rating= E, releaseDate= Aug 15, 2017, positiveCritics= 15, neutralCritics= 2, negativeCritics= 0, positiveUsers= 16, neutralUsers= 3, negativeUsers= 1, metaScore= 83, userScore= 82}
+
+Game{name= Nidhogg 2, platform= PC, developer= Messhof, genre= Action, numberPlayers= Online Multiplayer, rating= T, releaseDate= Aug 15, 2017, positiveCritics= 27, neutralCritics= 5, negativeCritics= 0, positiveUsers= 1, neutralUsers= 3, negativeUsers= 0, metaScore= 80, userScore= 63}
+
+Game{name= Thumper, platform= XONE, developer= drool Games, Drool, genre= Action, numberPlayers= , rating= E10+, releaseDate= Aug 18, 2017, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 86, userScore= 51}
+
+Game{name= Uncharted: The Lost Legacy, platform= PS4, developer= Naughty Dog, genre= Action, numberPlayers= Up to 10 , rating= T, releaseDate= Aug 22, 2017, positiveCritics= 93, neutralCritics= 11, negativeCritics= 0, positiveUsers= 129, neutralUsers= 33, negativeUsers= 22, metaScore= 84, userScore= 77}
+
+Game{name= Mario + Rabbids: Kingdom Battle, platform= Switch, developer= Ubisoft, Ubisoft Milan, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Aug 29, 2017, positiveCritics= 98, neutralCritics= 6, negativeCritics= 0, positiveUsers= 162, neutralUsers= 20, negativeUsers= 10, metaScore= 85, userScore= 85}
+
+Game{name= Rabi-Ribi, platform= PS4, developer= CreSpirit, genre= Action, numberPlayers= , rating= T, releaseDate= Sep  1, 2017, positiveCritics= 8, neutralCritics= 3, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 77}
+
+Game{name= Destiny 2, platform= XONE, developer= Bungie, genre= Action, numberPlayers= Up to 16 , rating= T, releaseDate= Sep  6, 2017, positiveCritics= 22, neutralCritics= 0, negativeCritics= 0, positiveUsers= 62, neutralUsers= 29, negativeUsers= 72, metaScore= 87, userScore= 42}
+
+Game{name= Destiny 2, platform= PS4, developer= Bungie, genre= Action, numberPlayers= Up to 12 , rating= T, releaseDate= Sep  6, 2017, positiveCritics= 89, neutralCritics= 5, negativeCritics= 1, positiveUsers= 199, neutralUsers= 125, negativeUsers= 289, metaScore= 85, userScore= 49}
+
+Game{name= NeuroVoider, platform= Switch, developer= Flying Oak Games, genre= Action, numberPlayers= , rating= E10+, releaseDate= Sep  7, 2017, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 2, negativeUsers= 0, metaScore= 85, userScore= 81}
+
+Game{name= Rayman Legends: Definitive Edition, platform= Switch, developer= Ubisoft Montpellier, Pasta Games, genre= Action, numberPlayers= , rating= E10+, releaseDate= Sep 12, 2017, positiveCritics= 32, neutralCritics= 2, negativeCritics= 1, positiveUsers= 25, neutralUsers= 0, negativeUsers= 1, metaScore= 84, userScore= 83}
+
+Game{name= Super Hydorah, platform= XONE, developer= Locomalito, genre= Action, numberPlayers= , rating= T, releaseDate= Sep 20, 2017, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 64}
+
+Game{name= SteamWorld Dig 2, platform= Switch, developer= Image & Form, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Sep 21, 2017, positiveCritics= 38, neutralCritics= 0, negativeCritics= 0, positiveUsers= 42, neutralUsers= 5, negativeUsers= 0, metaScore= 88, userScore= 87}
+
+Game{name= SteamWorld Dig 2, platform= PC, developer= Image & Form, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Sep 22, 2017, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 6, neutralUsers= 0, negativeUsers= 0, metaScore= 85, userScore= 84}
+
+Game{name= Danganronpa V3: Killing Harmony, platform= PS4, developer= Spike Chunsoft, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Sep 26, 2017, positiveCritics= 35, neutralCritics= 9, negativeCritics= 0, positiveUsers= 15, neutralUsers= 5, negativeUsers= 2, metaScore= 81, userScore= 79}
+
+Game{name= Cuphead, platform= PC, developer= Studio MDHR, genre= Action, numberPlayers= , rating= E10+, releaseDate= Sep 29, 2017, positiveCritics= 30, neutralCritics= 1, negativeCritics= 0, positiveUsers= 161, neutralUsers= 19, negativeUsers= 17, metaScore= 88, userScore= 83}
+
+Game{name= Cuphead, platform= XONE, developer= Studio MDHR, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Sep 29, 2017, positiveCritics= 69, neutralCritics= 3, negativeCritics= 0, positiveUsers= 113, neutralUsers= 7, negativeUsers= 7, metaScore= 86, userScore= 85}
+
+Game{name= Lovers in a Dangerous Spacetime, platform= Switch, developer= Asteroid Base, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Oct  3, 2017, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 8, neutralUsers= 1, negativeUsers= 0, metaScore= 84, userScore= 81}
+
+Game{name= N++, platform= XONE, developer= Metanet Software Inc., genre= Action, numberPlayers= , rating= E10+, releaseDate= Oct  4, 2017, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 4, neutralUsers= 0, negativeUsers= 0, metaScore= 88, userScore= 56}
+
+Game{name= Raw Data, platform= PC, developer= Survios, genre= Action, numberPlayers= Online Multiplayer, rating= , releaseDate= Oct  5, 2017, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 1, neutralUsers= 1, negativeUsers= 0, metaScore= 87, userScore= 66}
+
+Game{name= Destiny 2, platform= PC, developer= Bungie Software, Bungie, genre= Action, numberPlayers= Up to 16 , rating= , releaseDate= Oct 24, 2017, positiveCritics= 29, neutralCritics= 7, negativeCritics= 0, positiveUsers= 69, neutralUsers= 60, negativeUsers= 254, metaScore= 83, userScore= 36}
+
+Game{name= Splasher, platform= Switch, developer= Splashteam, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Oct 26, 2017, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 83, userScore= 79}
+
+Game{name= Super Mario Odyssey, platform= Switch, developer= Nintendo, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Oct 27, 2017, positiveCritics= 113, neutralCritics= 0, negativeCritics= 0, positiveUsers= 977, neutralUsers= 62, negativeUsers= 30, metaScore= 97, userScore= 90}
+
+Game{name= Wolfenstein II: The New Colossus, platform= XONE, developer= MachineGames, genre= Action, numberPlayers= , rating= M, releaseDate= Oct 27, 2017, positiveCritics= 21, neutralCritics= 0, negativeCritics= 0, positiveUsers= 35, neutralUsers= 11, negativeUsers= 14, metaScore= 88, userScore= 62}
+
+Game{name= Wolfenstein II: The New Colossus, platform= PS4, developer= MachineGames, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct 27, 2017, positiveCritics= 66, neutralCritics= 4, negativeCritics= 0, positiveUsers= 172, neutralUsers= 27, negativeUsers= 51, metaScore= 87, userScore= 75}
+
+Game{name= Wolfenstein II: The New Colossus, platform= PC, developer= MachineGames, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct 27, 2017, positiveCritics= 38, neutralCritics= 2, negativeCritics= 0, positiveUsers= 107, neutralUsers= 38, negativeUsers= 66, metaScore= 86, userScore= 67}
+
+Game{name= Call of Duty: WWII, platform= XONE, developer= Sledgehammer Games, genre= Action, numberPlayers= Up to 18 , rating= M, releaseDate= Nov  3, 2017, positiveCritics= 18, neutralCritics= 3, negativeCritics= 0, positiveUsers= 22, neutralUsers= 28, negativeUsers= 53, metaScore= 80, userScore= 40}
+
+Game{name= Assault Android Cactus, platform= XONE, developer= Witch Beam, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Nov  7, 2017, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 84, userScore= 63}
+
+Game{name= RIVE: Ultimate Edition, platform= Switch, developer= Two Tribes, genre= Action, numberPlayers= , rating= E10+, releaseDate= Nov 17, 2017, positiveCritics= 11, neutralCritics= 1, negativeCritics= 0, positiveUsers= 6, neutralUsers= 1, negativeUsers= 2, metaScore= 82, userScore= 75}
+
+Game{name= VVVVVV, platform= Switch, developer= Terry Cavanagh, genre= Action, numberPlayers= , rating= E, releaseDate= Nov 17, 2017, positiveCritics= 7, neutralCritics= 4, negativeCritics= 0, positiveUsers= 7, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 79}
+
+Game{name= Battle Chef Brigade, platform= Switch, developer= Trinket Studios, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Nov 20, 2017, positiveCritics= 19, neutralCritics= 3, negativeCritics= 0, positiveUsers= 7, neutralUsers= 2, negativeUsers= 0, metaScore= 81, userScore= 83}
+
+Game{name= Injustice 2, platform= PC, developer= QLOC, genre= Action, numberPlayers= Online Multiplayer, rating= T, releaseDate= Nov 30, 2017, positiveCritics= 15, neutralCritics= 0, negativeCritics= 0, positiveUsers= 4, neutralUsers= 1, negativeUsers= 2, metaScore= 86, userScore= 76}
+
+Game{name= Sky Force Reloaded, platform= XONE, developer= Infinite Dreams Inc., genre= Action, numberPlayers= , rating= E10+, releaseDate= Dec  1, 2017, positiveCritics= 8, neutralCritics= 2, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 86, userScore= 72}
+
+Game{name= Teslagrad, platform= Switch, developer= Rain Games, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Dec  7, 2017, positiveCritics= 6, neutralCritics= 2, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 78}
+
+Game{name= Pinball FX3, platform= Switch, developer= Zen Studios, genre= Action, numberPlayers= , rating= E10+, releaseDate= Dec 12, 2017, positiveCritics= 15, neutralCritics= 3, negativeCritics= 0, positiveUsers= 13, neutralUsers= 2, negativeUsers= 1, metaScore= 82, userScore= 76}
+
+Game{name= The End Is Nigh, platform= Switch, developer= Nicalis, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Dec 12, 2017, positiveCritics= 12, neutralCritics= 2, negativeCritics= 0, positiveUsers= 4, neutralUsers= 2, negativeUsers= 1, metaScore= 80, userScore= 78}
+
+Game{name= Enter the Gungeon, platform= Switch, developer= Dodge Roll, genre= Action, numberPlayers= , rating= T, releaseDate= Dec 14, 2017, positiveCritics= 12, neutralCritics= 0, negativeCritics= 0, positiveUsers= 25, neutralUsers= 8, negativeUsers= 5, metaScore= 87, userScore= 79}
+
+Game{name= Mutant Mudds Collection, platform= Switch, developer= Renegade Kid, Atooi LLC, genre= Action, numberPlayers= , rating= E, releaseDate= Dec 14, 2017, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 0, neutralUsers= 1, negativeUsers= 0, metaScore= 85, userScore= 82}
+
+Game{name= 'PlayerUnknown''s Battlegrounds', platform= PC, developer= Bluehole, Inc., PUBG Corporation, genre= Action, numberPlayers= Up to more than 64 , rating= T, releaseDate= Dec 20, 2017, positiveCritics= 41, neutralCritics= 5, negativeCritics= 0, positiveUsers= 82, neutralUsers= 60, negativeUsers= 157, metaScore= 86, userScore= 46}
+
+Game{name= Super Meat Boy, platform= Switch, developer= Team Meat, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jan 11, 2018, positiveCritics= 13, neutralCritics= 0, negativeCritics= 0, positiveUsers= 6, neutralUsers= 2, negativeUsers= 3, metaScore= 84, userScore= 80}
+
+Game{name= Street Fighter V: Arcade Edition, platform= PS4, developer= Capcom, genre= Action, numberPlayers= 2, rating= T, releaseDate= Jan 16, 2018, positiveCritics= 35, neutralCritics= 1, negativeCritics= 0, positiveUsers= 31, neutralUsers= 8, negativeUsers= 15, metaScore= 87, userScore= 69}
+
+Game{name= Full Metal Furies, platform= PC, developer= Cellar Door Games, genre= Action, numberPlayers= Online Multiplayer, rating= , releaseDate= Jan 17, 2018, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 5, neutralUsers= 1, negativeUsers= 0, metaScore= 85, userScore= 71}
+
+Game{name= Celeste, platform= Switch, developer= Matt Makes Games Inc., genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Jan 25, 2018, positiveCritics= 36, neutralCritics= 0, negativeCritics= 0, positiveUsers= 95, neutralUsers= 12, negativeUsers= 9, metaScore= 92, userScore= 83}
+
+Game{name= Celeste, platform= PS4, developer= Matt Makes Games Inc., genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Jan 25, 2018, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 24, neutralUsers= 3, negativeUsers= 3, metaScore= 91, userScore= 66}
+
+Game{name= Celeste, platform= PC, developer= Matt Makes Games Inc., genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Jan 25, 2018, positiveCritics= 16, neutralCritics= 1, negativeCritics= 0, positiveUsers= 40, neutralUsers= 3, negativeUsers= 5, metaScore= 88, userScore= 77}
+
+Game{name= Super One More Jump, platform= Switch, developer= SMG Studio, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Jan 25, 2018, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 79}
+
+Game{name= Celeste, platform= XONE, developer= Matt Makes Games Inc., genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Jan 26, 2018, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 21, neutralUsers= 2, negativeUsers= 2, metaScore= 94, userScore= 66}
+
+Game{name= Dragon Ball FighterZ, platform= PS4, developer= Arc System Works, genre= Action, numberPlayers= 2, rating= T, releaseDate= Jan 26, 2018, positiveCritics= 73, neutralCritics= 1, negativeCritics= 0, positiveUsers= 54, neutralUsers= 10, negativeUsers= 9, metaScore= 87, userScore= 81}
+
+Game{name= Dragon Ball FighterZ, platform= XONE, developer= Arc System Works, genre= Action, numberPlayers= 2, rating= T, releaseDate= Jan 26, 2018, positiveCritics= 22, neutralCritics= 2, negativeCritics= 0, positiveUsers= 8, neutralUsers= 3, negativeUsers= 1, metaScore= 86, userScore= 79}
+
+Game{name= Dragon Ball FighterZ, platform= PC, developer= Arc System Works, genre= Action, numberPlayers= 2, rating= T, releaseDate= Jan 26, 2018, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 16, neutralUsers= 4, negativeUsers= 5, metaScore= 85, userScore= 75}
+
+Game{name= Pac-Man Championship Edition 2 Plus, platform= Switch, developer= Bandai Namco Games, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Feb 22, 2018, positiveCritics= 28, neutralCritics= 5, negativeCritics= 0, positiveUsers= 4, neutralUsers= 1, negativeUsers= 2, metaScore= 80, userScore= 77}
+
+Game{name= Guns, Gore & Cannoli 2, platform= PC, developer= Crazy Monkey Studios, genre= Action, numberPlayers= Online Multiplayer, rating= , releaseDate= Mar  2, 2018, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 2, metaScore= 80, userScore= 76}
+
+Game{name= DJMax Respect, platform= PS4, developer= Rocky Studio, genre= Action, numberPlayers= 2, rating= T, releaseDate= Mar  6, 2018, positiveCritics= 11, neutralCritics= 0, negativeCritics= 0, positiveUsers= 6, neutralUsers= 0, negativeUsers= 0, metaScore= 85, userScore= 76}
+
+Game{name= Warhammer: Vermintide 2, platform= PC, developer= Fatshark AB, Fatshark, genre= Action, numberPlayers= Up to 4 , rating= , releaseDate= Mar  8, 2018, positiveCritics= 51, neutralCritics= 3, negativeCritics= 0, positiveUsers= 38, neutralUsers= 7, negativeUsers= 16, metaScore= 82, userScore= 75}
+
+Game{name= Danmaku Unlimited 3, platform= Switch, developer= Doragon Entertainment, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Mar 13, 2018, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 84, userScore= 76}
+
+Game{name= 'Shantae and the Pirate''s Curse', platform= Switch, developer= WayForward, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Mar 20, 2018, positiveCritics= 11, neutralCritics= 0, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 0, metaScore= 86, userScore= 80}
+
+Game{name= Octahedron, platform= PS4, developer= Demimonde, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Mar 20, 2018, positiveCritics= 5, neutralCritics= 2, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 61}
+
+Game{name= Injustice 2: Legendary Edition, platform= PS4, developer= NetherRealm Studios, genre= Action, numberPlayers= 2, rating= , releaseDate= Mar 27, 2018, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 7, neutralUsers= 3, negativeUsers= 0, metaScore= 88, userScore= 73}
+
+Game{name= Far Cry 5, platform= XONE, developer= Ubisoft Montreal, genre= Action, numberPlayers= Up to 12 , rating= M, releaseDate= Mar 27, 2018, positiveCritics= 27, neutralCritics= 5, negativeCritics= 0, positiveUsers= 42, neutralUsers= 30, negativeUsers= 16, metaScore= 82, userScore= 67}
+
+Game{name= Far Cry 5, platform= PS4, developer= Ubisoft Montreal, genre= Action, numberPlayers= Up to 12 , rating= M, releaseDate= Mar 27, 2018, positiveCritics= 70, neutralCritics= 13, negativeCritics= 0, positiveUsers= 157, neutralUsers= 86, negativeUsers= 59, metaScore= 81, userScore= 68}
+
+Game{name= The Adventure Pals, platform= XONE, developer= Massive Monster, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Apr  3, 2018, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 1, neutralUsers= 1, negativeUsers= 0, metaScore= 80, userScore= 76}
+
+Game{name= Pinball FX3: Bethesda Pinball, platform= Switch, developer= Zen Studios, genre= Action, numberPlayers= , rating= , releaseDate= Apr  4, 2018, positiveCritics= 6, neutralCritics= 2, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 76}
+
+Game{name= Rogue Aces, platform= Switch, developer= Infinite State Games, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Apr 12, 2018, positiveCritics= 9, neutralCritics= 3, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 71}
+
+Game{name= Donkey Kong Country: Tropical Freeze, platform= Switch, developer= Retro Studios, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= May  4, 2018, positiveCritics= 70, neutralCritics= 5, negativeCritics= 0, positiveUsers= 77, neutralUsers= 5, negativeUsers= 5, metaScore= 86, userScore= 86}
+
+Game{name= Shantae: Half-Genie Hero - Ultimate Edition, platform= Switch, developer= WayForward, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= May  8, 2018, positiveCritics= 10, neutralCritics= 1, negativeCritics= 0, positiveUsers= 8, neutralUsers= 5, negativeUsers= 2, metaScore= 84, userScore= 81}
+
+Game{name= 'Dragon''s Crown Pro', platform= PS4, developer= Vanillaware, genre= Action, numberPlayers= Up to 4 , rating= T, releaseDate= May 15, 2018, positiveCritics= 37, neutralCritics= 11, negativeCritics= 0, positiveUsers= 9, neutralUsers= 1, negativeUsers= 1, metaScore= 80, userScore= 78}
+
+Game{name= FAR: Lone Sails, platform= PC, developer= Okomotive, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= May 17, 2018, positiveCritics= 21, neutralCritics= 3, negativeCritics= 0, positiveUsers= 9, neutralUsers= 3, negativeUsers= 1, metaScore= 80, userScore= 77}
+
+Game{name= N++, platform= Switch, developer= Metanet Software Inc., genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= May 24, 2018, positiveCritics= 8, neutralCritics= 2, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 81}
+
+Game{name= Ikaruga, platform= Switch, developer= Treasure, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= May 29, 2018, positiveCritics= 23, neutralCritics= 2, negativeCritics= 0, positiveUsers= 5, neutralUsers= 3, negativeUsers= 0, metaScore= 88, userScore= 79}
+
+Game{name= 'Yoku''s Island Express', platform= PC, developer= Villa Gorilla, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= May 29, 2018, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 84, userScore= 76}
+
+Game{name= 'Yoku''s Island Express', platform= PS4, developer= Villa Gorilla, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= May 29, 2018, positiveCritics= 11, neutralCritics= 0, negativeCritics= 0, positiveUsers= 5, neutralUsers= 0, negativeUsers= 0, metaScore= 83, userScore= 71}
+
+Game{name= 'Yoku''s Island Express', platform= XONE, developer= Villa Gorilla, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= May 29, 2018, positiveCritics= 25, neutralCritics= 4, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 83, userScore= 78}
+
+Game{name= 'Yoku''s Island Express', platform= Switch, developer= Villa Gorilla, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= May 29, 2018, positiveCritics= 26, neutralCritics= 2, negativeCritics= 0, positiveUsers= 11, neutralUsers= 1, negativeUsers= 0, metaScore= 82, userScore= 84}
+
+Game{name= Just Shapes & Beats, platform= Switch, developer= Berzerk Studio, genre= Action, numberPlayers= Online Multiplayer, rating= E10+, releaseDate= May 31, 2018, positiveCritics= 14, neutralCritics= 3, negativeCritics= 0, positiveUsers= 12, neutralUsers= 0, negativeUsers= 2, metaScore= 83, userScore= 81}
+
+Game{name= Unravel Two, platform= XONE, developer= Coldwood Interactive, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Jun  9, 2018, positiveCritics= 20, neutralCritics= 3, negativeCritics= 0, positiveUsers= 5, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 68}
+
+Game{name= Prey: Mooncrash, platform= XONE, developer= Arkane Studios, genre= Action, numberPlayers= , rating= , releaseDate= Jun 10, 2018, positiveCritics= 9, neutralCritics= 2, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 61}
+
+Game{name= Prey: Mooncrash, platform= PS4, developer= Arkane Studios, genre= Action, numberPlayers= , rating= M, releaseDate= Jun 11, 2018, positiveCritics= 12, neutralCritics= 0, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 83, userScore= 71}
+
+Game{name= Fortnite, platform= Switch, developer= Epic Games, genre= Action, numberPlayers= Massively Multiplayer, rating= T, releaseDate= Jun 12, 2018, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 30, neutralUsers= 14, negativeUsers= 34, metaScore= 83, userScore= 56}
+
+Game{name= Splatoon 2: Octo Expansion, platform= Switch, developer= Nintendo, genre= Action, numberPlayers= , rating= E10+, releaseDate= Jun 13, 2018, positiveCritics= 26, neutralCritics= 4, negativeCritics= 0, positiveUsers= 29, neutralUsers= 5, negativeUsers= 5, metaScore= 82, userScore= 81}
+
+Game{name= INSIDE, platform= Switch, developer= PLAYDEAD, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jun 28, 2018, positiveCritics= 29, neutralCritics= 1, negativeCritics= 0, positiveUsers= 12, neutralUsers= 1, negativeUsers= 2, metaScore= 91, userScore= 82}
+
+Game{name= LIMBO, platform= Switch, developer= PLAYDEAD, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jun 28, 2018, positiveCritics= 20, neutralCritics= 7, negativeCritics= 0, positiveUsers= 5, neutralUsers= 0, negativeUsers= 0, metaScore= 83, userScore= 83}
+
+Game{name= Warhammer: Vermintide 2, platform= XONE, developer= Fatshark AB, genre= Action, numberPlayers= Up to 4 , rating= M, releaseDate= Jul 11, 2018, positiveCritics= 14, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 83, userScore= 56}
+
+Game{name= Captain Toad: Treasure Tracker, platform= Switch, developer= Nintendo EAD Tokyo , Nintendo Software Technology, genre= Action, numberPlayers= 2, rating= E, releaseDate= Jul 13, 2018, positiveCritics= 59, neutralCritics= 7, negativeCritics= 0, positiveUsers= 23, neutralUsers= 4, negativeUsers= 2, metaScore= 82, userScore= 80}
+
+Game{name= Sonic Mania Plus, platform= Switch, developer= Sega, genre= Action, numberPlayers= 2, rating= E, releaseDate= Jul 17, 2018, positiveCritics= 24, neutralCritics= 0, negativeCritics= 0, positiveUsers= 41, neutralUsers= 2, negativeUsers= 1, metaScore= 91, userScore= 88}
+
+Game{name= Sonic Mania Plus, platform= PS4, developer= Sega, genre= Action, numberPlayers= 2, rating= E, releaseDate= Jul 17, 2018, positiveCritics= 24, neutralCritics= 1, negativeCritics= 0, positiveUsers= 17, neutralUsers= 1, negativeUsers= 0, metaScore= 87, userScore= 78}
+
+Game{name= Flat Heroes, platform= Switch, developer= Parallel Circles, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Aug  2, 2018, positiveCritics= 12, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 1, metaScore= 82, userScore= 82}
+
+Game{name= Salt and Sanctuary, platform= Switch, developer= Ska Studios, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Aug  2, 2018, positiveCritics= 18, neutralCritics= 3, negativeCritics= 0, positiveUsers= 3, neutralUsers= 2, negativeUsers= 2, metaScore= 82, userScore= 80}
+
+Game{name= Dead Cells, platform= XONE, developer= Motion Twin, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Aug  7, 2018, positiveCritics= 18, neutralCritics= 0, negativeCritics= 0, positiveUsers= 7, neutralUsers= 0, negativeUsers= 0, metaScore= 91, userScore= 80}
+
+Game{name= Dead Cells, platform= Switch, developer= Motion Twin, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Aug  7, 2018, positiveCritics= 36, neutralCritics= 0, negativeCritics= 0, positiveUsers= 29, neutralUsers= 4, negativeUsers= 3, metaScore= 89, userScore= 84}
+
+Game{name= Dead Cells, platform= PC, developer= Motion Twin, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Aug  7, 2018, positiveCritics= 33, neutralCritics= 1, negativeCritics= 0, positiveUsers= 14, neutralUsers= 5, negativeUsers= 8, metaScore= 89, userScore= 75}
+
+Game{name= Dead Cells, platform= PS4, developer= Motion Twin, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Aug  7, 2018, positiveCritics= 30, neutralCritics= 1, negativeCritics= 0, positiveUsers= 16, neutralUsers= 5, negativeUsers= 0, metaScore= 87, userScore= 75}
+
+Game{name= Overcooked! 2, platform= XONE, developer= Ghost Town Games Ltd., genre= Action, numberPlayers= Up to 4 , rating= E, releaseDate= Aug  7, 2018, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 2, metaScore= 83, userScore= 62}
+
+Game{name= Flipping Death, platform= Switch, developer= Zoink!, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Aug  7, 2018, positiveCritics= 11, neutralCritics= 1, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 83, userScore= 80}
+
+Game{name= Overcooked! 2, platform= Switch, developer= Ghost Town Games Ltd., genre= Action, numberPlayers= Up to 4 , rating= E, releaseDate= Aug  7, 2018, positiveCritics= 33, neutralCritics= 5, negativeCritics= 0, positiveUsers= 6, neutralUsers= 2, negativeUsers= 1, metaScore= 81, userScore= 80}
+
+Game{name= Overcooked! 2, platform= PS4, developer= Ghost Town Games Ltd., genre= Action, numberPlayers= Up to 4 , rating= E, releaseDate= Aug  7, 2018, positiveCritics= 35, neutralCritics= 2, negativeCritics= 0, positiveUsers= 4, neutralUsers= 3, negativeUsers= 1, metaScore= 81, userScore= 72}
+
+Game{name= Guacamelee! 2, platform= PC, developer= DrinkBox Studios, genre= Action, numberPlayers= Up to 4 , rating= E10+, releaseDate= Aug 21, 2018, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 0, metaScore= 84, userScore= 76}
+
+Game{name= Guacamelee! 2, platform= PS4, developer= DrinkBox Studios, genre= Action, numberPlayers= Up to 4 , rating= E10+, releaseDate= Aug 21, 2018, positiveCritics= 55, neutralCritics= 13, negativeCritics= 0, positiveUsers= 12, neutralUsers= 2, negativeUsers= 0, metaScore= 83, userScore= 80}
+
+Game{name= The Messenger, platform= Switch, developer= Sabotage Studio, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Aug 30, 2018, positiveCritics= 40, neutralCritics= 2, negativeCritics= 0, positiveUsers= 20, neutralUsers= 3, negativeUsers= 5, metaScore= 86, userScore= 82}
+
+Game{name= The Messenger, platform= PC, developer= Sabotage Studio, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Aug 30, 2018, positiveCritics= 12, neutralCritics= 0, negativeCritics= 0, positiveUsers= 10, neutralUsers= 1, negativeUsers= 1, metaScore= 83, userScore= 72}
+
+Game{name= Freedom Planet, platform= Switch, developer= GalaxyTrail, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Aug 30, 2018, positiveCritics= 13, neutralCritics= 3, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 83}
+
+Game{name= Destiny 2: Forsaken, platform= XONE, developer= Bungie Software, Bungie, genre= Action, numberPlayers= , rating= T, releaseDate= Sep  4, 2018, positiveCritics= 16, neutralCritics= 0, negativeCritics= 0, positiveUsers= 15, neutralUsers= 2, negativeUsers= 5, metaScore= 86, userScore= 54}
+
+Game{name= 'PlayerUnknown''s Battlegrounds', platform= XONE, developer= Bluehole, Inc., genre= Action, numberPlayers= Up to more than 64 , rating= T, releaseDate= Sep  4, 2018, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 12, neutralUsers= 6, negativeUsers= 9, metaScore= 85, userScore= 50}
+
+Game{name= Destiny 2: Forsaken, platform= PC, developer= Bungie Software, Bungie, genre= Action, numberPlayers= Up to 16 , rating= T, releaseDate= Sep  4, 2018, positiveCritics= 14, neutralCritics= 3, negativeCritics= 0, positiveUsers= 19, neutralUsers= 4, negativeUsers= 12, metaScore= 84, userScore= 58}
+
+Game{name= Destiny 2: Forsaken, platform= PS4, developer= Bungie Software, Bungie, genre= Action, numberPlayers= , rating= T, releaseDate= Sep  4, 2018, positiveCritics= 34, neutralCritics= 7, negativeCritics= 0, positiveUsers= 50, neutralUsers= 9, negativeUsers= 17, metaScore= 82, userScore= 62}
+
+Game{name= Velocity 2X, platform= Switch, developer= FuturLab, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Sep 20, 2018, positiveCritics= 12, neutralCritics= 1, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 1, metaScore= 87, userScore= 74}
+
+Game{name= Timespinner, platform= PS4, developer= Lunar Ray Games, genre= Action, numberPlayers= Online Multiplayer, rating= , releaseDate= Sep 25, 2018, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 54}
+
+Game{name= Wandersong, platform= Switch, developer= Dumb and Fat Games, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Sep 27, 2018, positiveCritics= 15, neutralCritics= 3, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 82}
+
+Game{name= Dragon Ball FighterZ, platform= Switch, developer= Arc System Works, genre= Action, numberPlayers= Up to 6 , rating= T, releaseDate= Sep 28, 2018, positiveCritics= 22, neutralCritics= 1, negativeCritics= 0, positiveUsers= 13, neutralUsers= 0, negativeUsers= 0, metaScore= 88, userScore= 85}
+
+Game{name= Mega Man 11, platform= PS4, developer= Capcom, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Oct  2, 2018, positiveCritics= 41, neutralCritics= 10, negativeCritics= 1, positiveUsers= 15, neutralUsers= 3, negativeUsers= 1, metaScore= 82, userScore= 80}
+
+Game{name= Mega Man 11, platform= Switch, developer= Capcom, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Oct  2, 2018, positiveCritics= 24, neutralCritics= 3, negativeCritics= 0, positiveUsers= 16, neutralUsers= 3, negativeUsers= 1, metaScore= 80, userScore= 85}
+
+Game{name= 'Overcooked! 2: Surf ''n'' Turf', platform= Switch, developer= Ghost Town Games Ltd., genre= Action, numberPlayers= , rating= , releaseDate= Oct  3, 2018, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 83, userScore= 83}
+
+Game{name= Guacamelee! Super Turbo Championship Edition, platform= Switch, developer= DrinkBox Studios, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Oct  8, 2018, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 1, metaScore= 86, userScore= 79}
+
+Game{name= The Missing: JJ Macfield and the Island of Memories, platform= XONE, developer= White Owls, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct 11, 2018, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 84, userScore= 59}
+
+Game{name= Call of Duty: Black Ops 4, platform= XONE, developer= Treyarch, genre= Action, numberPlayers= Up to more than 64 , rating= M, releaseDate= Oct 12, 2018, positiveCritics= 18, neutralCritics= 1, negativeCritics= 0, positiveUsers= 34, neutralUsers= 16, negativeUsers= 37, metaScore= 85, userScore= 41}
+
+Game{name= Call of Duty: Black Ops 4, platform= PS4, developer= Treyarch, genre= Action, numberPlayers= Up to more than 64 , rating= M, releaseDate= Oct 12, 2018, positiveCritics= 68, neutralCritics= 4, negativeCritics= 0, positiveUsers= 136, neutralUsers= 58, negativeUsers= 222, metaScore= 83, userScore= 41}
+
+Game{name= Call of Duty: Black Ops 4, platform= PC, developer= Treyarch, genre= Action, numberPlayers= Up to more than 64 , rating= M, releaseDate= Oct 12, 2018, positiveCritics= 25, neutralCritics= 4, negativeCritics= 0, positiveUsers= 34, neutralUsers= 18, negativeUsers= 175, metaScore= 83, userScore= 31}
+
+Game{name= SoulCalibur VI, platform= PC, developer= Bandai Namco Games, Project Soul, genre= Action, numberPlayers= 2, rating= T, releaseDate= Oct 18, 2018, positiveCritics= 15, neutralCritics= 2, negativeCritics= 0, positiveUsers= 9, neutralUsers= 3, negativeUsers= 6, metaScore= 80, userScore= 46}
+
+Game{name= SoulCalibur VI, platform= XONE, developer= Bandai Namco Games, Project Soul, genre= Action, numberPlayers= 2, rating= T, releaseDate= Oct 19, 2018, positiveCritics= 19, neutralCritics= 0, negativeCritics= 0, positiveUsers= 5, neutralUsers= 2, negativeUsers= 1, metaScore= 84, userScore= 47}
+
+Game{name= SoulCalibur VI, platform= PS4, developer= Bandai Namco Games, Project Soul, genre= Action, numberPlayers= 2, rating= T, releaseDate= Oct 19, 2018, positiveCritics= 72, neutralCritics= 4, negativeCritics= 0, positiveUsers= 29, neutralUsers= 9, negativeUsers= 12, metaScore= 84, userScore= 63}
+
+Game{name= Rogue Legacy, platform= Switch, developer= Cellar Door Games, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Nov  6, 2018, positiveCritics= 5, neutralCritics= 2, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 82}
+
+Game{name= Battlefield V, platform= PC, developer= EA DICE, genre= Action, numberPlayers= Up to 64 , rating= M, releaseDate= Nov 15, 2018, positiveCritics= 44, neutralCritics= 7, negativeCritics= 0, positiveUsers= 181, neutralUsers= 49, negativeUsers= 473, metaScore= 81, userScore= 28}
+
+Game{name= Beat Saber, platform= PS4, developer= Hyperbolic Magnetism, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Nov 20, 2018, positiveCritics= 21, neutralCritics= 0, negativeCritics= 0, positiveUsers= 17, neutralUsers= 1, negativeUsers= 1, metaScore= 84, userScore= 84}
+
+Game{name= OkunoKA, platform= Switch, developer= Caracal Games, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Nov 30, 2018, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 81}
+
+Game{name= Super Smash Bros. Ultimate, platform= Switch, developer= Nintendo, HAL Labs, Bandai Namco Games, Sora Ltd., genre= Action, numberPlayers= Up to 8 , rating= E10+, releaseDate= Dec  7, 2018, positiveCritics= 97, neutralCritics= 1, negativeCritics= 0, positiveUsers= 512, neutralUsers= 49, negativeUsers= 53, metaScore= 93, userScore= 86}
+
+Game{name= DUSK, platform= PC, developer= New Blood Interactive, genre= Action, numberPlayers= Online Multiplayer, rating= , releaseDate= Dec 10, 2018, positiveCritics= 17, neutralCritics= 0, negativeCritics= 0, positiveUsers= 13, neutralUsers= 7, negativeUsers= 0, metaScore= 88, userScore= 82}
+
+Game{name= Guacamelee! 2, platform= Switch, developer= DrinkBox Studios, genre= Action, numberPlayers= Up to 4 , rating= , releaseDate= Dec 10, 2018, positiveCritics= 17, neutralCritics= 0, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 1, metaScore= 87, userScore= 83}
+
+Game{name= Kingdom: Two Crowns, platform= Switch, developer= Raw Fury, Noio, genre= Action, numberPlayers= Online Multiplayer, rating= , releaseDate= Dec 11, 2018, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 1, metaScore= 84, userScore= 81}
+
+Game{name= GRIS, platform= PC, developer= Nomada Studio, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Dec 13, 2018, positiveCritics= 34, neutralCritics= 7, negativeCritics= 0, positiveUsers= 32, neutralUsers= 3, negativeUsers= 3, metaScore= 84, userScore= 86}
+
+Game{name= GRIS, platform= Switch, developer= Nomada Studio, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Dec 13, 2018, positiveCritics= 37, neutralCritics= 4, negativeCritics= 0, positiveUsers= 24, neutralUsers= 2, negativeUsers= 1, metaScore= 84, userScore= 86}
+
+Game{name= Aaero: Complete Edition, platform= Switch, developer= Mad Fellows Ltd, genre= Action, numberPlayers= , rating= , releaseDate= Dec 24, 2018, positiveCritics= 5, neutralCritics= 2, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 80}
+
+Game{name= Dynasty Warriors 8: Xtreme Legends - Definitive Edition, platform= Switch, developer= Omega Force, genre= Action, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Dec 27, 2018, positiveCritics= 10, neutralCritics= 1, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 1, metaScore= 83, userScore= 77}
+
+Game{name= New Super Mario Bros. U Deluxe, platform= Switch, developer= Nintendo, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Jan 11, 2019, positiveCritics= 58, neutralCritics= 11, negativeCritics= 0, positiveUsers= 22, neutralUsers= 5, negativeUsers= 10, metaScore= 80, userScore= 73}
+
+Game{name= Guacamelee! 2, platform= XONE, developer= DrinkBox Studios, genre= Action, numberPlayers= Up to 4 , rating= , releaseDate= Jan 18, 2019, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 1, neutralUsers= 1, negativeUsers= 0, metaScore= 85, userScore= 37}
+
+Game{name= Unruly Heroes, platform= PC, developer= Magic Design Studios, genre= Action, numberPlayers= Online Multiplayer, rating= , releaseDate= Jan 23, 2019, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 0, metaScore= 82, userScore= 61}
+
+Game{name= Downwell, platform= Switch, developer= Moppin, genre= Action, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Jan 31, 2019, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 87, userScore= 68}
+
+Game{name= Apex Legends, platform= PS4, developer= Respawn Entertainment, genre= Action, numberPlayers= Up to 60 , rating= T, releaseDate= Feb  4, 2019, positiveCritics= 26, neutralCritics= 0, negativeCritics= 0, positiveUsers= 147, neutralUsers= 38, negativeUsers= 55, metaScore= 89, userScore= 68}
+
+Game{name= Apex Legends, platform= XONE, developer= Respawn Entertainment, genre= Action, numberPlayers= Online Multiplayer, rating= T, releaseDate= Feb  4, 2019, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 23, neutralUsers= 4, negativeUsers= 10, metaScore= 88, userScore= 67}
+
+Game{name= Apex Legends, platform= PC, developer= Respawn Entertainment, genre= Action, numberPlayers= Online Multiplayer, rating= T, releaseDate= Feb  4, 2019, positiveCritics= 23, neutralCritics= 0, negativeCritics= 0, positiveUsers= 104, neutralUsers= 37, negativeUsers= 81, metaScore= 88, userScore= 62}
+
+Game{name= BlazBlue: Central Fiction - Special Edition, platform= Switch, developer= Arc System Works, genre= Action, numberPlayers= Up to 8 , rating= T, releaseDate= Feb  7, 2019, positiveCritics= 11, neutralCritics= 1, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 85, userScore= 83}
+
+Game{name= Metro Exodus, platform= PC, developer= 4A Games, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Feb 15, 2019, positiveCritics= 45, neutralCritics= 6, negativeCritics= 0, positiveUsers= 482, neutralUsers= 65, negativeUsers= 199, metaScore= 83, userScore= 68}
+
+Game{name= Metro Exodus, platform= XONE, developer= 4A Games, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Feb 15, 2019, positiveCritics= 27, neutralCritics= 5, negativeCritics= 0, positiveUsers= 58, neutralUsers= 11, negativeUsers= 20, metaScore= 82, userScore= 67}
+
+Game{name= Metro Exodus, platform= PS4, developer= 4A Games, genre= Action, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Feb 15, 2019, positiveCritics= 31, neutralCritics= 9, negativeCritics= 0, positiveUsers= 98, neutralUsers= 22, negativeUsers= 46, metaScore= 80, userScore= 68}
+
+Game{name= Ape Out, platform= Switch, developer= Gabe Cuzzillo, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Feb 28, 2019, positiveCritics= 27, neutralCritics= 2, negativeCritics= 0, positiveUsers= 4, neutralUsers= 1, negativeUsers= 0, metaScore= 84, userScore= 54}
+
+Game{name= Ape Out, platform= PC, developer= Gabe Cuzzillo, genre= Action, numberPlayers= No Online Multiplayer, rating= , releaseDate= Feb 28, 2019, positiveCritics= 29, neutralCritics= 3, negativeCritics= 0, positiveUsers= 3, neutralUsers= 2, negativeUsers= 1, metaScore= 83, userScore= 60}
+
+Game{name= Assault Android Cactus+, platform= Switch, developer= Witch Beam, genre= Action, numberPlayers= , rating= , releaseDate= Mar  8, 2019, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 87, userScore= 87}
+
+Game{name= 'Kirby''s Extra Epic Yarn', platform= 3DS, developer= Good-Feel, genre= Action, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Mar  8, 2019, positiveCritics= 36, neutralCritics= 6, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 2, metaScore= 80, userScore= 76}
+
+Game{name= Captain Toad: Treasure Tracker - Special Episode, platform= Switch, developer= Nintendo Software Technology, genre= Action, numberPlayers= , rating= , releaseDate= Mar 14, 2019, positiveCritics= 6, neutralCritics= 2, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 80}
+
+Game{name= The Messenger, platform= PS4, developer= Sabotage Studio, genre= Action, numberPlayers= , rating= E10+, releaseDate= Mar 19, 2019, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 69}
+
+Game{name= Unravel Two, platform= Switch, developer= Coldwood Interactive, genre= Action, numberPlayers= , rating= E, releaseDate= Mar 22, 2019, positiveCritics= 12, neutralCritics= 0, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 80}
+
+Game{name= 'Yoshi''s Crafted World', platform= Switch, developer= Good-Feel, genre= Action, numberPlayers= , rating= E, releaseDate= Mar 29, 2019, positiveCritics= 44, neutralCritics= 8, negativeCritics= 0, positiveUsers= 13, neutralUsers= 0, negativeUsers= 3, metaScore= 80, userScore= 85}
+

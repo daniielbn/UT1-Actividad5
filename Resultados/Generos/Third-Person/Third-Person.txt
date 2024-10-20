@@ -1,0 +1,2 @@
+Game{name= Broken Age, platform= PS4, developer= Double Fine Productions, genre= Third-Person, numberPlayers= , rating= E10+, releaseDate= Apr 28, 2015, positiveCritics= 18, neutralCritics= 3, negativeCritics= 0, positiveUsers= 13, neutralUsers= 9, negativeUsers= 2, metaScore= 81, userScore= 73}
+

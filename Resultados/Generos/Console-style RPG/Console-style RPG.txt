@@ -1,0 +1,4 @@
+Game{name= Bravely Default, platform= 3DS, developer= Silicon Studio, genre= Console-style RPG, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Feb  7, 2014, positiveCritics= 64, neutralCritics= 3, negativeCritics= 0, positiveUsers= 89, neutralUsers= 21, negativeUsers= 17, metaScore= 85, userScore= 85}
+
+Game{name= The Legend of Heroes: Trails in the Sky SC, platform= PC, developer= Falcom, genre= Console-style RPG, numberPlayers= No Online Multiplayer, rating= RP, releaseDate= Oct 29, 2015, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 5, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 86}
+

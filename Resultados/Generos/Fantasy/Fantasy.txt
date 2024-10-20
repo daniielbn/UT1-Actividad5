@@ -1,0 +1,54 @@
+Game{name= World of Warcraft: Mists of Pandaria, platform= PC, developer= Blizzard Entertainment, genre= Fantasy, numberPlayers= Massively Multiplayer, rating= T, releaseDate= Sep 25, 2012, positiveCritics= 38, neutralCritics= 4, negativeCritics= 0, positiveUsers= 146, neutralUsers= 36, negativeUsers= 227, metaScore= 82, userScore= 50}
+
+Game{name= The Wolf Among Us: Episode 3 - A Crooked Mile, platform= PC, developer= Telltale Games, genre= Fantasy, numberPlayers= , rating= M, releaseDate= Apr  8, 2014, positiveCritics= 31, neutralCritics= 7, negativeCritics= 0, positiveUsers= 21, neutralUsers= 2, negativeUsers= 1, metaScore= 82, userScore= 86}
+
+Game{name= Final Fantasy XIV Online: A Realm Reborn, platform= PS4, developer= Square Enix, genre= Fantasy, numberPlayers= Up to 64 , rating= T, releaseDate= Apr 14, 2014, positiveCritics= 33, neutralCritics= 2, negativeCritics= 0, positiveUsers= 43, neutralUsers= 11, negativeUsers= 17, metaScore= 86, userScore= 73}
+
+Game{name= The Wolf Among Us: Episode 5 - Cry Wolf, platform= PC, developer= Telltale Games, genre= Fantasy, numberPlayers= , rating= M, releaseDate= Jul  8, 2014, positiveCritics= 27, neutralCritics= 6, negativeCritics= 0, positiveUsers= 35, neutralUsers= 3, negativeUsers= 1, metaScore= 84, userScore= 88}
+
+Game{name= Disgaea 4: A Promise Revisited, platform= VITA, developer= Nippon Ichi Software, genre= Fantasy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Aug 12, 2014, positiveCritics= 28, neutralCritics= 4, negativeCritics= 0, positiveUsers= 9, neutralUsers= 1, negativeUsers= 0, metaScore= 82, userScore= 81}
+
+Game{name= Age of Wonders III - Golden Realms, platform= PC, developer= Triumph Studios, genre= Fantasy, numberPlayers= , rating= , releaseDate= Sep 18, 2014, positiveCritics= 6, neutralCritics= 2, negativeCritics= 0, positiveUsers= 10, neutralUsers= 0, negativeUsers= 1, metaScore= 82, userScore= 86}
+
+Game{name= Middle-earth: Shadow of Mordor, platform= XONE, developer= Monolith Productions, genre= Fantasy, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Sep 30, 2014, positiveCritics= 12, neutralCritics= 0, negativeCritics= 0, positiveUsers= 128, neutralUsers= 23, negativeUsers= 8, metaScore= 87, userScore= 80}
+
+Game{name= Middle-earth: Shadow of Mordor, platform= PC, developer= Monolith Productions, genre= Fantasy, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Sep 30, 2014, positiveCritics= 14, neutralCritics= 3, negativeCritics= 0, positiveUsers= 270, neutralUsers= 90, negativeUsers= 40, metaScore= 84, userScore= 79}
+
+Game{name= Middle-earth: Shadow of Mordor, platform= PS4, developer= Monolith Productions, genre= Fantasy, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Sep 30, 2014, positiveCritics= 77, neutralCritics= 8, negativeCritics= 0, positiveUsers= 395, neutralUsers= 91, negativeUsers= 42, metaScore= 84, userScore= 80}
+
+Game{name= 'The Legend of Zelda: Majora''s Mask 3D', platform= 3DS, developer= GREZZO, genre= Fantasy, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Feb 13, 2015, positiveCritics= 81, neutralCritics= 1, negativeCritics= 0, positiveUsers= 103, neutralUsers= 12, negativeUsers= 7, metaScore= 89, userScore= 89}
+
+Game{name= DmC: Devil May Cry Definitive Edition, platform= XONE, developer= Ninja Theory, QLOC, genre= Fantasy, numberPlayers= , rating= M, releaseDate= Mar 10, 2015, positiveCritics= 20, neutralCritics= 0, negativeCritics= 0, positiveUsers= 15, neutralUsers= 4, negativeUsers= 3, metaScore= 86, userScore= 75}
+
+Game{name= DmC: Devil May Cry Definitive Edition, platform= PS4, developer= Ninja Theory, QLOC, genre= Fantasy, numberPlayers= , rating= M, releaseDate= Mar 10, 2015, positiveCritics= 50, neutralCritics= 3, negativeCritics= 0, positiveUsers= 43, neutralUsers= 8, negativeUsers= 6, metaScore= 83, userScore= 73}
+
+Game{name= Bloodborne, platform= PS4, developer= From Software, genre= Fantasy, numberPlayers= Up to 5 , rating= M, releaseDate= Mar 24, 2015, positiveCritics= 99, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1298, neutralUsers= 108, negativeUsers= 118, metaScore= 92, userScore= 89}
+
+Game{name= Splatoon, platform= WIIU, developer= Nintendo, genre= Fantasy, numberPlayers= Up to 8 , rating= E10+, releaseDate= May 29, 2015, positiveCritics= 75, neutralCritics= 13, negativeCritics= 0, positiveUsers= 343, neutralUsers= 37, negativeUsers= 17, metaScore= 81, userScore= 87}
+
+Game{name= Disgaea 5: Alliance of Vengeance, platform= PS4, developer= Nippon Ichi Software, genre= Fantasy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Oct  6, 2015, positiveCritics= 35, neutralCritics= 8, negativeCritics= 0, positiveUsers= 18, neutralUsers= 0, negativeUsers= 1, metaScore= 80, userScore= 82}
+
+Game{name= Chaos Reborn, platform= PC, developer= Snapshot Games Inc., genre= Fantasy, numberPlayers= , rating= , releaseDate= Oct 26, 2015, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 22, neutralUsers= 5, negativeUsers= 1, metaScore= 85, userScore= 81}
+
+Game{name= Rise of the Tomb Raider, platform= XONE, developer= Crystal Dynamics, genre= Fantasy, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Nov 10, 2015, positiveCritics= 96, neutralCritics= 6, negativeCritics= 0, positiveUsers= 181, neutralUsers= 18, negativeUsers= 16, metaScore= 86, userScore= 80}
+
+Game{name= Fire Emblem Fates: Conquest, platform= 3DS, developer= Intelligent Systems, genre= Fantasy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Feb 19, 2016, positiveCritics= 39, neutralCritics= 1, negativeCritics= 0, positiveUsers= 57, neutralUsers= 14, negativeUsers= 13, metaScore= 87, userScore= 82}
+
+Game{name= Severed, platform= VITA, developer= DrinkBox Studios, genre= Fantasy, numberPlayers= , rating= T, releaseDate= Apr 26, 2016, positiveCritics= 54, neutralCritics= 9, negativeCritics= 1, positiveUsers= 12, neutralUsers= 0, negativeUsers= 1, metaScore= 82, userScore= 78}
+
+Game{name= Duelyst, platform= PC, developer= Counterplay Games, genre= Fantasy, numberPlayers= Online Multiplayer, rating= , releaseDate= May  3, 2016, positiveCritics= 12, neutralCritics= 2, negativeCritics= 0, positiveUsers= 9, neutralUsers= 1, negativeUsers= 3, metaScore= 82, userScore= 77}
+
+Game{name= Starbound, platform= PC, developer= Chucklefish, genre= Fantasy, numberPlayers= Online Multiplayer, rating= E10+, releaseDate= Jul 22, 2016, positiveCritics= 18, neutralCritics= 3, negativeCritics= 0, positiveUsers= 52, neutralUsers= 33, negativeUsers= 33, metaScore= 81, userScore= 71}
+
+Game{name= Owlboy, platform= PC, developer= D-Pad Studio, genre= Fantasy, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Nov  1, 2016, positiveCritics= 44, neutralCritics= 3, negativeCritics= 0, positiveUsers= 23, neutralUsers= 14, negativeUsers= 7, metaScore= 88, userScore= 77}
+
+Game{name= The Last Guardian, platform= PS4, developer= SCE Japan Studio, genre= Fantasy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Dec  6, 2016, positiveCritics= 82, neutralCritics= 27, negativeCritics= 1, positiveUsers= 270, neutralUsers= 69, negativeUsers= 68, metaScore= 82, userScore= 80}
+
+Game{name= Night in the Woods, platform= PC, developer= Infinite Fall, genre= Fantasy, numberPlayers= No Online Multiplayer, rating= , releaseDate= Feb 21, 2017, positiveCritics= 30, neutralCritics= 0, negativeCritics= 0, positiveUsers= 24, neutralUsers= 11, negativeUsers= 9, metaScore= 88, userScore= 78}
+
+Game{name= Night in the Woods, platform= PS4, developer= Infinite Fall, genre= Fantasy, numberPlayers= , rating= T, releaseDate= Feb 21, 2017, positiveCritics= 15, neutralCritics= 0, negativeCritics= 0, positiveUsers= 22, neutralUsers= 2, negativeUsers= 3, metaScore= 87, userScore= 74}
+
+Game{name= The Legend of Zelda: Breath of the Wild, platform= WIIU, developer= Nintendo, genre= Fantasy, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Mar  3, 2017, positiveCritics= 13, neutralCritics= 0, negativeCritics= 0, positiveUsers= 381, neutralUsers= 44, negativeUsers= 32, metaScore= 96, userScore= 82}
+
+Game{name= 'Hellblade: Senua''s Sacrifice', platform= PS4, developer= Ninja Theory, genre= Fantasy, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Aug  8, 2017, positiveCritics= 61, neutralCritics= 6, negativeCritics= 1, positiveUsers= 142, neutralUsers= 22, negativeUsers= 28, metaScore= 81, userScore= 81}
+

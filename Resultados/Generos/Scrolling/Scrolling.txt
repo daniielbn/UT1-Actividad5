@@ -1,0 +1,2 @@
+Game{name= Affordable Space Adventures, platform= WIIU, developer= KnapNok Games, genre= Scrolling, numberPlayers= , rating= E, releaseDate= Apr  9, 2015, positiveCritics= 29, neutralCritics= 7, negativeCritics= 0, positiveUsers= 16, neutralUsers= 1, negativeUsers= 0, metaScore= 81, userScore= 82}
+

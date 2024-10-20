@@ -1,0 +1,38 @@
+Game{name= Mass Effect 3: Special Edition, platform= WIIU, developer= Straight Right, genre= Action RPG, numberPlayers= Up to 4 , rating= M, releaseDate= Nov 13, 2012, positiveCritics= 32, neutralCritics= 1, negativeCritics= 0, positiveUsers= 18, neutralUsers= 3, negativeUsers= 4, metaScore= 85, userScore= 76}
+
+Game{name= Path of Exile, platform= PC, developer= Grinding Gear Games, genre= Action RPG, numberPlayers= Online Multiplayer, rating= , releaseDate= Jan 25, 2013, positiveCritics= 25, neutralCritics= 2, negativeCritics= 0, positiveUsers= 289, neutralUsers= 48, negativeUsers= 47, metaScore= 86, userScore= 81}
+
+Game{name= The Legend of Zelda: A Link Between Worlds, platform= 3DS, developer= Nintendo, genre= Action RPG, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Nov 22, 2013, positiveCritics= 79, neutralCritics= 2, negativeCritics= 0, positiveUsers= 220, neutralUsers= 19, negativeUsers= 9, metaScore= 91, userScore= 90}
+
+Game{name= Divinity: Original Sin, platform= PC, developer= Larian Studios Games Ltd, genre= Action RPG, numberPlayers= 2, rating= M, releaseDate= Jan 17, 2014, positiveCritics= 56, neutralCritics= 3, negativeCritics= 0, positiveUsers= 369, neutralUsers= 59, negativeUsers= 42, metaScore= 87, userScore= 87}
+
+Game{name= Diablo III: Reaper of Souls, platform= PC, developer= Blizzard Entertainment, genre= Action RPG, numberPlayers= , rating= M, releaseDate= Mar 25, 2014, positiveCritics= 73, neutralCritics= 2, negativeCritics= 0, positiveUsers= 156, neutralUsers= 69, negativeUsers= 134, metaScore= 87, userScore= 66}
+
+Game{name= Dark Souls II, platform= PC, developer= From Software, genre= Action RPG, numberPlayers= Up to 4 , rating= T, releaseDate= Apr 25, 2014, positiveCritics= 36, neutralCritics= 0, negativeCritics= 0, positiveUsers= 276, neutralUsers= 65, negativeUsers= 152, metaScore= 91, userScore= 72}
+
+Game{name= Diablo III: Ultimate Evil Edition, platform= PS4, developer= Blizzard Entertainment, genre= Action RPG, numberPlayers= Up to 4 , rating= M, releaseDate= Aug 19, 2014, positiveCritics= 63, neutralCritics= 0, negativeCritics= 0, positiveUsers= 131, neutralUsers= 20, negativeUsers= 19, metaScore= 90, userScore= 79}
+
+Game{name= The Witcher 3: Wild Hunt, platform= PC, developer= CD Projekt Red Studio, genre= Action RPG, numberPlayers= No Online Multiplayer, rating= M, releaseDate= May 18, 2015, positiveCritics= 32, neutralCritics= 0, negativeCritics= 0, positiveUsers= 1272, neutralUsers= 84, negativeUsers= 69, metaScore= 93, userScore= 94}
+
+Game{name= The Witcher 3: Wild Hunt, platform= PS4, developer= CD Projekt Red Studio, genre= Action RPG, numberPlayers= No Online Multiplayer, rating= M, releaseDate= May 19, 2015, positiveCritics= 78, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1079, neutralUsers= 115, negativeUsers= 79, metaScore= 92, userScore= 92}
+
+Game{name= The Witcher 3: Wild Hunt, platform= XONE, developer= CD Projekt Red Studio, genre= Action RPG, numberPlayers= No Online Multiplayer, rating= M, releaseDate= May 19, 2015, positiveCritics= 13, neutralCritics= 0, negativeCritics= 0, positiveUsers= 211, neutralUsers= 22, negativeUsers= 17, metaScore= 91, userScore= 92}
+
+Game{name= Xenoblade Chronicles X, platform= WIIU, developer= Monolith Soft, genre= Action RPG, numberPlayers= Up to 32 , rating= T, releaseDate= Dec  4, 2015, positiveCritics= 77, neutralCritics= 10, negativeCritics= 0, positiveUsers= 220, neutralUsers= 20, negativeUsers= 21, metaScore= 84, userScore= 91}
+
+Game{name= Grim Dawn, platform= PC, developer= Crate Entertainment, genre= Action RPG, numberPlayers= , rating= , releaseDate= Feb 25, 2016, positiveCritics= 29, neutralCritics= 0, negativeCritics= 0, positiveUsers= 101, neutralUsers= 24, negativeUsers= 9, metaScore= 83, userScore= 85}
+
+Game{name= Final Fantasy XV, platform= XONE, developer= Square Enix, genre= Action RPG, numberPlayers= Up to 4 , rating= T, releaseDate= Nov 29, 2016, positiveCritics= 11, neutralCritics= 2, negativeCritics= 0, positiveUsers= 38, neutralUsers= 22, negativeUsers= 25, metaScore= 83, userScore= 77}
+
+Game{name= Final Fantasy XV, platform= PS4, developer= Square Enix, genre= Action RPG, numberPlayers= Up to 4 , rating= T, releaseDate= Nov 29, 2016, positiveCritics= 89, neutralCritics= 20, negativeCritics= 0, positiveUsers= 542, neutralUsers= 230, negativeUsers= 228, metaScore= 81, userScore= 76}
+
+Game{name= Divinity: Original Sin II, platform= PC, developer= Larian Studios Games Ltd, genre= Action RPG, numberPlayers= Online Multiplayer, rating= , releaseDate= Sep 14, 2017, positiveCritics= 71, neutralCritics= 1, negativeCritics= 0, positiveUsers= 222, neutralUsers= 26, negativeUsers= 17, metaScore= 93, userScore= 88}
+
+Game{name= Ni no Kuni II: Revenant Kingdom, platform= PS4, developer= Level 5, genre= Action RPG, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Mar 23, 2018, positiveCritics= 76, neutralCritics= 8, negativeCritics= 0, positiveUsers= 77, neutralUsers= 40, negativeUsers= 18, metaScore= 84, userScore= 74}
+
+Game{name= 'Pokemon: Let''s Go, Eevee!', platform= Switch, developer= Game Freak, genre= Action RPG, numberPlayers= Online Multiplayer, rating= E, releaseDate= Nov 16, 2018, positiveCritics= 61, neutralCritics= 15, negativeCritics= 1, positiveUsers= 187, neutralUsers= 29, negativeUsers= 159, metaScore= 80, userScore= 61}
+
+Game{name= Kingdom Hearts III, platform= PS4, developer= Square Enix, genre= Action RPG, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Jan 29, 2019, positiveCritics= 78, neutralCritics= 5, negativeCritics= 1, positiveUsers= 259, neutralUsers= 74, negativeUsers= 55, metaScore= 84, userScore= 80}
+
+Game{name= Kingdom Hearts III, platform= XONE, developer= Square Enix, genre= Action RPG, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Jan 29, 2019, positiveCritics= 17, neutralCritics= 5, negativeCritics= 0, positiveUsers= 43, neutralUsers= 3, negativeUsers= 11, metaScore= 80, userScore= 71}
+

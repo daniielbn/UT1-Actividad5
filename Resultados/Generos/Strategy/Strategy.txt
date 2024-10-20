@@ -1,0 +1,220 @@
+Game{name= Warhammer 40,000: Dawn of War II - Retribution, platform= PC, developer= Relic, genre= Strategy, numberPlayers= , rating= M, releaseDate= Feb 28, 2011, positiveCritics= 42, neutralCritics= 10, negativeCritics= 0, positiveUsers= 33, neutralUsers= 18, negativeUsers= 8, metaScore= 80, userScore= 77}
+
+Game{name= Total War: Shogun 2, platform= PC, developer= Creative Assembly, genre= Strategy, numberPlayers= Online Multiplayer, rating= T, releaseDate= Mar 15, 2011, positiveCritics= 62, neutralCritics= 0, negativeCritics= 0, positiveUsers= 187, neutralUsers= 44, negativeUsers= 29, metaScore= 90, userScore= 84}
+
+Game{name= Anomaly: Warzone Earth, platform= PC, developer= 11 bit studios, genre= Strategy, numberPlayers= , rating= E10+, releaseDate= Apr  8, 2011, positiveCritics= 30, neutralCritics= 6, negativeCritics= 0, positiveUsers= 27, neutralUsers= 10, negativeUsers= 5, metaScore= 80, userScore= 73}
+
+Game{name= Frozen Synapse, platform= PC, developer= Mode 7 Games, genre= Strategy, numberPlayers= 2, rating= , releaseDate= May 26, 2011, positiveCritics= 24, neutralCritics= 3, negativeCritics= 0, positiveUsers= 43, neutralUsers= 6, negativeUsers= 10, metaScore= 85, userScore= 76}
+
+Game{name= Panzer Corps, platform= PC, developer= The Lordz Games Studio, genre= Strategy, numberPlayers= 1-2 , rating= , releaseDate= Jul 11, 2011, positiveCritics= 10, neutralCritics= 2, negativeCritics= 0, positiveUsers= 22, neutralUsers= 1, negativeUsers= 5, metaScore= 80, userScore= 75}
+
+Game{name= Unity of Command, platform= PC, developer= 2x2 Games, genre= Strategy, numberPlayers= , rating= , releaseDate= Nov 15, 2011, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 11, neutralUsers= 10, negativeUsers= 5, metaScore= 84, userScore= 71}
+
+Game{name= Anno 2070, platform= PC, developer= Blue Byte, Related Designs, genre= Strategy, numberPlayers= Online Multiplayer, rating= T, releaseDate= Nov 17, 2011, positiveCritics= 29, neutralCritics= 4, negativeCritics= 0, positiveUsers= 69, neutralUsers= 27, negativeUsers= 51, metaScore= 83, userScore= 71}
+
+Game{name= Crusader Kings II, platform= PC, developer= Paradox Development Studio, genre= Strategy, numberPlayers= Online Multiplayer, rating= T, releaseDate= Feb 14, 2012, positiveCritics= 27, neutralCritics= 4, negativeCritics= 0, positiveUsers= 180, neutralUsers= 10, negativeUsers= 14, metaScore= 82, userScore= 88}
+
+Game{name= Wargame: European Escalation, platform= PC, developer= Eugen Systems, genre= Strategy, numberPlayers= , rating= , releaseDate= Feb 22, 2012, positiveCritics= 23, neutralCritics= 5, negativeCritics= 0, positiveUsers= 67, neutralUsers= 11, negativeUsers= 9, metaScore= 81, userScore= 81}
+
+Game{name= Total War: Shogun 2 - Fall of the Samurai, platform= PC, developer= Creative Assembly, genre= Strategy, numberPlayers= , rating= T, releaseDate= Mar 22, 2012, positiveCritics= 44, neutralCritics= 1, negativeCritics= 0, positiveUsers= 44, neutralUsers= 8, negativeUsers= 4, metaScore= 86, userScore= 85}
+
+Game{name= Sins of a Solar Empire: Rebellion, platform= PC, developer= Ironclad Games, genre= Strategy, numberPlayers= Online Multiplayer, rating= T, releaseDate= Jun 12, 2012, positiveCritics= 20, neutralCritics= 4, negativeCritics= 0, positiveUsers= 55, neutralUsers= 10, negativeUsers= 12, metaScore= 82, userScore= 78}
+
+Game{name= 'Sid Meier''s Civilization V: Gods & Kings', platform= PC, developer= Firaxis Games, genre= Strategy, numberPlayers= , rating= E10+, releaseDate= Jun 18, 2012, positiveCritics= 42, neutralCritics= 10, negativeCritics= 1, positiveUsers= 32, neutralUsers= 20, negativeUsers= 8, metaScore= 80, userScore= 77}
+
+Game{name= XCOM: Enemy Unknown, platform= PC, developer= Firaxis Games, genre= Strategy, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct  8, 2012, positiveCritics= 56, neutralCritics= 1, negativeCritics= 0, positiveUsers= 362, neutralUsers= 118, negativeUsers= 88, metaScore= 89, userScore= 82}
+
+Game{name= Fire Emblem: Awakening, platform= 3DS, developer= Intelligent Systems, genre= Strategy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Feb  4, 2013, positiveCritics= 72, neutralCritics= 0, negativeCritics= 0, positiveUsers= 248, neutralUsers= 15, negativeUsers= 12, metaScore= 92, userScore= 91}
+
+Game{name= Starcraft II: Heart of the Swarm, platform= PC, developer= Blizzard Entertainment, genre= Strategy, numberPlayers= , rating= T, releaseDate= Mar 12, 2013, positiveCritics= 66, neutralCritics= 1, negativeCritics= 1, positiveUsers= 168, neutralUsers= 57, negativeUsers= 50, metaScore= 86, userScore= 80}
+
+Game{name= Victoria II: Heart of Darkness, platform= PC, developer= Paradox Development Studio, genre= Strategy, numberPlayers= , rating= , releaseDate= Apr 16, 2013, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 8, neutralUsers= 2, negativeUsers= 1, metaScore= 81, userScore= 87}
+
+Game{name= Fallen Enchantress: Legendary Heroes, platform= PC, developer= Stardock, genre= Strategy, numberPlayers= No Online Multiplayer, rating= , releaseDate= May 22, 2013, positiveCritics= 16, neutralCritics= 2, negativeCritics= 0, positiveUsers= 35, neutralUsers= 9, negativeUsers= 6, metaScore= 80, userScore= 77}
+
+Game{name= Crusader Kings II: The Old Gods, platform= PC, developer= Paradox Development Studio, genre= Strategy, numberPlayers= , rating= , releaseDate= May 28, 2013, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 10, neutralUsers= 1, negativeUsers= 3, metaScore= 88, userScore= 87}
+
+Game{name= Wargame: AirLand Battle, platform= PC, developer= Eugen Systems, genre= Strategy, numberPlayers= , rating= T, releaseDate= May 29, 2013, positiveCritics= 18, neutralCritics= 3, negativeCritics= 1, positiveUsers= 57, neutralUsers= 12, negativeUsers= 12, metaScore= 80, userScore= 80}
+
+Game{name= Company of Heroes 2, platform= PC, developer= Relic, genre= Strategy, numberPlayers= , rating= M, releaseDate= Jun 25, 2013, positiveCritics= 70, neutralCritics= 10, negativeCritics= 2, positiveUsers= 267, neutralUsers= 84, negativeUsers= 1081, metaScore= 80, userScore= 21}
+
+Game{name= 'Sid Meier''s Civilization V: Brave New World', platform= PC, developer= Firaxis Games, genre= Strategy, numberPlayers= , rating= E10+, releaseDate= Jul  8, 2013, positiveCritics= 52, neutralCritics= 2, negativeCritics= 1, positiveUsers= 73, neutralUsers= 14, negativeUsers= 11, metaScore= 85, userScore= 86}
+
+Game{name= PixelJunk Monsters: Ultimate HD, platform= VITA, developer= Double Eleven, genre= Strategy, numberPlayers= , rating= E, releaseDate= Jul 30, 2013, positiveCritics= 18, neutralCritics= 0, negativeCritics= 0, positiveUsers= 8, neutralUsers= 0, negativeUsers= 0, metaScore= 84, userScore= 76}
+
+Game{name= Pikmin 3, platform= WIIU, developer= Nintendo, genre= Strategy, numberPlayers= 1-2 , rating= E10+, releaseDate= Aug  4, 2013, positiveCritics= 77, neutralCritics= 2, negativeCritics= 0, positiveUsers= 145, neutralUsers= 11, negativeUsers= 2, metaScore= 87, userScore= 87}
+
+Game{name= Europa Universalis IV, platform= PC, developer= Paradox Development Studio, genre= Strategy, numberPlayers= Online Multiplayer, rating= T, releaseDate= Aug 13, 2013, positiveCritics= 31, neutralCritics= 3, negativeCritics= 0, positiveUsers= 171, neutralUsers= 22, negativeUsers= 29, metaScore= 87, userScore= 87}
+
+Game{name= Card Hunter (2013), platform= PC, developer= Blue Manchu, genre= Strategy, numberPlayers= , rating= , releaseDate= Sep 12, 2013, positiveCritics= 17, neutralCritics= 1, negativeCritics= 0, positiveUsers= 11, neutralUsers= 3, negativeUsers= 1, metaScore= 83, userScore= 77}
+
+Game{name= CastleStorm, platform= WIIU, developer= Zen Studios, genre= Strategy, numberPlayers= , rating= T, releaseDate= Dec 26, 2013, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 4, neutralUsers= 2, negativeUsers= 0, metaScore= 83, userScore= 78}
+
+Game{name= Europa Universalis IV: Conquest of Paradise, platform= PC, developer= Paradox Development Studio, genre= Strategy, numberPlayers= , rating= , releaseDate= Jan 14, 2014, positiveCritics= 5, neutralCritics= 3, negativeCritics= 0, positiveUsers= 2, neutralUsers= 5, negativeUsers= 4, metaScore= 81, userScore= 77}
+
+Game{name= Galactic Civilizations III, platform= PC, developer= Stardock, genre= Strategy, numberPlayers= Online Multiplayer, rating= , releaseDate= Mar 27, 2014, positiveCritics= 25, neutralCritics= 6, negativeCritics= 0, positiveUsers= 22, neutralUsers= 19, negativeUsers= 16, metaScore= 81, userScore= 66}
+
+Game{name= Age of Wonders III, platform= PC, developer= Triumph Studios, genre= Strategy, numberPlayers= , rating= T, releaseDate= Mar 31, 2014, positiveCritics= 29, neutralCritics= 6, negativeCritics= 0, positiveUsers= 90, neutralUsers= 21, negativeUsers= 13, metaScore= 80, userScore= 80}
+
+Game{name= Endless Legend, platform= PC, developer= Amplitude Studios, genre= Strategy, numberPlayers= Online Multiplayer, rating= , releaseDate= Apr 24, 2014, positiveCritics= 34, neutralCritics= 3, negativeCritics= 0, positiveUsers= 81, neutralUsers= 22, negativeUsers= 13, metaScore= 82, userScore= 79}
+
+Game{name= Europa Universalis IV: Wealth of Nations, platform= PC, developer= Paradox Development Studio, genre= Strategy, numberPlayers= , rating= , releaseDate= May 29, 2014, positiveCritics= 7, neutralCritics= 2, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 84, userScore= 85}
+
+Game{name= Company of Heroes 2: The Western Front Armies, platform= PC, developer= Relic, Relic Entertainment, genre= Strategy, numberPlayers= , rating= M, releaseDate= Jun 23, 2014, positiveCritics= 26, neutralCritics= 3, negativeCritics= 0, positiveUsers= 19, neutralUsers= 3, negativeUsers= 4, metaScore= 80, userScore= 69}
+
+Game{name= Ultimate General: Gettysburg, platform= PC, developer= Game-Labs, genre= Strategy, numberPlayers= , rating= , releaseDate= Oct 16, 2014, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 55, neutralUsers= 8, negativeUsers= 5, metaScore= 84, userScore= 78}
+
+Game{name= 'Sid Meier''s Civilization: Beyond Earth', platform= PC, developer= Firaxis Games, genre= Strategy, numberPlayers= , rating= E10+, releaseDate= Oct 23, 2014, positiveCritics= 65, neutralCritics= 12, negativeCritics= 1, positiveUsers= 69, neutralUsers= 113, negativeUsers= 141, metaScore= 81, userScore= 55}
+
+Game{name= Company of Heroes 2: Ardennes Assault, platform= PC, developer= Relic, Sega, Relic Entertainment, genre= Strategy, numberPlayers= , rating= M, releaseDate= Nov 17, 2014, positiveCritics= 34, neutralCritics= 4, negativeCritics= 0, positiveUsers= 5, neutralUsers= 1, negativeUsers= 8, metaScore= 81, userScore= 62}
+
+Game{name= Total War: Attila, platform= PC, developer= Creative Assembly, genre= Strategy, numberPlayers= , rating= T, releaseDate= Feb 17, 2015, positiveCritics= 52, neutralCritics= 14, negativeCritics= 0, positiveUsers= 77, neutralUsers= 16, negativeUsers= 32, metaScore= 80, userScore= 73}
+
+Game{name= Hearthstone: Heroes of Warcraft - Blackrock Mountain, platform= PC, developer= Blizzard Entertainment, genre= Strategy, numberPlayers= , rating= , releaseDate= Apr  2, 2015, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 1, metaScore= 82, userScore= 60}
+
+Game{name= Age of Wonders III - Eternal Lords, platform= PC, developer= Triumph Studios, genre= Strategy, numberPlayers= , rating= , releaseDate= Apr 14, 2015, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 20, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 84}
+
+Game{name= Order of Battle: Pacific, platform= PC, developer= The Artistocrats, genre= Strategy, numberPlayers= , rating= , releaseDate= Apr 30, 2015, positiveCritics= 11, neutralCritics= 1, negativeCritics= 0, positiveUsers= 7, neutralUsers= 0, negativeUsers= 2, metaScore= 81, userScore= 56}
+
+Game{name= SMITE, platform= XONE, developer= Hi-Rez Studios, genre= Strategy, numberPlayers= Up to 10 , rating= T, releaseDate= Aug 19, 2015, positiveCritics= 18, neutralCritics= 3, negativeCritics= 0, positiveUsers= 15, neutralUsers= 1, negativeUsers= 4, metaScore= 80, userScore= 74}
+
+Game{name= Hearthstone: Heroes of Warcraft - The Grand Tournament, platform= PC, developer= Blizzard Entertainment, genre= Strategy, numberPlayers= , rating= , releaseDate= Aug 24, 2015, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 5, neutralUsers= 5, negativeUsers= 11, metaScore= 84, userScore= 42}
+
+Game{name= 'Nobunaga''s Ambition: Sphere of Influence', platform= PS4, developer= Koei Tecmo Games, genre= Strategy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Sep  1, 2015, positiveCritics= 16, neutralCritics= 4, negativeCritics= 0, positiveUsers= 4, neutralUsers= 0, negativeUsers= 2, metaScore= 80, userScore= 75}
+
+Game{name= Company of Heroes 2: The British Forces, platform= PC, developer= Relic, Relic Entertainment, genre= Strategy, numberPlayers= , rating= M, releaseDate= Sep  2, 2015, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 6, neutralUsers= 1, negativeUsers= 2, metaScore= 80, userScore= 62}
+
+Game{name= XCOM 2, platform= PC, developer= Firaxis Games, genre= Strategy, numberPlayers= 2, rating= T, releaseDate= Feb  5, 2016, positiveCritics= 97, neutralCritics= 6, negativeCritics= 1, positiveUsers= 191, neutralUsers= 79, negativeUsers= 112, metaScore= 88, userScore= 72}
+
+Game{name= Fire Emblem Fates: Special Edition, platform= 3DS, developer= Intelligent Systems, genre= Strategy, numberPlayers= 2, rating= T, releaseDate= Feb 19, 2016, positiveCritics= 36, neutralCritics= 0, negativeCritics= 0, positiveUsers= 20, neutralUsers= 6, negativeUsers= 7, metaScore= 88, userScore= 82}
+
+Game{name= Fire Emblem Fates: Birthright, platform= 3DS, developer= Intelligent Systems, genre= Strategy, numberPlayers= 2, rating= T, releaseDate= Feb 19, 2016, positiveCritics= 30, neutralCritics= 5, negativeCritics= 0, positiveUsers= 45, neutralUsers= 3, negativeUsers= 7, metaScore= 86, userScore= 84}
+
+Game{name= Fire Emblem Fates: Revelation, platform= 3DS, developer= Intelligent Systems, genre= Strategy, numberPlayers= , rating= T, releaseDate= Mar 10, 2016, positiveCritics= 20, neutralCritics= 1, negativeCritics= 0, positiveUsers= 16, neutralUsers= 6, negativeUsers= 5, metaScore= 88, userScore= 76}
+
+Game{name= XCOM: Enemy Unknown Plus, platform= VITA, developer= Firaxis Games, genre= Strategy, numberPlayers= , rating= M, releaseDate= Mar 22, 2016, positiveCritics= 5, neutralCritics= 1, negativeCritics= 1, positiveUsers= 11, neutralUsers= 1, negativeUsers= 1, metaScore= 82, userScore= 81}
+
+Game{name= Hearthstone: Heroes of Warcraft - Whispers of the Old Gods, platform= PC, developer= Blizzard Entertainment, genre= Strategy, numberPlayers= , rating= , releaseDate= Apr 26, 2016, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 5, neutralUsers= 0, negativeUsers= 9, metaScore= 85, userScore= 54}
+
+Game{name= Valkyria Chronicles Remastered, platform= PS4, developer= Sega, genre= Strategy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= May 17, 2016, positiveCritics= 54, neutralCritics= 4, negativeCritics= 0, positiveUsers= 20, neutralUsers= 2, negativeUsers= 4, metaScore= 84, userScore= 82}
+
+Game{name= Duskers, platform= PC, developer= Misfits Attic, genre= Strategy, numberPlayers= No Online Multiplayer, rating= , releaseDate= May 18, 2016, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 0, metaScore= 83, userScore= 71}
+
+Game{name= Total War: WARHAMMER, platform= PC, developer= Creative Assembly, genre= Strategy, numberPlayers= , rating= T, releaseDate= May 24, 2016, positiveCritics= 72, neutralCritics= 5, negativeCritics= 0, positiveUsers= 94, neutralUsers= 31, negativeUsers= 29, metaScore= 86, userScore= 74}
+
+Game{name= SteamWorld Heist, platform= PS4, developer= Image & Form, genre= Strategy, numberPlayers= , rating= E10+, releaseDate= Jun  7, 2016, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 5, neutralUsers= 1, negativeUsers= 0, metaScore= 83, userScore= 74}
+
+Game{name= SteamWorld Heist, platform= PC, developer= Image & Form, genre= Strategy, numberPlayers= No Online Multiplayer, rating= , releaseDate= Jun  7, 2016, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 12, neutralUsers= 2, negativeUsers= 0, metaScore= 81, userScore= 79}
+
+Game{name= Prison Architect, platform= PS4, developer= Introversion, Double Eleven, genre= Strategy, numberPlayers= , rating= M, releaseDate= Jun 28, 2016, positiveCritics= 17, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 71}
+
+Game{name= The Banner Saga 2, platform= XONE, developer= Stoic Jester Studios, Stoic, genre= Strategy, numberPlayers= , rating= T, releaseDate= Jul  1, 2016, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 2, metaScore= 84, userScore= 81}
+
+Game{name= Awesomenauts Assemble!, platform= XONE, developer= Abstraction Games, Ronimo Games, genre= Strategy, numberPlayers= , rating= T, releaseDate= Sep  7, 2016, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 72}
+
+Game{name= XCOM 2, platform= PS4, developer= Firaxis Games, genre= Strategy, numberPlayers= 2, rating= T, releaseDate= Sep 27, 2016, positiveCritics= 27, neutralCritics= 2, negativeCritics= 0, positiveUsers= 44, neutralUsers= 14, negativeUsers= 20, metaScore= 87, userScore= 73}
+
+Game{name= XCOM 2, platform= XONE, developer= Firaxis Games, genre= Strategy, numberPlayers= 2, rating= T, releaseDate= Sep 27, 2016, positiveCritics= 16, neutralCritics= 1, negativeCritics= 0, positiveUsers= 12, neutralUsers= 1, negativeUsers= 2, metaScore= 87, userScore= 74}
+
+Game{name= 'Sid Meier''s Civilization VI', platform= PC, developer= Firaxis Games, genre= Strategy, numberPlayers= Online Multiplayer, rating= E10+, releaseDate= Oct 20, 2016, positiveCritics= 79, neutralCritics= 4, negativeCritics= 1, positiveUsers= 91, neutralUsers= 61, negativeUsers= 94, metaScore= 88, userScore= 70}
+
+Game{name= SteamWorld Heist, platform= WIIU, developer= Image & Form, genre= Strategy, numberPlayers= , rating= E10+, releaseDate= Oct 20, 2016, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 87, userScore= 79}
+
+Game{name= Planet Coaster, platform= PC, developer= Frontier Developments, genre= Strategy, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Nov 17, 2016, positiveCritics= 56, neutralCritics= 1, negativeCritics= 0, positiveUsers= 71, neutralUsers= 8, negativeUsers= 17, metaScore= 84, userScore= 77}
+
+Game{name= Cities: Skylines - Natural Disasters, platform= PC, developer= Colossal Order, genre= Strategy, numberPlayers= , rating= E, releaseDate= Nov 29, 2016, positiveCritics= 9, neutralCritics= 2, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 62}
+
+Game{name= Lara Croft GO, platform= PS4, developer= Square Enix, genre= Strategy, numberPlayers= , rating= E10+, releaseDate= Dec  3, 2016, positiveCritics= 15, neutralCritics= 0, negativeCritics= 0, positiveUsers= 0, neutralUsers= 2, negativeUsers= 0, metaScore= 84, userScore= 55}
+
+Game{name= Shadow Tactics: Blades of the Shogun, platform= PC, developer= Mimimi Productions, genre= Strategy, numberPlayers= No Online Multiplayer, rating= , releaseDate= Dec  6, 2016, positiveCritics= 39, neutralCritics= 1, negativeCritics= 0, positiveUsers= 39, neutralUsers= 3, negativeUsers= 2, metaScore= 85, userScore= 85}
+
+Game{name= World of Van Helsing: Deathtrap, platform= XONE, developer= NeocoreGames, genre= Strategy, numberPlayers= , rating= T, releaseDate= Dec 30, 2016, positiveCritics= 5, neutralCritics= 2, negativeCritics= 0, positiveUsers= 3, neutralUsers= 2, negativeUsers= 0, metaScore= 80, userScore= 69}
+
+Game{name= Halo Wars: Definitive Edition, platform= XONE, developer= Microsoft Game Studios, Microsoft, genre= Strategy, numberPlayers= , rating= T, releaseDate= Feb 21, 2017, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 8, neutralUsers= 1, negativeUsers= 0, metaScore= 81, userScore= 71}
+
+Game{name= Battle Brothers, platform= PC, developer= Overhype Studios, genre= Strategy, numberPlayers= No Online Multiplayer, rating= , releaseDate= Mar 24, 2017, positiveCritics= 10, neutralCritics= 1, negativeCritics= 0, positiveUsers= 13, neutralUsers= 4, negativeUsers= 6, metaScore= 80, userScore= 77}
+
+Game{name= Stellaris: Utopia, platform= PC, developer= Paradox Development Studio, genre= Strategy, numberPlayers= , rating= , releaseDate= Apr  6, 2017, positiveCritics= 8, neutralCritics= 2, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 1, metaScore= 82, userScore= 78}
+
+Game{name= Cities: Skylines - Xbox One Edition, platform= XONE, developer= Tantalus, genre= Strategy, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Apr 21, 2017, positiveCritics= 25, neutralCritics= 5, negativeCritics= 0, positiveUsers= 7, neutralUsers= 2, negativeUsers= 0, metaScore= 81, userScore= 61}
+
+Game{name= Galactic Civilizations III: Crusade, platform= PC, developer= Stardock, genre= Strategy, numberPlayers= , rating= , releaseDate= May  4, 2017, positiveCritics= 8, neutralCritics= 2, negativeCritics= 0, positiveUsers= 5, neutralUsers= 0, negativeUsers= 3, metaScore= 85, userScore= 67}
+
+Game{name= Fire Emblem Echoes: Shadows of Valentia, platform= 3DS, developer= Intelligent Systems, genre= Strategy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= May 19, 2017, positiveCritics= 67, neutralCritics= 9, negativeCritics= 0, positiveUsers= 47, neutralUsers= 5, negativeUsers= 4, metaScore= 81, userScore= 85}
+
+Game{name= Endless Space 2, platform= PC, developer= Amplitude Studios, genre= Strategy, numberPlayers= Online Multiplayer, rating= E10+, releaseDate= May 19, 2017, positiveCritics= 42, neutralCritics= 6, negativeCritics= 0, positiveUsers= 15, neutralUsers= 5, negativeUsers= 6, metaScore= 80, userScore= 77}
+
+Game{name= Steel Division: Normandy 44, platform= PC, developer= Eugen Systems, genre= Strategy, numberPlayers= Online Multiplayer, rating= , releaseDate= May 23, 2017, positiveCritics= 24, neutralCritics= 0, negativeCritics= 0, positiveUsers= 13, neutralUsers= 0, negativeUsers= 2, metaScore= 83, userScore= 75}
+
+Game{name= Disgaea 5 Complete, platform= Switch, developer= Nippon Ichi Software, genre= Strategy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= May 23, 2017, positiveCritics= 29, neutralCritics= 4, negativeCritics= 0, positiveUsers= 16, neutralUsers= 4, negativeUsers= 0, metaScore= 81, userScore= 85}
+
+Game{name= Antihero, platform= PC, developer= Tim Conkling, genre= Strategy, numberPlayers= Online Multiplayer, rating= , releaseDate= Jul 10, 2017, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 1, metaScore= 81, userScore= 67}
+
+Game{name= Shadow Tactics: Blades of the Shogun, platform= PS4, developer= Mimimi Productions, genre= Strategy, numberPlayers= , rating= M, releaseDate= Aug  1, 2017, positiveCritics= 16, neutralCritics= 0, negativeCritics= 0, positiveUsers= 7, neutralUsers= 1, negativeUsers= 0, metaScore= 85, userScore= 79}
+
+Game{name= Starcraft Remastered, platform= PC, developer= Blizzard Entertainment, genre= Strategy, numberPlayers= , rating= , releaseDate= Aug 14, 2017, positiveCritics= 27, neutralCritics= 3, negativeCritics= 0, positiveUsers= 15, neutralUsers= 4, negativeUsers= 5, metaScore= 85, userScore= 77}
+
+Game{name= Cities: Skylines - PlayStation 4 Edition, platform= PS4, developer= Tantalus, genre= Strategy, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Aug 15, 2017, positiveCritics= 14, neutralCritics= 1, negativeCritics= 0, positiveUsers= 12, neutralUsers= 4, negativeUsers= 1, metaScore= 81, userScore= 74}
+
+Game{name= XCOM 2: War of the Chosen, platform= PC, developer= Firaxis Games, genre= Strategy, numberPlayers= , rating= T, releaseDate= Aug 29, 2017, positiveCritics= 39, neutralCritics= 0, negativeCritics= 0, positiveUsers= 24, neutralUsers= 2, negativeUsers= 8, metaScore= 88, userScore= 78}
+
+Game{name= Tooth and Tail, platform= PC, developer= Pocketwatch Games, genre= Strategy, numberPlayers= Online Multiplayer, rating= , releaseDate= Sep 12, 2017, positiveCritics= 12, neutralCritics= 5, negativeCritics= 0, positiveUsers= 5, neutralUsers= 2, negativeUsers= 0, metaScore= 80, userScore= 76}
+
+Game{name= Total War: WARHAMMER II, platform= PC, developer= Creative Assembly, genre= Strategy, numberPlayers= , rating= T, releaseDate= Sep 28, 2017, positiveCritics= 65, neutralCritics= 3, negativeCritics= 0, positiveUsers= 30, neutralUsers= 6, negativeUsers= 12, metaScore= 87, userScore= 75}
+
+Game{name= Battlerite, platform= PC, developer= Stunlock Studios, genre= Strategy, numberPlayers= Online Multiplayer, rating= , releaseDate= Nov  8, 2017, positiveCritics= 18, neutralCritics= 0, negativeCritics= 0, positiveUsers= 15, neutralUsers= 1, negativeUsers= 3, metaScore= 85, userScore= 74}
+
+Game{name= Worms W.M.D, platform= Switch, developer= Team 17, genre= Strategy, numberPlayers= , rating= E10+, releaseDate= Nov 23, 2017, positiveCritics= 20, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 0, metaScore= 83, userScore= 79}
+
+Game{name= SteamWorld Heist: Ultimate Edition, platform= Switch, developer= Image & Form, genre= Strategy, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Dec 28, 2017, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 7, neutralUsers= 1, negativeUsers= 0, metaScore= 91, userScore= 85}
+
+Game{name= Total War: WARHAMMER II - Rise of the Tomb Kings, platform= PC, developer= Creative Assembly, genre= Strategy, numberPlayers= , rating= , releaseDate= Jan 23, 2018, positiveCritics= 15, neutralCritics= 0, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 0, metaScore= 84, userScore= 71}
+
+Game{name= Into the Breach, platform= PC, developer= Subset Games, genre= Strategy, numberPlayers= No Online Multiplayer, rating= , releaseDate= Feb 27, 2018, positiveCritics= 55, neutralCritics= 1, negativeCritics= 0, positiveUsers= 31, neutralUsers= 11, negativeUsers= 2, metaScore= 90, userScore= 76}
+
+Game{name= The Banner Saga 1, platform= Switch, developer= Stoic, genre= Strategy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= May 17, 2018, positiveCritics= 13, neutralCritics= 3, negativeCritics= 0, positiveUsers= 5, neutralUsers= 1, negativeUsers= 1, metaScore= 80, userScore= 81}
+
+Game{name= The Banner Saga 2, platform= Switch, developer= Stoic, genre= Strategy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jun  7, 2018, positiveCritics= 12, neutralCritics= 2, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 83}
+
+Game{name= Mario + Rabbids: Kingdom Battle - Donkey Kong Adventure, platform= Switch, developer= Ubisoft Milan, genre= Strategy, numberPlayers= , rating= E10+, releaseDate= Jun 26, 2018, positiveCritics= 28, neutralCritics= 3, negativeCritics= 0, positiveUsers= 6, neutralUsers= 1, negativeUsers= 0, metaScore= 82, userScore= 80}
+
+Game{name= The Banner Saga 3, platform= XONE, developer= Stoic, genre= Strategy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jul 26, 2018, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 88, userScore= 81}
+
+Game{name= The Banner Saga 3, platform= Switch, developer= Stoic, genre= Strategy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jul 26, 2018, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 84, userScore= 83}
+
+Game{name= The Banner Saga 3, platform= PC, developer= Stoic, genre= Strategy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jul 26, 2018, positiveCritics= 45, neutralCritics= 6, negativeCritics= 0, positiveUsers= 6, neutralUsers= 7, negativeUsers= 1, metaScore= 82, userScore= 77}
+
+Game{name= The Banner Saga 3, platform= PS4, developer= Stoic, genre= Strategy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jul 26, 2018, positiveCritics= 8, neutralCritics= 1, negativeCritics= 1, positiveUsers= 3, neutralUsers= 1, negativeUsers= 0, metaScore= 80, userScore= 71}
+
+Game{name= Into the Breach, platform= Switch, developer= Subset Games, genre= Strategy, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Aug 28, 2018, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 13, neutralUsers= 2, negativeUsers= 1, metaScore= 89, userScore= 75}
+
+Game{name= Mini Metro, platform= Switch, developer= Dinosaur Polo Club, genre= Strategy, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Aug 30, 2018, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 86, userScore= 85}
+
+Game{name= Valkyria Chronicles 4, platform= PS4, developer= Sega, Media Vision, genre= Strategy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Sep 25, 2018, positiveCritics= 45, neutralCritics= 0, negativeCritics= 0, positiveUsers= 21, neutralUsers= 0, negativeUsers= 0, metaScore= 84, userScore= 79}
+
+Game{name= Valkyria Chronicles 4, platform= PC, developer= Sega, genre= Strategy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Sep 25, 2018, positiveCritics= 12, neutralCritics= 1, negativeCritics= 0, positiveUsers= 10, neutralUsers= 0, negativeUsers= 1, metaScore= 83, userScore= 79}
+
+Game{name= Valkyria Chronicles 4, platform= Switch, developer= Sega, genre= Strategy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Sep 25, 2018, positiveCritics= 23, neutralCritics= 2, negativeCritics= 0, positiveUsers= 13, neutralUsers= 1, negativeUsers= 1, metaScore= 82, userScore= 86}
+
+Game{name= Arena of Valor, platform= Switch, developer= Tencent, Tencent Games, genre= Strategy, numberPlayers= Up to 10 , rating= T, releaseDate= Sep 25, 2018, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 4, neutralUsers= 0, negativeUsers= 2, metaScore= 80, userScore= 75}
+
+Game{name= Disgaea 1 Complete, platform= PS4, developer= Nippon Ichi Software, genre= Strategy, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Oct  9, 2018, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 1, metaScore= 83, userScore= 76}
+
+Game{name= Valkyria Chronicles, platform= Switch, developer= Sega, genre= Strategy, numberPlayers= No Online Multiplayer, rating= , releaseDate= Oct 16, 2018, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 1, metaScore= 84, userScore= 84}
+
+Game{name= RimWorld, platform= PC, developer= Ludeon Studios, genre= Strategy, numberPlayers= No Online Multiplayer, rating= , releaseDate= Oct 17, 2018, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 37, neutralUsers= 1, negativeUsers= 1, metaScore= 86, userScore= 89}
+
+Game{name= Total War: WARHAMMER II - Curse of the Vampire Coast, platform= PC, developer= Creative Assembly, genre= Strategy, numberPlayers= , rating= , releaseDate= Nov  8, 2018, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 0, neutralUsers= 1, negativeUsers= 1, metaScore= 83, userScore= 75}
+
+Game{name= 'Sid Meier''s Civilization VI', platform= Switch, developer= Aspyr, genre= Strategy, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Nov 16, 2018, positiveCritics= 29, neutralCritics= 1, negativeCritics= 0, positiveUsers= 17, neutralUsers= 1, negativeUsers= 5, metaScore= 86, userScore= 78}
+
+Game{name= This War of Mine: Complete Edition, platform= Switch, developer= 11 bit studios, genre= Strategy, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Nov 27, 2018, positiveCritics= 13, neutralCritics= 2, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 79}
+
+Game{name= Mutant Year Zero: Road to Eden, platform= XONE, developer= The Bearded Ladies Consulting, genre= Strategy, numberPlayers= No Online Multiplayer, rating= , releaseDate= Dec  4, 2018, positiveCritics= 11, neutralCritics= 2, negativeCritics= 0, positiveUsers= 12, neutralUsers= 3, negativeUsers= 1, metaScore= 80, userScore= 79}
+
+Game{name= Slay the Spire, platform= PC, developer= Mega Crit Games, genre= Strategy, numberPlayers= No Online Multiplayer, rating= , releaseDate= Jan 23, 2019, positiveCritics= 21, neutralCritics= 0, negativeCritics= 0, positiveUsers= 19, neutralUsers= 3, negativeUsers= 2, metaScore= 89, userScore= 65}
+
+Game{name= Wargroove, platform= Switch, developer= Chucklefish, genre= Strategy, numberPlayers= Up to 4 , rating= E10+, releaseDate= Feb  1, 2019, positiveCritics= 38, neutralCritics= 3, negativeCritics= 0, positiveUsers= 11, neutralUsers= 4, negativeUsers= 2, metaScore= 84, userScore= 77}
+
+Game{name= 'Sid Meier''s Civilization VI: Gathering Storm', platform= PC, developer= Firaxis Games, genre= Strategy, numberPlayers= , rating= , releaseDate= Feb 14, 2019, positiveCritics= 26, neutralCritics= 6, negativeCritics= 0, positiveUsers= 5, neutralUsers= 4, negativeUsers= 3, metaScore= 82, userScore= 67}
+

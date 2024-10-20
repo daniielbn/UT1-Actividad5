@@ -1,0 +1,14 @@
+Game{name= Outlast, platform= PC, developer= Red Barrels, genre= Horror, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Sep  4, 2013, positiveCritics= 50, neutralCritics= 9, negativeCritics= 0, positiveUsers= 216, neutralUsers= 68, negativeUsers= 24, metaScore= 80, userScore= 83}
+
+Game{name= The Binding of Isaac: Rebirth, platform= PS4, developer= Nicalis, genre= Horror, numberPlayers= , rating= M, releaseDate= Nov  4, 2014, positiveCritics= 15, neutralCritics= 0, negativeCritics= 0, positiveUsers= 62, neutralUsers= 7, negativeUsers= 8, metaScore= 88, userScore= 77}
+
+Game{name= The Binding of Isaac: Rebirth, platform= PC, developer= Nicalis, genre= Horror, numberPlayers= No Online Multiplayer, rating= , releaseDate= Nov  4, 2014, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 86, neutralUsers= 7, negativeUsers= 8, metaScore= 86, userScore= 84}
+
+Game{name= Resident Evil HD Remaster, platform= PS4, developer= Capcom, genre= Horror, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jan 20, 2015, positiveCritics= 44, neutralCritics= 5, negativeCritics= 0, positiveUsers= 66, neutralUsers= 10, negativeUsers= 6, metaScore= 83, userScore= 83}
+
+Game{name= Resident Evil HD Remaster, platform= XONE, developer= Capcom, genre= Horror, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jan 20, 2015, positiveCritics= 15, neutralCritics= 1, negativeCritics= 0, positiveUsers= 21, neutralUsers= 2, negativeUsers= 1, metaScore= 82, userScore= 80}
+
+Game{name= SOMA, platform= PC, developer= Frictional Games, genre= Horror, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Sep 21, 2015, positiveCritics= 63, neutralCritics= 4, negativeCritics= 1, positiveUsers= 130, neutralUsers= 16, negativeUsers= 10, metaScore= 84, userScore= 84}
+
+Game{name= The Forest, platform= PC, developer= SKS Games, genre= Horror, numberPlayers= , rating= , releaseDate= Apr 30, 2018, positiveCritics= 14, neutralCritics= 2, negativeCritics= 0, positiveUsers= 33, neutralUsers= 15, negativeUsers= 6, metaScore= 83, userScore= 73}
+

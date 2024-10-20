@@ -1,0 +1,2 @@
+Game{name= Tales of Berseria, platform= PC, developer= Bandai Namco Games, genre= Japanese-Style, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jan 26, 2017, positiveCritics= 15, neutralCritics= 3, negativeCritics= 0, positiveUsers= 23, neutralUsers= 11, negativeUsers= 4, metaScore= 80, userScore= 63}
+

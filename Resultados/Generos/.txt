@@ -1,0 +1,4 @@
+Game{name= 3D Fantasy Zone II W, platform= 3DS, developer= , genre= , numberPlayers= , rating= , releaseDate= Apr 16, 2015, positiveCritics= 0, neutralCritics= 0, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 70}
+
+Game{name= Destiny: The Taken King, platform= PS4, developer= , genre= , numberPlayers= , rating= , releaseDate= Sep 15, 2015, positiveCritics= 0, neutralCritics= 0, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 86, userScore= 62}
+

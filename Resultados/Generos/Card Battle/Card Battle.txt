@@ -1,0 +1,2 @@
+Game{name= Hearthstone: Heroes of Warcraft, platform= PC, developer= Blizzard Entertainment, genre= Card Battle, numberPlayers= 2, rating= T, releaseDate= Mar 11, 2014, positiveCritics= 42, neutralCritics= 0, negativeCritics= 0, positiveUsers= 130, neutralUsers= 94, negativeUsers= 243, metaScore= 88, userScore= 61}
+

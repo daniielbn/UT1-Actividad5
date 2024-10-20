@@ -1,0 +1,18 @@
+Game{name= Resogun, platform= PS4, developer= Housemarque, XDEV, genre= Shooter, numberPlayers= , rating= E10+, releaseDate= Nov 15, 2013, positiveCritics= 61, neutralCritics= 5, negativeCritics= 0, positiveUsers= 132, neutralUsers= 23, negativeUsers= 2, metaScore= 84, userScore= 77}
+
+Game{name= Titanfall, platform= XONE, developer= Respawn Entertainment, genre= Shooter, numberPlayers= Up to 12 , rating= M, releaseDate= Mar 11, 2014, positiveCritics= 66, neutralCritics= 2, negativeCritics= 0, positiveUsers= 515, neutralUsers= 180, negativeUsers= 86, metaScore= 86, userScore= 67}
+
+Game{name= Titanfall, platform= PC, developer= Respawn Entertainment, genre= Shooter, numberPlayers= , rating= M, releaseDate= Mar 11, 2014, positiveCritics= 28, neutralCritics= 1, negativeCritics= 0, positiveUsers= 188, neutralUsers= 142, negativeUsers= 136, metaScore= 86, userScore= 62}
+
+Game{name= BioShock Infinite: Burial at Sea - Episode Two, platform= PC, developer= Irrational Games, genre= Shooter, numberPlayers= , rating= M, releaseDate= Mar 25, 2014, positiveCritics= 25, neutralCritics= 8, negativeCritics= 1, positiveUsers= 46, neutralUsers= 13, negativeUsers= 7, metaScore= 80, userScore= 85}
+
+Game{name= Velocity 2X, platform= VITA, developer= FuturLab, genre= Shooter, numberPlayers= , rating= E10+, releaseDate= Sep  2, 2014, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 13, neutralUsers= 3, negativeUsers= 6, metaScore= 90, userScore= 72}
+
+Game{name= Helldivers, platform= PS4, developer= Arrowhead Game Studios, genre= Shooter, numberPlayers= 2, rating= T, releaseDate= Mar  3, 2015, positiveCritics= 46, neutralCritics= 10, negativeCritics= 0, positiveUsers= 64, neutralUsers= 8, negativeUsers= 12, metaScore= 81, userScore= 80}
+
+Game{name= Halo 5: Guardians, platform= XONE, developer= 343 Industries, genre= Shooter, numberPlayers= Up to 24 , rating= T, releaseDate= Oct 27, 2015, positiveCritics= 89, neutralCritics= 12, negativeCritics= 0, positiveUsers= 427, neutralUsers= 173, negativeUsers= 203, metaScore= 84, userScore= 64}
+
+Game{name= 'Tom Clancy''s The Division', platform= XONE, developer= Massive Entertainment, genre= Shooter, numberPlayers= Up to 16 , rating= M, releaseDate= Mar  8, 2016, positiveCritics= 27, neutralCritics= 6, negativeCritics= 0, positiveUsers= 86, neutralUsers= 32, negativeUsers= 27, metaScore= 80, userScore= 69}
+
+Game{name= 'Tom Clancy''s The Division', platform= PS4, developer= Massive Entertainment, genre= Shooter, numberPlayers= Up to 24 , rating= M, releaseDate= Mar  8, 2016, positiveCritics= 50, neutralCritics= 12, negativeCritics= 1, positiveUsers= 373, neutralUsers= 122, negativeUsers= 124, metaScore= 80, userScore= 70}
+

@@ -1,0 +1,26 @@
+Game{name= Sleeping Dogs, platform= PC, developer= United Front Games, genre= Modern, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Aug 13, 2012, positiveCritics= 18, neutralCritics= 5, negativeCritics= 0, positiveUsers= 196, neutralUsers= 50, negativeUsers= 23, metaScore= 81, userScore= 83}
+
+Game{name= Darksiders II, platform= WIIU, developer= Vigil Games, genre= Modern, numberPlayers= 1 Player, rating= M, releaseDate= Nov 18, 2012, positiveCritics= 34, neutralCritics= 2, negativeCritics= 0, positiveUsers= 15, neutralUsers= 3, negativeUsers= 3, metaScore= 85, userScore= 81}
+
+Game{name= Tomb Raider: Definitive Edition, platform= XONE, developer= Crystal Dynamics, United Front Games, genre= Modern, numberPlayers= Up to 8 , rating= M, releaseDate= Jan 28, 2014, positiveCritics= 16, neutralCritics= 2, negativeCritics= 0, positiveUsers= 51, neutralUsers= 9, negativeUsers= 7, metaScore= 86, userScore= 77}
+
+Game{name= Tomb Raider: Definitive Edition, platform= PS4, developer= Crystal Dynamics, Nixxes Software, genre= Modern, numberPlayers= Up to 8 , rating= M, releaseDate= Jan 28, 2014, positiveCritics= 50, neutralCritics= 4, negativeCritics= 0, positiveUsers= 147, neutralUsers= 27, negativeUsers= 15, metaScore= 85, userScore= 81}
+
+Game{name= Watch Dogs, platform= PS4, developer= Ubisoft Montreal, genre= Modern, numberPlayers= Up to 8 , rating= M, releaseDate= May 27, 2014, positiveCritics= 64, neutralCritics= 16, negativeCritics= 0, positiveUsers= 380, neutralUsers= 233, negativeUsers= 162, metaScore= 80, userScore= 64}
+
+Game{name= Door Kickers, platform= PC, developer= KillHouse Games, genre= Modern, numberPlayers= Online Multiplayer, rating= , releaseDate= Oct 20, 2014, positiveCritics= 11, neutralCritics= 2, negativeCritics= 0, positiveUsers= 14, neutralUsers= 4, negativeUsers= 4, metaScore= 83, userScore= 77}
+
+Game{name= Grand Theft Auto V, platform= PC, developer= Rockstar North, genre= Modern, numberPlayers= Up to 32 , rating= M, releaseDate= Apr 14, 2015, positiveCritics= 56, neutralCritics= 1, negativeCritics= 0, positiveUsers= 407, neutralUsers= 108, negativeUsers= 250, metaScore= 96, userScore= 77}
+
+Game{name= Metal Gear Solid V: The Phantom Pain, platform= XONE, developer= Kojima Productions, Moby Dick Studio, genre= Modern, numberPlayers= Up to 16 , rating= M, releaseDate= Sep  1, 2015, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 82, neutralUsers= 22, negativeUsers= 7, metaScore= 95, userScore= 74}
+
+Game{name= Metal Gear Solid V: The Phantom Pain, platform= PS4, developer= Kojima Productions, Moby Dick Studio, genre= Modern, numberPlayers= Up to 16 , rating= M, releaseDate= Sep  1, 2015, positiveCritics= 84, neutralCritics= 2, negativeCritics= 0, positiveUsers= 591, neutralUsers= 152, negativeUsers= 67, metaScore= 93, userScore= 82}
+
+Game{name= SUPERHOT, platform= PC, developer= SUPERHOT, genre= Modern, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Feb 25, 2016, positiveCritics= 77, neutralCritics= 16, negativeCritics= 0, positiveUsers= 47, neutralUsers= 32, negativeUsers= 9, metaScore= 82, userScore= 75}
+
+Game{name= SUPERHOT, platform= XONE, developer= SUPERHOT, genre= Modern, numberPlayers= , rating= T, releaseDate= May  3, 2016, positiveCritics= 14, neutralCritics= 4, negativeCritics= 0, positiveUsers= 15, neutralUsers= 2, negativeUsers= 0, metaScore= 83, userScore= 80}
+
+Game{name= Hitman, platform= PS4, developer= Io Interactive, genre= Modern, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct 31, 2016, positiveCritics= 38, neutralCritics= 2, negativeCritics= 0, positiveUsers= 20, neutralUsers= 5, negativeUsers= 1, metaScore= 84, userScore= 79}
+
+Game{name= Hitman, platform= PC, developer= Io Interactive, genre= Modern, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct 31, 2016, positiveCritics= 18, neutralCritics= 2, negativeCritics= 0, positiveUsers= 18, neutralUsers= 6, negativeUsers= 6, metaScore= 83, userScore= 73}
+

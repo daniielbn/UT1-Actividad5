@@ -1,0 +1,144 @@
+Game{name= SpaceChem, platform= PC, developer= Zachtronics Industries, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= , releaseDate= Mar  2, 2011, positiveCritics= 11, neutralCritics= 2, negativeCritics= 0, positiveUsers= 45, neutralUsers= 3, negativeUsers= 2, metaScore= 84, userScore= 85}
+
+Game{name= The Legend of Zelda: Ocarina of Time 3D, platform= 3DS, developer= GREZZO, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Jun 19, 2011, positiveCritics= 84, neutralCritics= 1, negativeCritics= 0, positiveUsers= 283, neutralUsers= 20, negativeUsers= 5, metaScore= 94, userScore= 90}
+
+Game{name= Pushmo, platform= 3DS, developer= Intelligent Systems, genre= Miscellaneous, numberPlayers= 1 Player, rating= E, releaseDate= Dec  8, 2011, positiveCritics= 31, neutralCritics= 0, negativeCritics= 0, positiveUsers= 34, neutralUsers= 4, negativeUsers= 2, metaScore= 90, userScore= 83}
+
+Game{name= Lumines: Electronic Symphony, platform= VITA, developer= Q Entertainment, genre= Miscellaneous, numberPlayers= , rating= E, releaseDate= Feb 15, 2012, positiveCritics= 57, neutralCritics= 8, negativeCritics= 0, positiveUsers= 15, neutralUsers= 3, negativeUsers= 1, metaScore= 83, userScore= 79}
+
+Game{name= Stacking, platform= PC, developer= Double Fine Productions, genre= Miscellaneous, numberPlayers= 1 Player, rating= E10+, releaseDate= Mar  6, 2012, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 7, neutralUsers= 4, negativeUsers= 0, metaScore= 80, userScore= 77}
+
+Game{name= Colors! 3D, platform= 3DS, developer= Collecting Smiles, genre= Miscellaneous, numberPlayers= 1-2 , rating= E, releaseDate= Apr  5, 2012, positiveCritics= 15, neutralCritics= 0, negativeCritics= 0, positiveUsers= 11, neutralUsers= 0, negativeUsers= 0, metaScore= 89, userScore= 78}
+
+Game{name= Art of Balance Touch!, platform= 3DS, developer= 'Shin''en', genre= Miscellaneous, numberPlayers= , rating= E, releaseDate= Jun  7, 2012, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 75}
+
+Game{name= Metal Gear Solid HD Collection, platform= VITA, developer= Armature Studio, genre= Miscellaneous, numberPlayers= 1 Player, rating= M, releaseDate= Jun 12, 2012, positiveCritics= 30, neutralCritics= 6, negativeCritics= 0, positiveUsers= 40, neutralUsers= 2, negativeUsers= 1, metaScore= 81, userScore= 85}
+
+Game{name= The Walking Dead: Episode 2 - Starved for Help, platform= PC, developer= Telltale Games, genre= Miscellaneous, numberPlayers= , rating= M, releaseDate= Jun 29, 2012, positiveCritics= 24, neutralCritics= 1, negativeCritics= 0, positiveUsers= 40, neutralUsers= 5, negativeUsers= 3, metaScore= 84, userScore= 86}
+
+Game{name= The Walking Dead: Episode 3 - Long Road Ahead, platform= PC, developer= Telltale Games, genre= Miscellaneous, numberPlayers= , rating= M, releaseDate= Aug 29, 2012, positiveCritics= 22, neutralCritics= 2, negativeCritics= 0, positiveUsers= 13, neutralUsers= 7, negativeUsers= 6, metaScore= 85, userScore= 84}
+
+Game{name= Art Academy: Lessons for Everyone, platform= 3DS, developer= Nintendo, Headstrong Games, genre= Miscellaneous, numberPlayers= , rating= E, releaseDate= Oct  1, 2012, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 5, neutralUsers= 2, negativeUsers= 0, metaScore= 81, userScore= 76}
+
+Game{name= The Walking Dead: Episode 4 - Around Every Corner, platform= PC, developer= Telltale Games, genre= Miscellaneous, numberPlayers= , rating= M, releaseDate= Oct 10, 2012, positiveCritics= 17, neutralCritics= 7, negativeCritics= 0, positiveUsers= 16, neutralUsers= 2, negativeUsers= 1, metaScore= 80, userScore= 85}
+
+Game{name= 'FLY''N', platform= PC, developer= Ankama, genre= Miscellaneous, numberPlayers= , rating= , releaseDate= Nov  9, 2012, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 17, neutralUsers= 2, negativeUsers= 0, metaScore= 80, userScore= 77}
+
+Game{name= The Walking Dead: Episode 5 - No Time Left, platform= PC, developer= Telltale Games, genre= Miscellaneous, numberPlayers= , rating= M, releaseDate= Nov 21, 2012, positiveCritics= 20, neutralCritics= 1, negativeCritics= 0, positiveUsers= 52, neutralUsers= 10, negativeUsers= 6, metaScore= 89, userScore= 88}
+
+Game{name= Crashmo, platform= 3DS, developer= Intelligent Systems, genre= Miscellaneous, numberPlayers= , rating= E, releaseDate= Nov 22, 2012, positiveCritics= 30, neutralCritics= 2, negativeCritics= 0, positiveUsers= 4, neutralUsers= 0, negativeUsers= 0, metaScore= 86, userScore= 83}
+
+Game{name= Antichamber, platform= PC, developer= Demruth, genre= Miscellaneous, numberPlayers= , rating= , releaseDate= Jan 31, 2013, positiveCritics= 44, neutralCritics= 6, negativeCritics= 0, positiveUsers= 86, neutralUsers= 20, negativeUsers= 11, metaScore= 82, userScore= 82}
+
+Game{name= Gunpoint, platform= PC, developer= Tom Francis, genre= Miscellaneous, numberPlayers= , rating= , releaseDate= Jun  3, 2013, positiveCritics= 31, neutralCritics= 2, negativeCritics= 0, positiveUsers= 92, neutralUsers= 19, negativeUsers= 6, metaScore= 83, userScore= 84}
+
+Game{name= Quell Memento, platform= VITA, developer= Fallen Tree Games, genre= Miscellaneous, numberPlayers= , rating= E, releaseDate= Jun  4, 2013, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 76}
+
+Game{name= The Walking Dead: A Telltale Games Series - The Complete First Season, platform= VITA, developer= Telltale Games, genre= Miscellaneous, numberPlayers= , rating= M, releaseDate= Aug 20, 2013, positiveCritics= 4, neutralCritics= 3, negativeCritics= 0, positiveUsers= 23, neutralUsers= 2, negativeUsers= 0, metaScore= 82, userScore= 86}
+
+Game{name= Sokobond, platform= PC, developer= Alan Hazelden & Harry Lee, genre= Miscellaneous, numberPlayers= 1 Player, rating= , releaseDate= Aug 27, 2013, positiveCritics= 4, neutralCritics= 3, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 0, metaScore= 82, userScore= 77}
+
+Game{name= Year Walk, platform= PC, developer= Simogo, genre= Miscellaneous, numberPlayers= , rating= , releaseDate= Mar  6, 2014, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 17, neutralUsers= 5, negativeUsers= 3, metaScore= 87, userScore= 70}
+
+Game{name= Final Fantasy X / X-2 HD Remaster, platform= VITA, developer= Virtuos, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Mar 18, 2014, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 32, neutralUsers= 2, negativeUsers= 0, metaScore= 86, userScore= 90}
+
+Game{name= The Sly Collection, platform= VITA, developer= Sanzaru Games, genre= Miscellaneous, numberPlayers= , rating= E10+, releaseDate= May 27, 2014, positiveCritics= 27, neutralCritics= 3, negativeCritics= 0, positiveUsers= 14, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 78}
+
+Game{name= Pushmo World, platform= WIIU, developer= Intelligent Systems, genre= Miscellaneous, numberPlayers= , rating= E, releaseDate= Jun 19, 2014, positiveCritics= 30, neutralCritics= 7, negativeCritics= 0, positiveUsers= 6, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 80}
+
+Game{name= The Vanishing of Ethan Carter, platform= PC, developer= The Astronauts, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Sep 25, 2014, positiveCritics= 56, neutralCritics= 10, negativeCritics= 0, positiveUsers= 96, neutralUsers= 53, negativeUsers= 17, metaScore= 82, userScore= 80}
+
+Game{name= Halo: The Master Chief Collection, platform= XONE, developer= 343 Industries, genre= Miscellaneous, numberPlayers= Up to 16 , rating= M, releaseDate= Nov 11, 2014, positiveCritics= 60, neutralCritics= 8, negativeCritics= 1, positiveUsers= 225, neutralUsers= 53, negativeUsers= 80, metaScore= 85, userScore= 74}
+
+Game{name= Tales From The Borderlands: Episode 1 - Zer0 Sum, platform= PC, developer= Telltale Games, genre= Miscellaneous, numberPlayers= , rating= M, releaseDate= Nov 25, 2014, positiveCritics= 41, neutralCritics= 2, negativeCritics= 0, positiveUsers= 43, neutralUsers= 5, negativeUsers= 4, metaScore= 84, userScore= 84}
+
+Game{name= Tales From The Borderlands: Episode 1 - Zer0 Sum, platform= PS4, developer= Telltale Games, genre= Miscellaneous, numberPlayers= , rating= M, releaseDate= Nov 25, 2014, positiveCritics= 12, neutralCritics= 3, negativeCritics= 0, positiveUsers= 11, neutralUsers= 3, negativeUsers= 2, metaScore= 80, userScore= 79}
+
+Game{name= Tales From The Borderlands: Episode 1 - Zer0 Sum, platform= XONE, developer= Telltale Games, genre= Miscellaneous, numberPlayers= , rating= M, releaseDate= Nov 26, 2014, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 7, neutralUsers= 3, negativeUsers= 0, metaScore= 82, userScore= 82}
+
+Game{name= Hearthstone: Heroes of Warcraft - Goblins Vs. Gnomes, platform= PC, developer= Blizzard Entertainment, genre= Miscellaneous, numberPlayers= , rating= , releaseDate= Dec  8, 2014, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 4, neutralUsers= 6, negativeUsers= 5, metaScore= 84, userScore= 62}
+
+Game{name= Phoenix Wright: Ace Attorney Trilogy, platform= 3DS, developer= NATSUME ATARI Inc., genre= Miscellaneous, numberPlayers= , rating= T, releaseDate= Dec  9, 2014, positiveCritics= 29, neutralCritics= 5, negativeCritics= 0, positiveUsers= 11, neutralUsers= 2, negativeUsers= 1, metaScore= 81, userScore= 85}
+
+Game{name= Homeworld Remastered Collection, platform= PC, developer= Gearbox Software, genre= Miscellaneous, numberPlayers= , rating= E10+, releaseDate= Feb 25, 2015, positiveCritics= 48, neutralCritics= 1, negativeCritics= 0, positiveUsers= 37, neutralUsers= 7, negativeUsers= 14, metaScore= 86, userScore= 82}
+
+Game{name= Borderlands: The Handsome Collection, platform= PS4, developer= Gearbox Software, Iron Galaxy Studios, genre= Miscellaneous, numberPlayers= Up to 4 , rating= M, releaseDate= Mar 24, 2015, positiveCritics= 46, neutralCritics= 3, negativeCritics= 0, positiveUsers= 60, neutralUsers= 12, negativeUsers= 5, metaScore= 82, userScore= 79}
+
+Game{name= Borderlands: The Handsome Collection, platform= XONE, developer= Gearbox Software, Iron Galaxy Studios, genre= Miscellaneous, numberPlayers= Up to 4 , rating= M, releaseDate= Mar 24, 2015, positiveCritics= 8, neutralCritics= 3, negativeCritics= 0, positiveUsers= 24, neutralUsers= 3, negativeUsers= 2, metaScore= 80, userScore= 78}
+
+Game{name= Final Fantasy X / X-2 HD Remaster, platform= PS4, developer= Virtuos, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= T, releaseDate= May 12, 2015, positiveCritics= 26, neutralCritics= 4, negativeCritics= 0, positiveUsers= 29, neutralUsers= 6, negativeUsers= 3, metaScore= 84, userScore= 87}
+
+Game{name= Art Academy: Home Studio, platform= WIIU, developer= Headstrong Games, genre= Miscellaneous, numberPlayers= , rating= E, releaseDate= Jun 25, 2015, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 6, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 79}
+
+Game{name= The Vanishing of Ethan Carter, platform= PS4, developer= The Astronauts, genre= Miscellaneous, numberPlayers= , rating= M, releaseDate= Jul 14, 2015, positiveCritics= 28, neutralCritics= 4, negativeCritics= 1, positiveUsers= 14, neutralUsers= 7, negativeUsers= 7, metaScore= 81, userScore= 76}
+
+Game{name= Rare Replay, platform= XONE, developer= Rare Ltd., Code Mystics Inc., genre= Miscellaneous, numberPlayers= Up to 32 , rating= M, releaseDate= Aug  4, 2015, positiveCritics= 70, neutralCritics= 5, negativeCritics= 0, positiveUsers= 52, neutralUsers= 9, negativeUsers= 4, metaScore= 84, userScore= 80}
+
+Game{name= Mega Man Legacy Collection, platform= PC, developer= Digital Eclipse, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Aug 24, 2015, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 9, neutralUsers= 2, negativeUsers= 1, metaScore= 85, userScore= 77}
+
+Game{name= Mega Man Legacy Collection, platform= XONE, developer= Digital Eclipse, genre= Miscellaneous, numberPlayers= , rating= E, releaseDate= Aug 25, 2015, positiveCritics= 23, neutralCritics= 7, negativeCritics= 0, positiveUsers= 3, neutralUsers= 2, negativeUsers= 2, metaScore= 80, userScore= 70}
+
+Game{name= Gunman Clive HD Collection, platform= WIIU, developer= Horberg Productions, genre= Miscellaneous, numberPlayers= , rating= E10+, releaseDate= Sep  3, 2015, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 1, metaScore= 86, userScore= 81}
+
+Game{name= Hatsune Miku: Project Mirai DX, platform= 3DS, developer= Sega, genre= Miscellaneous, numberPlayers= , rating= E10+, releaseDate= Sep  8, 2015, positiveCritics= 23, neutralCritics= 9, negativeCritics= 0, positiveUsers= 9, neutralUsers= 4, negativeUsers= 1, metaScore= 80, userScore= 81}
+
+Game{name= Uncharted: The Nathan Drake Collection, platform= PS4, developer= Bluepoint Games, genre= Miscellaneous, numberPlayers= , rating= T, releaseDate= Oct  9, 2015, positiveCritics= 76, neutralCritics= 2, negativeCritics= 0, positiveUsers= 191, neutralUsers= 21, negativeUsers= 16, metaScore= 86, userScore= 85}
+
+Game{name= The Witness, platform= PS4, developer= Thekla, Inc, genre= Miscellaneous, numberPlayers= , rating= E, releaseDate= Jan 26, 2016, positiveCritics= 71, neutralCritics= 9, negativeCritics= 2, positiveUsers= 67, neutralUsers= 27, negativeUsers= 26, metaScore= 87, userScore= 72}
+
+Game{name= The Witness, platform= PC, developer= Thekla, Inc, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Jan 26, 2016, positiveCritics= 17, neutralCritics= 3, negativeCritics= 0, positiveUsers= 56, neutralUsers= 15, negativeUsers= 27, metaScore= 87, userScore= 69}
+
+Game{name= Hex: Shards of Fate, platform= PC, developer= Cryptozoic Entertainment, Hex Entertainment, genre= Miscellaneous, numberPlayers= Online Multiplayer, rating= , releaseDate= Jan 26, 2016, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 28, neutralUsers= 7, negativeUsers= 20, metaScore= 87, userScore= 63}
+
+Game{name= Pocket Card Jockey, platform= 3DS, developer= Game Freak, genre= Miscellaneous, numberPlayers= , rating= E10+, releaseDate= May  5, 2016, positiveCritics= 13, neutralCritics= 3, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 83, userScore= 79}
+
+Game{name= Final Fantasy X / X-2 HD Remaster, platform= PC, developer= Square Enix, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= T, releaseDate= May 12, 2016, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 12, neutralUsers= 2, negativeUsers= 2, metaScore= 83, userScore= 90}
+
+Game{name= FRU, platform= XONE, developer= Through Games, genre= Miscellaneous, numberPlayers= , rating= E, releaseDate= Jul 13, 2016, positiveCritics= 21, neutralCritics= 3, negativeCritics= 0, positiveUsers= 7, neutralUsers= 0, negativeUsers= 1, metaScore= 84, userScore= 68}
+
+Game{name= Faeria, platform= PC, developer= Abrakam SA, genre= Miscellaneous, numberPlayers= Online Multiplayer, rating= , releaseDate= Mar  8, 2017, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 2, metaScore= 80, userScore= 76}
+
+Game{name= Danganronpa 1-2 Reload, platform= PS4, developer= Spike Chunsoft, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Mar 14, 2017, positiveCritics= 27, neutralCritics= 2, negativeCritics= 0, positiveUsers= 7, neutralUsers= 0, negativeUsers= 1, metaScore= 83, userScore= 81}
+
+Game{name= The Elder Scrolls: Legends, platform= PC, developer= Bethesda Softworks, Dire Wolf Digital, genre= Miscellaneous, numberPlayers= Online Multiplayer, rating= , releaseDate= Mar 20, 2017, positiveCritics= 15, neutralCritics= 2, negativeCritics= 0, positiveUsers= 10, neutralUsers= 8, negativeUsers= 14, metaScore= 80, userScore= 57}
+
+Game{name= Zero Escape: The Nonary Games, platform= PS4, developer= Spike Chunsoft, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Mar 24, 2017, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 8, neutralUsers= 0, negativeUsers= 1, metaScore= 87, userScore= 79}
+
+Game{name= Kingdom Hearts HD I.5 + II.5 Remix, platform= PS4, developer= Square Enix, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Mar 28, 2017, positiveCritics= 34, neutralCritics= 1, negativeCritics= 0, positiveUsers= 41, neutralUsers= 5, negativeUsers= 3, metaScore= 84, userScore= 89}
+
+Game{name= Crash Bandicoot N. Sane Trilogy, platform= PS4, developer= Vicarious Visions, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Jun 30, 2017, positiveCritics= 68, neutralCritics= 17, negativeCritics= 0, positiveUsers= 161, neutralUsers= 21, negativeUsers= 21, metaScore= 80, userScore= 85}
+
+Game{name= Azure Striker Gunvolt: Striker Pack, platform= Switch, developer= Inti Creates, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Aug 31, 2017, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 1, metaScore= 82, userScore= 75}
+
+Game{name= Hand of Fate 2, platform= PS4, developer= Defiant Development, genre= Miscellaneous, numberPlayers= , rating= T, releaseDate= Nov  7, 2017, positiveCritics= 12, neutralCritics= 2, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 1, metaScore= 82, userScore= 72}
+
+Game{name= Hand of Fate 2, platform= PC, developer= Defiant Development, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= , releaseDate= Nov  7, 2017, positiveCritics= 22, neutralCritics= 5, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 71}
+
+Game{name= Hand of Fate 2, platform= XONE, developer= Defiant Development, genre= Miscellaneous, numberPlayers= , rating= T, releaseDate= Dec  1, 2017, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 70}
+
+Game{name= Bayonetta + Bayonetta 2, platform= Switch, developer= PlatinumGames, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Feb 16, 2018, positiveCritics= 27, neutralCritics= 0, negativeCritics= 0, positiveUsers= 39, neutralUsers= 2, negativeUsers= 3, metaScore= 90, userScore= 87}
+
+Game{name= Mega Man Legacy Collection, platform= Switch, developer= Capcom, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= E, releaseDate= May 22, 2018, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 5, neutralUsers= 2, negativeUsers= 0, metaScore= 83, userScore= 78}
+
+Game{name= Street Fighter: 30th Anniversary Collection, platform= PS4, developer= Capcom, genre= Miscellaneous, numberPlayers= 2, rating= T, releaseDate= May 29, 2018, positiveCritics= 24, neutralCritics= 2, negativeCritics= 0, positiveUsers= 7, neutralUsers= 1, negativeUsers= 2, metaScore= 83, userScore= 68}
+
+Game{name= Street Fighter: 30th Anniversary Collection, platform= Switch, developer= Capcom, genre= Miscellaneous, numberPlayers= 2, rating= T, releaseDate= May 29, 2018, positiveCritics= 32, neutralCritics= 7, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 4, metaScore= 81, userScore= 76}
+
+Game{name= Street Fighter: 30th Anniversary Collection, platform= XONE, developer= Capcom, genre= Miscellaneous, numberPlayers= 2, rating= T, releaseDate= May 29, 2018, positiveCritics= 8, neutralCritics= 3, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 3, metaScore= 80, userScore= 74}
+
+Game{name= Hand of Fate 2, platform= Switch, developer= Defiant Development, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jul 17, 2018, positiveCritics= 11, neutralCritics= 2, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 83}
+
+Game{name= Mega Man X Legacy Collection, platform= Switch, developer= Capcom, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jul 24, 2018, positiveCritics= 14, neutralCritics= 2, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 84, userScore= 86}
+
+Game{name= Mega Man X Legacy Collection 1 + 2, platform= PS4, developer= Capcom, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jul 24, 2018, positiveCritics= 17, neutralCritics= 3, negativeCritics= 0, positiveUsers= 5, neutralUsers= 0, negativeUsers= 1, metaScore= 80, userScore= 75}
+
+Game{name= Mega Man X Legacy Collection 1 + 2, platform= Switch, developer= Capcom, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jul 24, 2018, positiveCritics= 15, neutralCritics= 2, negativeCritics= 0, positiveUsers= 6, neutralUsers= 2, negativeUsers= 0, metaScore= 80, userScore= 84}
+
+Game{name= Armello, platform= Switch, developer= League of Geeks, genre= Miscellaneous, numberPlayers= Up to 4 , rating= E10+, releaseDate= Sep 27, 2018, positiveCritics= 11, neutralCritics= 4, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 1, metaScore= 80, userScore= 72}
+
+Game{name= Spyro Reignited Trilogy, platform= XONE, developer= Activision, Toys for Bob, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Nov 13, 2018, positiveCritics= 17, neutralCritics= 2, negativeCritics= 0, positiveUsers= 17, neutralUsers= 1, negativeUsers= 3, metaScore= 83, userScore= 68}
+
+Game{name= Spyro Reignited Trilogy, platform= PS4, developer= Activision, Toys for Bob, genre= Miscellaneous, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Nov 13, 2018, positiveCritics= 71, neutralCritics= 9, negativeCritics= 0, positiveUsers= 70, neutralUsers= 11, negativeUsers= 11, metaScore= 82, userScore= 81}
+
+Game{name= R-Type Dimensions EX, platform= Switch, developer= Southend Interactive, genre= Miscellaneous, numberPlayers= 2, rating= E, releaseDate= Nov 28, 2018, positiveCritics= 5, neutralCritics= 2, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 78}
+

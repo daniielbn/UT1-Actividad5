@@ -1,0 +1,2 @@
+Game{name= Super Smash Bros. for Nintendo 3DS, platform= 3DS, developer= Bandai Namco Games, genre= Fighting, numberPlayers= Up to 4 , rating= E10+, releaseDate= Oct  3, 2014, positiveCritics= 71, neutralCritics= 5, negativeCritics= 0, positiveUsers= 201, neutralUsers= 38, negativeUsers= 14, metaScore= 85, userScore= 86}
+

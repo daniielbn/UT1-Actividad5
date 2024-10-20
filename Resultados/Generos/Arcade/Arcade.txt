@@ -1,0 +1,4 @@
+Game{name= Call of Duty: Modern Warfare Remastered, platform= PS4, developer= Infinity Ward, genre= Arcade, numberPlayers= Up to 18 , rating= M, releaseDate= Nov  4, 2016, positiveCritics= 24, neutralCritics= 3, negativeCritics= 0, positiveUsers= 33, neutralUsers= 16, negativeUsers= 14, metaScore= 83, userScore= 69}
+
+Game{name= NBA 2K18, platform= PS4, developer= Visual Concepts, genre= Arcade, numberPlayers= Up to 10 , rating= E10+, releaseDate= Sep 15, 2017, positiveCritics= 45, neutralCritics= 5, negativeCritics= 4, positiveUsers= 17, neutralUsers= 11, negativeUsers= 199, metaScore= 80, userScore= 17}
+

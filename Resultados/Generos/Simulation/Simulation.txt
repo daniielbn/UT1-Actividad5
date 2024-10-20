@@ -1,0 +1,24 @@
+Game{name= FTL: Faster Than Light, platform= PC, developer= Subset Games, genre= Simulation, numberPlayers= , rating= , releaseDate= Sep 14, 2012, positiveCritics= 41, neutralCritics= 1, negativeCritics= 0, positiveUsers= 273, neutralUsers= 35, negativeUsers= 55, metaScore= 84, userScore= 84}
+
+Game{name= Starseed Pilgrim, platform= PC, developer= Droqen, genre= Simulation, numberPlayers= , rating= , releaseDate= Apr 16, 2013, positiveCritics= 9, neutralCritics= 3, negativeCritics= 0, positiveUsers= 4, neutralUsers= 3, negativeUsers= 7, metaScore= 83, userScore= 61}
+
+Game{name= Animal Crossing: New Leaf, platform= 3DS, developer= Nintendo, genre= Simulation, numberPlayers= Up to 4 , rating= E, releaseDate= Jun  9, 2013, positiveCritics= 64, neutralCritics= 6, negativeCritics= 0, positiveUsers= 142, neutralUsers= 8, negativeUsers= 5, metaScore= 88, userScore= 88}
+
+Game{name= The Sims 3: Into the Future, platform= PC, developer= Maxis, genre= Simulation, numberPlayers= , rating= T, releaseDate= Oct 22, 2013, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 54}
+
+Game{name= Elite: Dangerous, platform= XONE, developer= Frontier Developments, genre= Simulation, numberPlayers= Up to 16 , rating= T, releaseDate= Oct  6, 2015, positiveCritics= 26, neutralCritics= 4, negativeCritics= 0, positiveUsers= 14, neutralUsers= 3, negativeUsers= 11, metaScore= 80, userScore= 72}
+
+Game{name= Quadrilateral Cowboy, platform= PC, developer= Blendo Games, genre= Simulation, numberPlayers= No Online Multiplayer, rating= , releaseDate= Jul 25, 2016, positiveCritics= 29, neutralCritics= 0, negativeCritics= 1, positiveUsers= 1, neutralUsers= 1, negativeUsers= 0, metaScore= 81, userScore= 72}
+
+Game{name= The Sims 4: Cats & Dogs, platform= PC, developer= Maxis, genre= Simulation, numberPlayers= , rating= T, releaseDate= Nov 10, 2017, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 5, metaScore= 80, userScore= 43}
+
+Game{name= Reigns: Her Majesty, platform= PC, developer= Nerial, genre= Simulation, numberPlayers= No Online Multiplayer, rating= , releaseDate= Dec  6, 2017, positiveCritics= 12, neutralCritics= 1, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 1, metaScore= 81, userScore= 69}
+
+Game{name= Style Savvy: Styling Star, platform= 3DS, developer= Nintendo, syn Sophia, genre= Simulation, numberPlayers= , rating= E, releaseDate= Dec 25, 2017, positiveCritics= 6, neutralCritics= 3, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 0, metaScore= 80, userScore= 65}
+
+Game{name= The Sims 4: Seasons, platform= PC, developer= Maxis, genre= Simulation, numberPlayers= , rating= T, releaseDate= Jun 22, 2018, positiveCritics= 14, neutralCritics= 1, negativeCritics= 0, positiveUsers= 4, neutralUsers= 0, negativeUsers= 3, metaScore= 81, userScore= 63}
+
+Game{name= Two Point Hospital, platform= PC, developer= Two Point Studios, genre= Simulation, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Aug 29, 2018, positiveCritics= 51, neutralCritics= 4, negativeCritics= 0, positiveUsers= 24, neutralUsers= 4, negativeUsers= 5, metaScore= 83, userScore= 74}
+
+Game{name= Ace Combat 7: Skies Unknown, platform= PS4, developer= Project Aces , genre= Simulation, numberPlayers= Up to 8 , rating= T, releaseDate= Jan 18, 2019, positiveCritics= 55, neutralCritics= 12, negativeCritics= 0, positiveUsers= 37, neutralUsers= 9, negativeUsers= 0, metaScore= 80, userScore= 83}
+

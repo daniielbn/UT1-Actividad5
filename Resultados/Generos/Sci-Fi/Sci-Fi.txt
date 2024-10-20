@@ -1,0 +1,36 @@
+Game{name= Star Wars: The Old Republic, platform= PC, developer= LucasArts, BioWare, genre= Sci-Fi, numberPlayers= Massively Multiplayer, rating= T, releaseDate= Dec 20, 2011, positiveCritics= 68, neutralCritics= 5, negativeCritics= 0, positiveUsers= 646, neutralUsers= 216, negativeUsers= 490, metaScore= 85, userScore= 59}
+
+Game{name= Gone Home, platform= PC, developer= The Fullbright Company, genre= Sci-Fi, numberPlayers= No Online Multiplayer, rating= , releaseDate= Aug 15, 2013, positiveCritics= 49, neutralCritics= 7, negativeCritics= 0, positiveUsers= 306, neutralUsers= 169, negativeUsers= 337, metaScore= 86, userScore= 54}
+
+Game{name= XCOM: Enemy Within, platform= PC, developer= Firaxis Games, genre= Sci-Fi, numberPlayers= , rating= M, releaseDate= Nov 11, 2013, positiveCritics= 52, neutralCritics= 2, negativeCritics= 0, positiveUsers= 77, neutralUsers= 21, negativeUsers= 12, metaScore= 86, userScore= 80}
+
+Game{name= inFamous: Second Son, platform= PS4, developer= Sucker Punch, genre= Sci-Fi, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Mar 21, 2014, positiveCritics= 69, neutralCritics= 20, negativeCritics= 1, positiveUsers= 501, neutralUsers= 131, negativeUsers= 43, metaScore= 80, userScore= 80}
+
+Game{name= WildStar, platform= PC, developer= Carbine Studios, genre= Sci-Fi, numberPlayers= Online Multiplayer, rating= T, releaseDate= Jun  3, 2014, positiveCritics= 45, neutralCritics= 6, negativeCritics= 1, positiveUsers= 249, neutralUsers= 54, negativeUsers= 60, metaScore= 82, userScore= 75}
+
+Game{name= Sunless Sea, platform= PC, developer= Failbetter Games, genre= Sci-Fi, numberPlayers= No Online Multiplayer, rating= , releaseDate= Jul  1, 2014, positiveCritics= 31, neutralCritics= 7, negativeCritics= 0, positiveUsers= 19, neutralUsers= 8, negativeUsers= 8, metaScore= 81, userScore= 74}
+
+Game{name= The Talos Principle, platform= PC, developer= Croteam, genre= Sci-Fi, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Dec 11, 2014, positiveCritics= 54, neutralCritics= 3, negativeCritics= 0, positiveUsers= 91, neutralUsers= 13, negativeUsers= 3, metaScore= 85, userScore= 86}
+
+Game{name= Elite: Dangerous, platform= PC, developer= Frontier Developments, genre= Sci-Fi, numberPlayers= , rating= T, releaseDate= Dec 16, 2014, positiveCritics= 46, neutralCritics= 8, negativeCritics= 0, positiveUsers= 522, neutralUsers= 84, negativeUsers= 247, metaScore= 80, userScore= 67}
+
+Game{name= Axiom Verge, platform= PS4, developer= Tom Happ, genre= Sci-Fi, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Mar 31, 2015, positiveCritics= 55, neutralCritics= 6, negativeCritics= 0, positiveUsers= 19, neutralUsers= 6, negativeUsers= 4, metaScore= 84, userScore= 78}
+
+Game{name= Kerbal Space Program, platform= PC, developer= SQUADTeam, Squad, genre= Sci-Fi, numberPlayers= No Online Multiplayer, rating= , releaseDate= Apr 27, 2015, positiveCritics= 24, neutralCritics= 0, negativeCritics= 0, positiveUsers= 96, neutralUsers= 7, negativeUsers= 6, metaScore= 88, userScore= 82}
+
+Game{name= Invisible, Inc., platform= PC, developer= Klei Entertainment, genre= Sci-Fi, numberPlayers= No Online Multiplayer, rating= , releaseDate= May 12, 2015, positiveCritics= 38, neutralCritics= 7, negativeCritics= 0, positiveUsers= 21, neutralUsers= 5, negativeUsers= 1, metaScore= 82, userScore= 79}
+
+Game{name= Life is Strange, platform= PS4, developer= DONTNOD Entertainment, genre= Sci-Fi, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct 20, 2015, positiveCritics= 22, neutralCritics= 1, negativeCritics= 0, positiveUsers= 133, neutralUsers= 27, negativeUsers= 10, metaScore= 85, userScore= 86}
+
+Game{name= Starcraft II: Legacy of the Void, platform= PC, developer= Blizzard Entertainment, genre= Sci-Fi, numberPlayers= , rating= T, releaseDate= Nov 10, 2015, positiveCritics= 61, neutralCritics= 1, negativeCritics= 0, positiveUsers= 108, neutralUsers= 20, negativeUsers= 24, metaScore= 88, userScore= 83}
+
+Game{name= SteamWorld Heist, platform= 3DS, developer= Image & Form, genre= Sci-Fi, numberPlayers= , rating= E10+, releaseDate= Dec 10, 2015, positiveCritics= 46, neutralCritics= 1, negativeCritics= 0, positiveUsers= 15, neutralUsers= 0, negativeUsers= 0, metaScore= 86, userScore= 83}
+
+Game{name= DOOM, platform= XONE, developer= id Software, genre= Sci-Fi, numberPlayers= Up to 12 , rating= M, releaseDate= May 13, 2016, positiveCritics= 24, neutralCritics= 1, negativeCritics= 0, positiveUsers= 121, neutralUsers= 10, negativeUsers= 7, metaScore= 87, userScore= 84}
+
+Game{name= DOOM, platform= PS4, developer= id Software, genre= Sci-Fi, numberPlayers= Up to 12 , rating= M, releaseDate= May 13, 2016, positiveCritics= 57, neutralCritics= 4, negativeCritics= 0, positiveUsers= 348, neutralUsers= 48, negativeUsers= 20, metaScore= 85, userScore= 83}
+
+Game{name= DOOM, platform= PC, developer= id Software, genre= Sci-Fi, numberPlayers= , rating= M, releaseDate= May 13, 2016, positiveCritics= 41, neutralCritics= 3, negativeCritics= 0, positiveUsers= 407, neutralUsers= 45, negativeUsers= 32, metaScore= 85, userScore= 84}
+
+Game{name= Gears of War 4, platform= XONE, developer= The Coalition, genre= Sci-Fi, numberPlayers= Up to 10 , rating= M, releaseDate= Oct 11, 2016, positiveCritics= 90, neutralCritics= 9, negativeCritics= 0, positiveUsers= 209, neutralUsers= 42, negativeUsers= 28, metaScore= 84, userScore= 69}
+

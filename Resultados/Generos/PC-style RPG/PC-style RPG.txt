@@ -1,0 +1,8 @@
+Game{name= Wasteland 2, platform= PC, developer= InXile Entertainment, genre= PC-style RPG, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Sep 18, 2014, positiveCritics= 53, neutralCritics= 12, negativeCritics= 0, positiveUsers= 169, neutralUsers= 53, negativeUsers= 51, metaScore= 81, userScore= 73}
+
+Game{name= Dragon Age: Inquisition, platform= PC, developer= BioWare, genre= PC-style RPG, numberPlayers= Up to 4 , rating= M, releaseDate= Nov 18, 2014, positiveCritics= 40, neutralCritics= 5, negativeCritics= 0, positiveUsers= 512, neutralUsers= 294, negativeUsers= 644, metaScore= 85, userScore= 59}
+
+Game{name= Pillars of Eternity, platform= PC, developer= Obsidian Entertainment, genre= PC-style RPG, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Mar 26, 2015, positiveCritics= 70, neutralCritics= 1, negativeCritics= 0, positiveUsers= 328, neutralUsers= 85, negativeUsers= 49, metaScore= 89, userScore= 83}
+
+Game{name= The Age of Decadence, platform= PC, developer= Iron Tower Studio, genre= PC-style RPG, numberPlayers= No Online Multiplayer, rating= , releaseDate= Oct 15, 2015, positiveCritics= 13, neutralCritics= 4, negativeCritics= 0, positiveUsers= 36, neutralUsers= 6, negativeUsers= 10, metaScore= 81, userScore= 80}
+

@@ -1,0 +1,164 @@
+Game{name= FIFA Soccer 12, platform= PC, developer= Electronic Arts, genre= Sports, numberPlayers= , rating= E, releaseDate= Sep 27, 2011, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 33, neutralUsers= 8, negativeUsers= 10, metaScore= 89, userScore= 71}
+
+Game{name= Football Manager 2012, platform= PC, developer= Sports Interactive, genre= Sports, numberPlayers= , rating= E, releaseDate= Oct 20, 2011, positiveCritics= 43, neutralCritics= 2, negativeCritics= 0, positiveUsers= 22, neutralUsers= 5, negativeUsers= 4, metaScore= 84, userScore= 79}
+
+Game{name= Out of the Park Baseball 13, platform= PC, developer= Out Of The Park Developments, genre= Sports, numberPlayers= , rating= , releaseDate= Apr  9, 2012, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 40, neutralUsers= 0, negativeUsers= 2, metaScore= 85, userScore= 78}
+
+Game{name= FIFA Soccer 13, platform= PC, developer= Electronic Arts, genre= Sports, numberPlayers= , rating= E, releaseDate= Sep 25, 2012, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 17, neutralUsers= 9, negativeUsers= 19, metaScore= 86, userScore= 66}
+
+Game{name= Pro Evolution Soccer 2013, platform= PC, developer= Konami, genre= Sports, numberPlayers= , rating= E, releaseDate= Sep 25, 2012, positiveCritics= 6, neutralCritics= 2, negativeCritics= 0, positiveUsers= 17, neutralUsers= 3, negativeUsers= 2, metaScore= 80, userScore= 69}
+
+Game{name= Football Manager 2013, platform= PC, developer= Sports Interactive, genre= Sports, numberPlayers= , rating= , releaseDate= Nov  1, 2012, positiveCritics= 35, neutralCritics= 2, negativeCritics= 0, positiveUsers= 19, neutralUsers= 10, negativeUsers= 19, metaScore= 86, userScore= 68}
+
+Game{name= NBA 2K13, platform= WIIU, developer= Visual Concepts, genre= Sports, numberPlayers= 1 Player, rating= E, releaseDate= Nov 18, 2012, positiveCritics= 16, neutralCritics= 1, negativeCritics= 0, positiveUsers= 6, neutralUsers= 1, negativeUsers= 0, metaScore= 85, userScore= 71}
+
+Game{name= Out of the Park Baseball 14, platform= PC, developer= Out Of The Park Developments, genre= Sports, numberPlayers= 1 Player, rating= , releaseDate= Apr 15, 2013, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 25, neutralUsers= 2, negativeUsers= 2, metaScore= 86, userScore= 82}
+
+Game{name= Football Manager 2014, platform= PC, developer= Sports Interactive, genre= Sports, numberPlayers= , rating= E, releaseDate= Oct 30, 2013, positiveCritics= 40, neutralCritics= 1, negativeCritics= 0, positiveUsers= 17, neutralUsers= 10, negativeUsers= 55, metaScore= 85, userScore= 56}
+
+Game{name= FIFA 14, platform= PS4, developer= EA Canada, genre= Sports, numberPlayers= Up to 22 , rating= E, releaseDate= Nov 12, 2013, positiveCritics= 26, neutralCritics= 0, negativeCritics= 0, positiveUsers= 43, neutralUsers= 22, negativeUsers= 39, metaScore= 87, userScore= 63}
+
+Game{name= NBA 2K14, platform= PS4, developer= Visual Concepts, genre= Sports, numberPlayers= Up to 10 , rating= E, releaseDate= Nov 12, 2013, positiveCritics= 19, neutralCritics= 1, negativeCritics= 0, positiveUsers= 23, neutralUsers= 12, negativeUsers= 31, metaScore= 85, userScore= 65}
+
+Game{name= Out of the Park Baseball 15, platform= PC, developer= , genre= Sports, numberPlayers= , rating= , releaseDate= Apr 21, 2014, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 14, neutralUsers= 0, negativeUsers= 1, metaScore= 89, userScore= 72}
+
+Game{name= MLB 14: The Show, platform= PS4, developer= SCEA San Diego Studios, genre= Sports, numberPlayers= , rating= E, releaseDate= May  6, 2014, positiveCritics= 17, neutralCritics= 0, negativeCritics= 0, positiveUsers= 30, neutralUsers= 7, negativeUsers= 5, metaScore= 83, userScore= 76}
+
+Game{name= Sportsfriends, platform= PS4, developer= Die Gute Fabrik, genre= Sports, numberPlayers= , rating= E10+, releaseDate= May  6, 2014, positiveCritics= 17, neutralCritics= 4, negativeCritics= 0, positiveUsers= 4, neutralUsers= 2, negativeUsers= 2, metaScore= 82, userScore= 63}
+
+Game{name= Madden NFL 15, platform= PS4, developer= EA Sports, genre= Sports, numberPlayers= , rating= E, releaseDate= Aug 26, 2014, positiveCritics= 34, neutralCritics= 3, negativeCritics= 0, positiveUsers= 32, neutralUsers= 23, negativeUsers= 19, metaScore= 81, userScore= 61}
+
+Game{name= Madden NFL 15, platform= XONE, developer= EA Sports, genre= Sports, numberPlayers= , rating= E, releaseDate= Aug 26, 2014, positiveCritics= 16, neutralCritics= 3, negativeCritics= 0, positiveUsers= 19, neutralUsers= 12, negativeUsers= 10, metaScore= 80, userScore= 62}
+
+Game{name= FIFA 15, platform= XONE, developer= EA Sports, genre= Sports, numberPlayers= , rating= E, releaseDate= Sep 23, 2014, positiveCritics= 27, neutralCritics= 6, negativeCritics= 0, positiveUsers= 21, neutralUsers= 26, negativeUsers= 45, metaScore= 82, userScore= 54}
+
+Game{name= FIFA 15, platform= PC, developer= EA Sports, genre= Sports, numberPlayers= , rating= E, releaseDate= Sep 23, 2014, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 18, neutralUsers= 13, negativeUsers= 83, metaScore= 82, userScore= 43}
+
+Game{name= FIFA 15, platform= PS4, developer= EA Sports, genre= Sports, numberPlayers= Up to 22 , rating= E, releaseDate= Sep 23, 2014, positiveCritics= 40, neutralCritics= 7, negativeCritics= 0, positiveUsers= 73, neutralUsers= 72, negativeUsers= 123, metaScore= 82, userScore= 57}
+
+Game{name= NBA 2K15, platform= PS4, developer= Visual Concepts, genre= Sports, numberPlayers= Up to 10 , rating= E, releaseDate= Oct  7, 2014, positiveCritics= 45, neutralCritics= 5, negativeCritics= 0, positiveUsers= 43, neutralUsers= 19, negativeUsers= 21, metaScore= 83, userScore= 69}
+
+Game{name= NBA 2K15, platform= XONE, developer= Visual Concepts, genre= Sports, numberPlayers= Up to 10 , rating= E, releaseDate= Oct  7, 2014, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 16, neutralUsers= 3, negativeUsers= 18, metaScore= 82, userScore= 62}
+
+Game{name= Football Manager 2015, platform= PC, developer= Sports Interactive, genre= Sports, numberPlayers= , rating= , releaseDate= Nov  7, 2014, positiveCritics= 28, neutralCritics= 8, negativeCritics= 0, positiveUsers= 8, neutralUsers= 11, negativeUsers= 19, metaScore= 80, userScore= 61}
+
+Game{name= Pro Evolution Soccer 2015, platform= PC, developer= Konami, genre= Sports, numberPlayers= , rating= , releaseDate= Nov 13, 2014, positiveCritics= 6, neutralCritics= 2, negativeCritics= 0, positiveUsers= 13, neutralUsers= 12, negativeUsers= 25, metaScore= 82, userScore= 56}
+
+Game{name= OlliOlli2: Welcome to Olliwood, platform= PS4, developer= roll7, genre= Sports, numberPlayers= , rating= T, releaseDate= Mar  3, 2015, positiveCritics= 32, neutralCritics= 2, negativeCritics= 0, positiveUsers= 21, neutralUsers= 8, negativeUsers= 11, metaScore= 86, userScore= 65}
+
+Game{name= OlliOlli2: Welcome to Olliwood, platform= VITA, developer= roll7, genre= Sports, numberPlayers= , rating= T, releaseDate= Mar  3, 2015, positiveCritics= 12, neutralCritics= 0, negativeCritics= 0, positiveUsers= 4, neutralUsers= 1, negativeUsers= 0, metaScore= 85, userScore= 70}
+
+Game{name= Rocket League, platform= PC, developer= Psyonix, genre= Sports, numberPlayers= , rating= E, releaseDate= Jul  5, 2015, positiveCritics= 17, neutralCritics= 3, negativeCritics= 0, positiveUsers= 120, neutralUsers= 16, negativeUsers= 15, metaScore= 86, userScore= 82}
+
+Game{name= OlliOlli2: Welcome to Olliwood, platform= PC, developer= roll7, genre= Sports, numberPlayers= , rating= , releaseDate= Aug 11, 2015, positiveCritics= 15, neutralCritics= 0, negativeCritics= 1, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 57}
+
+Game{name= Super Mega Baseball: Extra Innings, platform= XONE, developer= Metalhead Software, genre= Sports, numberPlayers= , rating= E, releaseDate= Aug 14, 2015, positiveCritics= 11, neutralCritics= 0, negativeCritics= 0, positiveUsers= 0, neutralUsers= 1, negativeUsers= 1, metaScore= 80, userScore= 71}
+
+Game{name= Madden NFL 16, platform= XONE, developer= EA Sports, genre= Sports, numberPlayers= , rating= E, releaseDate= Aug 25, 2015, positiveCritics= 22, neutralCritics= 1, negativeCritics= 0, positiveUsers= 22, neutralUsers= 2, negativeUsers= 16, metaScore= 84, userScore= 60}
+
+Game{name= Madden NFL 16, platform= PS4, developer= EA Sports, genre= Sports, numberPlayers= 2, rating= E, releaseDate= Aug 25, 2015, positiveCritics= 35, neutralCritics= 2, negativeCritics= 0, positiveUsers= 33, neutralUsers= 16, negativeUsers= 24, metaScore= 83, userScore= 59}
+
+Game{name= Pro Evolution Soccer 2016, platform= PS4, developer= Konami, genre= Sports, numberPlayers= Up to 22 , rating= E, releaseDate= Sep 15, 2015, positiveCritics= 53, neutralCritics= 1, negativeCritics= 0, positiveUsers= 110, neutralUsers= 23, negativeUsers= 30, metaScore= 87, userScore= 72}
+
+Game{name= Pro Evolution Soccer 2016, platform= XONE, developer= Konami, genre= Sports, numberPlayers= , rating= E, releaseDate= Sep 15, 2015, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 8, neutralUsers= 3, negativeUsers= 2, metaScore= 85, userScore= 61}
+
+Game{name= NHL 16, platform= XONE, developer= EA Sports, EA Canada, genre= Sports, numberPlayers= , rating= E10+, releaseDate= Sep 15, 2015, positiveCritics= 18, neutralCritics= 0, negativeCritics= 0, positiveUsers= 7, neutralUsers= 11, negativeUsers= 12, metaScore= 80, userScore= 60}
+
+Game{name= FIFA 16, platform= XONE, developer= EA Sports, genre= Sports, numberPlayers= , rating= E, releaseDate= Sep 22, 2015, positiveCritics= 39, neutralCritics= 6, negativeCritics= 0, positiveUsers= 27, neutralUsers= 14, negativeUsers= 66, metaScore= 84, userScore= 44}
+
+Game{name= FIFA 16, platform= PS4, developer= EA Sports, genre= Sports, numberPlayers= Up to 22 , rating= E, releaseDate= Sep 22, 2015, positiveCritics= 37, neutralCritics= 5, negativeCritics= 0, positiveUsers= 52, neutralUsers= 24, negativeUsers= 145, metaScore= 82, userScore= 44}
+
+Game{name= FIFA 16, platform= PC, developer= EA Sports, genre= Sports, numberPlayers= , rating= E, releaseDate= Sep 22, 2015, positiveCritics= 8, neutralCritics= 2, negativeCritics= 0, positiveUsers= 9, neutralUsers= 5, negativeUsers= 45, metaScore= 81, userScore= 45}
+
+Game{name= Football Manager 2016, platform= PC, developer= Sega, genre= Sports, numberPlayers= , rating= E, releaseDate= Nov 13, 2015, positiveCritics= 30, neutralCritics= 4, negativeCritics= 0, positiveUsers= 8, neutralUsers= 5, negativeUsers= 12, metaScore= 81, userScore= 69}
+
+Game{name= Rocket League, platform= XONE, developer= Psyonix, Panic Button, genre= Sports, numberPlayers= , rating= E, releaseDate= Feb 17, 2016, positiveCritics= 22, neutralCritics= 0, negativeCritics= 0, positiveUsers= 42, neutralUsers= 4, negativeUsers= 5, metaScore= 87, userScore= 82}
+
+Game{name= Out of the Park Baseball 17, platform= PC, developer= Out Of The Park Developments, genre= Sports, numberPlayers= , rating= , releaseDate= Mar 22, 2016, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 20, neutralUsers= 5, negativeUsers= 5, metaScore= 92, userScore= 34}
+
+Game{name= MLB The Show 16, platform= PS4, developer= SCEA San Diego Studios, genre= Sports, numberPlayers= , rating= E, releaseDate= Mar 29, 2016, positiveCritics= 35, neutralCritics= 2, negativeCritics= 0, positiveUsers= 25, neutralUsers= 3, negativeUsers= 13, metaScore= 85, userScore= 72}
+
+Game{name= OlliOlli2: XL Edition, platform= XONE, developer= roll7, genre= Sports, numberPlayers= , rating= T, releaseDate= May 24, 2016, positiveCritics= 10, neutralCritics= 2, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 1, metaScore= 83, userScore= 58}
+
+Game{name= VIDEOBALL, platform= PC, developer= Action Button Entertainment, genre= Sports, numberPlayers= , rating= , releaseDate= Jul 12, 2016, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 73}
+
+Game{name= Madden NFL 17, platform= XONE, developer= EA Sports, genre= Sports, numberPlayers= 2, rating= E, releaseDate= Aug 23, 2016, positiveCritics= 27, neutralCritics= 3, negativeCritics= 0, positiveUsers= 9, neutralUsers= 5, negativeUsers= 12, metaScore= 83, userScore= 54}
+
+Game{name= Madden NFL 17, platform= PS4, developer= EA Sports, genre= Sports, numberPlayers= 2, rating= E, releaseDate= Aug 23, 2016, positiveCritics= 33, neutralCritics= 2, negativeCritics= 0, positiveUsers= 16, neutralUsers= 7, negativeUsers= 32, metaScore= 82, userScore= 44}
+
+Game{name= Pro Evolution Soccer 2017, platform= XONE, developer= Konami, genre= Sports, numberPlayers= , rating= E, releaseDate= Sep 13, 2016, positiveCritics= 12, neutralCritics= 0, negativeCritics= 0, positiveUsers= 4, neutralUsers= 4, negativeUsers= 1, metaScore= 87, userScore= 58}
+
+Game{name= Pro Evolution Soccer 2017, platform= PS4, developer= Konami, genre= Sports, numberPlayers= Up to 22 , rating= E, releaseDate= Sep 13, 2016, positiveCritics= 58, neutralCritics= 4, negativeCritics= 0, positiveUsers= 83, neutralUsers= 12, negativeUsers= 14, metaScore= 85, userScore= 73}
+
+Game{name= NBA 2K17, platform= XONE, developer= Visual Concepts, genre= Sports, numberPlayers= , rating= E, releaseDate= Sep 16, 2016, positiveCritics= 16, neutralCritics= 1, negativeCritics= 0, positiveUsers= 14, neutralUsers= 9, negativeUsers= 14, metaScore= 90, userScore= 60}
+
+Game{name= NBA 2K17, platform= PS4, developer= Visual Concepts, genre= Sports, numberPlayers= Up to 10 , rating= E, releaseDate= Sep 16, 2016, positiveCritics= 47, neutralCritics= 0, negativeCritics= 0, positiveUsers= 34, neutralUsers= 15, negativeUsers= 21, metaScore= 88, userScore= 64}
+
+Game{name= FIFA 17, platform= PS4, developer= EA Sports, EA Vancouver, genre= Sports, numberPlayers= Up to 22 , rating= E, releaseDate= Sep 27, 2016, positiveCritics= 39, neutralCritics= 3, negativeCritics= 0, positiveUsers= 55, neutralUsers= 28, negativeUsers= 96, metaScore= 85, userScore= 48}
+
+Game{name= FIFA 17, platform= XONE, developer= EA Sports, EA Vancouver, genre= Sports, numberPlayers= , rating= E, releaseDate= Sep 27, 2016, positiveCritics= 48, neutralCritics= 3, negativeCritics= 0, positiveUsers= 18, neutralUsers= 20, negativeUsers= 28, metaScore= 84, userScore= 51}
+
+Game{name= FIFA 17, platform= PC, developer= EA Sports, EA Vancouver, genre= Sports, numberPlayers= , rating= E, releaseDate= Sep 27, 2016, positiveCritics= 11, neutralCritics= 1, negativeCritics= 0, positiveUsers= 7, neutralUsers= 6, negativeUsers= 49, metaScore= 84, userScore= 41}
+
+Game{name= Football Manager 2017, platform= PC, developer= Sports Interactive, genre= Sports, numberPlayers= , rating= E, releaseDate= Nov  4, 2016, positiveCritics= 38, neutralCritics= 9, negativeCritics= 0, positiveUsers= 8, neutralUsers= 3, negativeUsers= 21, metaScore= 80, userScore= 52}
+
+Game{name= MLB The Show 17, platform= PS4, developer= Sony Interactive Entertainment, genre= Sports, numberPlayers= Online Multiplayer, rating= E, releaseDate= Mar 28, 2017, positiveCritics= 42, neutralCritics= 3, negativeCritics= 0, positiveUsers= 23, neutralUsers= 3, negativeUsers= 8, metaScore= 85, userScore= 69}
+
+Game{name= Madden NFL 18, platform= PS4, developer= Electronic Arts, genre= Sports, numberPlayers= Up to 6 , rating= E, releaseDate= Aug 22, 2017, positiveCritics= 34, neutralCritics= 6, negativeCritics= 0, positiveUsers= 11, neutralUsers= 8, negativeUsers= 39, metaScore= 82, userScore= 37}
+
+Game{name= Madden NFL 18, platform= XONE, developer= EA Sports, genre= Sports, numberPlayers= Up to 6 , rating= E, releaseDate= Aug 22, 2017, positiveCritics= 17, neutralCritics= 5, negativeCritics= 0, positiveUsers= 4, neutralUsers= 2, negativeUsers= 4, metaScore= 82, userScore= 45}
+
+Game{name= Pro Evolution Soccer 2018, platform= PS4, developer= Konami, genre= Sports, numberPlayers= Up to 6 , rating= E, releaseDate= Sep 12, 2017, positiveCritics= 50, neutralCritics= 3, negativeCritics= 0, positiveUsers= 42, neutralUsers= 11, negativeUsers= 18, metaScore= 83, userScore= 72}
+
+Game{name= Pro Evolution Soccer 2018, platform= XONE, developer= Konami, genre= Sports, numberPlayers= , rating= E, releaseDate= Sep 12, 2017, positiveCritics= 11, neutralCritics= 0, negativeCritics= 0, positiveUsers= 3, neutralUsers= 3, negativeUsers= 1, metaScore= 82, userScore= 64}
+
+Game{name= Pro Evolution Soccer 2018, platform= PC, developer= Konami, genre= Sports, numberPlayers= Online Multiplayer, rating= E, releaseDate= Sep 12, 2017, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 10, neutralUsers= 6, negativeUsers= 12, metaScore= 81, userScore= 70}
+
+Game{name= NBA 2K18, platform= XONE, developer= 2K Games, genre= Sports, numberPlayers= Up to 10 , rating= E10+, releaseDate= Sep 15, 2017, positiveCritics= 14, neutralCritics= 2, negativeCritics= 0, positiveUsers= 2, neutralUsers= 5, negativeUsers= 44, metaScore= 85, userScore= 15}
+
+Game{name= FIFA 18, platform= PS4, developer= EA Vancouver, genre= Sports, numberPlayers= Up to 22 , rating= E, releaseDate= Sep 26, 2017, positiveCritics= 60, neutralCritics= 8, negativeCritics= 0, positiveUsers= 43, neutralUsers= 28, negativeUsers= 183, metaScore= 84, userScore= 34}
+
+Game{name= FIFA 18, platform= XONE, developer= EA Vancouver, genre= Sports, numberPlayers= , rating= E, releaseDate= Sep 26, 2017, positiveCritics= 20, neutralCritics= 1, negativeCritics= 0, positiveUsers= 4, neutralUsers= 8, negativeUsers= 46, metaScore= 83, userScore= 30}
+
+Game{name= FIFA 18, platform= PC, developer= EA Vancouver, genre= Sports, numberPlayers= , rating= E, releaseDate= Sep 26, 2017, positiveCritics= 6, neutralCritics= 2, negativeCritics= 0, positiveUsers= 11, neutralUsers= 4, negativeUsers= 91, metaScore= 81, userScore= 26}
+
+Game{name= Football Manager 2018, platform= PC, developer= Sports Interactive, genre= Sports, numberPlayers= , rating= , releaseDate= Nov 10, 2017, positiveCritics= 30, neutralCritics= 3, negativeCritics= 0, positiveUsers= 4, neutralUsers= 3, negativeUsers= 9, metaScore= 82, userScore= 57}
+
+Game{name= Rocket League, platform= Switch, developer= Psyonix, genre= Sports, numberPlayers= Up to 8 , rating= E, releaseDate= Nov 14, 2017, positiveCritics= 31, neutralCritics= 1, negativeCritics= 0, positiveUsers= 28, neutralUsers= 8, negativeUsers= 3, metaScore= 86, userScore= 83}
+
+Game{name= MLB The Show 18, platform= PS4, developer= Sony Interactive Entertainment, genre= Sports, numberPlayers= Up to 8 , rating= E, releaseDate= Mar 27, 2018, positiveCritics= 29, neutralCritics= 6, negativeCritics= 0, positiveUsers= 12, neutralUsers= 9, negativeUsers= 9, metaScore= 82, userScore= 63}
+
+Game{name= Super Mega Baseball 2, platform= XONE, developer= Metalhead Software, genre= Sports, numberPlayers= Up to 4 , rating= E, releaseDate= May  1, 2018, positiveCritics= 19, neutralCritics= 2, negativeCritics= 0, positiveUsers= 9, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 71}
+
+Game{name= Laser League, platform= PS4, developer= roll7, genre= Sports, numberPlayers= Up to 6 , rating= E10+, releaseDate= May 10, 2018, positiveCritics= 24, neutralCritics= 3, negativeCritics= 0, positiveUsers= 6, neutralUsers= 1, negativeUsers= 2, metaScore= 82, userScore= 68}
+
+Game{name= Laser League, platform= XONE, developer= roll7, genre= Sports, numberPlayers= Up to 6 , rating= E10+, releaseDate= May 10, 2018, positiveCritics= 10, neutralCritics= 1, negativeCritics= 0, positiveUsers= 7, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 73}
+
+Game{name= Madden NFL 19, platform= XONE, developer= EA Tiburon, genre= Sports, numberPlayers= Up to 6 , rating= E, releaseDate= Aug 10, 2018, positiveCritics= 19, neutralCritics= 2, negativeCritics= 0, positiveUsers= 7, neutralUsers= 1, negativeUsers= 19, metaScore= 81, userScore= 33}
+
+Game{name= Madden NFL 19, platform= PS4, developer= EA Tiburon, genre= Sports, numberPlayers= Up to 6 , rating= E, releaseDate= Aug 10, 2018, positiveCritics= 23, neutralCritics= 7, negativeCritics= 0, positiveUsers= 5, neutralUsers= 10, negativeUsers= 84, metaScore= 80, userScore= 23}
+
+Game{name= Pro Evolution Soccer 2019, platform= XONE, developer= Konami, genre= Sports, numberPlayers= Up to 22 , rating= E, releaseDate= Aug 28, 2018, positiveCritics= 11, neutralCritics= 1, negativeCritics= 0, positiveUsers= 7, neutralUsers= 1, negativeUsers= 4, metaScore= 82, userScore= 68}
+
+Game{name= The Golf Club 2019 featuring PGA Tour, platform= XONE, developer= HB Studios Multimedia, genre= Sports, numberPlayers= Up to 4 , rating= E, releaseDate= Aug 28, 2018, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 2, metaScore= 80, userScore= 72}
+
+Game{name= Pro Evolution Soccer 2019, platform= PC, developer= Konami, genre= Sports, numberPlayers= Up to 22 , rating= E, releaseDate= Aug 28, 2018, positiveCritics= 6, neutralCritics= 2, negativeCritics= 0, positiveUsers= 8, neutralUsers= 2, negativeUsers= 12, metaScore= 80, userScore= 57}
+
+Game{name= NBA 2K19, platform= XONE, developer= Visual Concepts, genre= Sports, numberPlayers= Up to 10 , rating= E, releaseDate= Sep  7, 2018, positiveCritics= 16, neutralCritics= 2, negativeCritics= 0, positiveUsers= 6, neutralUsers= 2, negativeUsers= 12, metaScore= 83, userScore= 28}
+
+Game{name= NBA 2K19, platform= PS4, developer= Visual Concepts, genre= Sports, numberPlayers= Up to 10 , rating= E, releaseDate= Sep  7, 2018, positiveCritics= 39, neutralCritics= 9, negativeCritics= 1, positiveUsers= 17, neutralUsers= 6, negativeUsers= 88, metaScore= 82, userScore= 26}
+
+Game{name= NHL 19, platform= XONE, developer= EA Sports, genre= Sports, numberPlayers= Up to 12 , rating= E10+, releaseDate= Sep 11, 2018, positiveCritics= 19, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 2, negativeUsers= 4, metaScore= 82, userScore= 67}
+
+Game{name= NHL 19, platform= PS4, developer= EA Sports, genre= Sports, numberPlayers= Up to 12 , rating= E10+, releaseDate= Sep 14, 2018, positiveCritics= 21, neutralCritics= 8, negativeCritics= 0, positiveUsers= 9, neutralUsers= 4, negativeUsers= 19, metaScore= 80, userScore= 53}
+
+Game{name= FIFA 19, platform= PS4, developer= EA Sports, genre= Sports, numberPlayers= Up to 22 , rating= E, releaseDate= Sep 25, 2018, positiveCritics= 59, neutralCritics= 8, negativeCritics= 0, positiveUsers= 26, neutralUsers= 19, negativeUsers= 207, metaScore= 83, userScore= 17}
+
+Game{name= FIFA 19, platform= XONE, developer= EA Sports, genre= Sports, numberPlayers= Up to 22 , rating= E, releaseDate= Sep 25, 2018, positiveCritics= 23, neutralCritics= 2, negativeCritics= 0, positiveUsers= 4, neutralUsers= 2, negativeUsers= 32, metaScore= 83, userScore= 20}
+
+Game{name= WindJammers, platform= Switch, developer= Data East, DotEmu, genre= Sports, numberPlayers= 2, rating= E, releaseDate= Oct 23, 2018, positiveCritics= 11, neutralCritics= 2, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 84}
+
+Game{name= Football Manager 2019, platform= PC, developer= Sports Interactive, genre= Sports, numberPlayers= Online Multiplayer, rating= , releaseDate= Nov  2, 2018, positiveCritics= 31, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 7, metaScore= 86, userScore= 65}
+
+Game{name= MLB The Show 19, platform= PS4, developer= Sony Interactive Entertainment, genre= Sports, numberPlayers= , rating= E, releaseDate= Mar 26, 2019, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 9, neutralUsers= 2, negativeUsers= 2, metaScore= 85, userScore= 69}
+

@@ -1,0 +1,4 @@
+Game{name= Final Fantasy XIV: Heavensward, platform= PC, developer= Square Enix, genre= Massively Multiplayer Online, numberPlayers= , rating= T, releaseDate= Jun 23, 2015, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 27, neutralUsers= 3, negativeUsers= 5, metaScore= 86, userScore= 84}
+
+Game{name= Final Fantasy XIV: Heavensward, platform= PS4, developer= Square Enix, genre= Massively Multiplayer Online, numberPlayers= , rating= T, releaseDate= Jun 23, 2015, positiveCritics= 18, neutralCritics= 2, negativeCritics= 0, positiveUsers= 24, neutralUsers= 4, negativeUsers= 5, metaScore= 86, userScore= 83}
+

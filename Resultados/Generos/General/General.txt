@@ -1,0 +1,116 @@
+Game{name= Bulletstorm, platform= PC, developer= Epic Games, People Can Fly, genre= General, numberPlayers= , rating= M, releaseDate= Feb 21, 2011, positiveCritics= 30, neutralCritics= 4, negativeCritics= 0, positiveUsers= 110, neutralUsers= 39, negativeUsers= 34, metaScore= 82, userScore= 77}
+
+Game{name= Super Stardust Delta, platform= VITA, developer= Housemarque, genre= General, numberPlayers= , rating= E, releaseDate= Feb 14, 2012, positiveCritics= 39, neutralCritics= 3, negativeCritics= 0, positiveUsers= 12, neutralUsers= 1, negativeUsers= 0, metaScore= 82, userScore= 80}
+
+Game{name= Guild Wars 2, platform= PC, developer= ArenaNet, genre= General, numberPlayers= Massively Multiplayer, rating= T, releaseDate= Aug 28, 2012, positiveCritics= 68, neutralCritics= 1, negativeCritics= 0, positiveUsers= 649, neutralUsers= 134, negativeUsers= 152, metaScore= 90, userScore= 81}
+
+Game{name= Dota 2, platform= PC, developer= Valve Software, genre= General, numberPlayers= Up to 10 , rating= , releaseDate= Jul  9, 2013, positiveCritics= 32, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1784, neutralUsers= 118, negativeUsers= 1674, metaScore= 90, userScore= 65}
+
+Game{name= flower, platform= PS4, developer= Bluepoint Games, genre= General, numberPlayers= 1 Player, rating= E, releaseDate= Nov 15, 2013, positiveCritics= 11, neutralCritics= 0, negativeCritics= 0, positiveUsers= 48, neutralUsers= 16, negativeUsers= 26, metaScore= 91, userScore= 72}
+
+Game{name= Tearaway, platform= VITA, developer= Media Molecule, genre= General, numberPlayers= , rating= E, releaseDate= Nov 22, 2013, positiveCritics= 76, neutralCritics= 6, negativeCritics= 0, positiveUsers= 69, neutralUsers= 4, negativeUsers= 0, metaScore= 87, userScore= 89}
+
+Game{name= Nidhogg, platform= PC, developer= Messhof, genre= General, numberPlayers= 1-2 , rating= , releaseDate= Jan 13, 2014, positiveCritics= 35, neutralCritics= 8, negativeCritics= 0, positiveUsers= 14, neutralUsers= 9, negativeUsers= 6, metaScore= 81, userScore= 68}
+
+Game{name= Broken Age: Act 1, platform= PC, developer= Double Fine Productions, genre= General, numberPlayers= No Online Multiplayer, rating= , releaseDate= Jan 28, 2014, positiveCritics= 54, neutralCritics= 10, negativeCritics= 0, positiveUsers= 48, neutralUsers= 11, negativeUsers= 13, metaScore= 82, userScore= 77}
+
+Game{name= Shadowrun: Dragonfall, platform= PC, developer= Harebrained Schemes LLC, genre= General, numberPlayers= , rating= , releaseDate= Feb 27, 2014, positiveCritics= 20, neutralCritics= 4, negativeCritics= 0, positiveUsers= 31, neutralUsers= 7, negativeUsers= 3, metaScore= 81, userScore= 82}
+
+Game{name= Professor Layton and the Azran Legacy, platform= 3DS, developer= Level 5, genre= General, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Feb 28, 2014, positiveCritics= 48, neutralCritics= 10, negativeCritics= 0, positiveUsers= 9, neutralUsers= 2, negativeUsers= 1, metaScore= 81, userScore= 81}
+
+Game{name= The Walking Dead: Season Two Episode 2 - A House Divided, platform= PC, developer= Telltale Games, genre= General, numberPlayers= , rating= M, releaseDate= Mar  4, 2014, positiveCritics= 31, neutralCritics= 9, negativeCritics= 0, positiveUsers= 37, neutralUsers= 10, negativeUsers= 6, metaScore= 81, userScore= 85}
+
+Game{name= Luftrausers, platform= PC, developer= Vlambeer, genre= General, numberPlayers= , rating= E, releaseDate= Mar 18, 2014, positiveCritics= 35, neutralCritics= 10, negativeCritics= 0, positiveUsers= 5, neutralUsers= 7, negativeUsers= 0, metaScore= 80, userScore= 68}
+
+Game{name= ETHER One, platform= PC, developer= White Paper Games, genre= General, numberPlayers= , rating= E10+, releaseDate= Mar 25, 2014, positiveCritics= 16, neutralCritics= 4, negativeCritics= 0, positiveUsers= 2, neutralUsers= 2, negativeUsers= 1, metaScore= 82, userScore= 69}
+
+Game{name= The Blackwell Epiphany, platform= PC, developer= Wadjet Eye Games, genre= General, numberPlayers= , rating= , releaseDate= Apr 24, 2014, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 8, neutralUsers= 0, negativeUsers= 0, metaScore= 83, userScore= 77}
+
+Game{name= Kirby: Triple Deluxe, platform= 3DS, developer= HAL Labs, genre= General, numberPlayers= No Online Multiplayer, rating= E, releaseDate= May  2, 2014, positiveCritics= 54, neutralCritics= 14, negativeCritics= 0, positiveUsers= 54, neutralUsers= 5, negativeUsers= 0, metaScore= 80, userScore= 87}
+
+Game{name= Kero Blaster, platform= PC, developer= Studio Pixel, genre= General, numberPlayers= No Online Multiplayer, rating= , releaseDate= May 11, 2014, positiveCritics= 13, neutralCritics= 0, negativeCritics= 1, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 73}
+
+Game{name= 'The Walking Dead: Season Two Episode 3 - In Harm''s Way', platform= PC, developer= Telltale Games, genre= General, numberPlayers= , rating= M, releaseDate= May 13, 2014, positiveCritics= 32, neutralCritics= 7, negativeCritics= 0, positiveUsers= 27, neutralUsers= 10, negativeUsers= 2, metaScore= 81, userScore= 83}
+
+Game{name= Wolfenstein: The New Order, platform= PC, developer= MachineGames, genre= General, numberPlayers= No Online Multiplayer, rating= M, releaseDate= May 19, 2014, positiveCritics= 20, neutralCritics= 3, negativeCritics= 0, positiveUsers= 277, neutralUsers= 60, negativeUsers= 46, metaScore= 81, userScore= 82}
+
+Game{name= Frozen Synapse Prime, platform= VITA, developer= Double Eleven, genre= General, numberPlayers= , rating= T, releaseDate= Sep 23, 2014, positiveCritics= 15, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 1, metaScore= 84, userScore= 72}
+
+Game{name= DG2: Defense Grid 2, platform= PC, developer= Hidden Path Entertainment, genre= General, numberPlayers= , rating= , releaseDate= Sep 23, 2014, positiveCritics= 19, neutralCritics= 2, negativeCritics= 0, positiveUsers= 10, neutralUsers= 5, negativeUsers= 7, metaScore= 81, userScore= 68}
+
+Game{name= Sunset Overdrive, platform= XONE, developer= Insomniac Games, genre= General, numberPlayers= Up to 8 , rating= M, releaseDate= Oct 28, 2014, positiveCritics= 72, neutralCritics= 17, negativeCritics= 0, positiveUsers= 249, neutralUsers= 41, negativeUsers= 24, metaScore= 81, userScore= 78}
+
+Game{name= Valkyria Chronicles, platform= PC, developer= Sega, genre= General, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Nov 11, 2014, positiveCritics= 23, neutralCritics= 1, negativeCritics= 0, positiveUsers= 46, neutralUsers= 10, negativeUsers= 4, metaScore= 85, userScore= 82}
+
+Game{name= Dragon Age: Inquisition, platform= PS4, developer= BioWare, genre= General, numberPlayers= Up to 4 , rating= M, releaseDate= Nov 18, 2014, positiveCritics= 42, neutralCritics= 1, negativeCritics= 0, positiveUsers= 300, neutralUsers= 89, negativeUsers= 53, metaScore= 89, userScore= 74}
+
+Game{name= Dragon Age: Inquisition, platform= XONE, developer= BioWare, genre= General, numberPlayers= Up to 4 , rating= M, releaseDate= Nov 18, 2014, positiveCritics= 24, neutralCritics= 4, negativeCritics= 0, positiveUsers= 98, neutralUsers= 30, negativeUsers= 30, metaScore= 85, userScore= 70}
+
+Game{name= Grim Fandango Remastered, platform= PS4, developer= Double Fine Productions, genre= General, numberPlayers= , rating= T, releaseDate= Jan 27, 2015, positiveCritics= 35, neutralCritics= 10, negativeCritics= 0, positiveUsers= 17, neutralUsers= 14, negativeUsers= 4, metaScore= 80, userScore= 77}
+
+Game{name= Batman: Arkham Knight, platform= PS4, developer= Rocksteady Studios, genre= General, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jun 23, 2015, positiveCritics= 82, neutralCritics= 7, negativeCritics= 0, positiveUsers= 475, neutralUsers= 131, negativeUsers= 50, metaScore= 87, userScore= 78}
+
+Game{name= Batman: Arkham Knight, platform= XONE, developer= Rocksteady Studios, genre= General, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jun 23, 2015, positiveCritics= 14, neutralCritics= 2, negativeCritics= 0, positiveUsers= 99, neutralUsers= 34, negativeUsers= 12, metaScore= 85, userScore= 68}
+
+Game{name= Galak-Z: The Dimensional, platform= PS4, developer= 17-Bit, genre= General, numberPlayers= , rating= E10+, releaseDate= Aug  4, 2015, positiveCritics= 38, neutralCritics= 4, negativeCritics= 0, positiveUsers= 11, neutralUsers= 5, negativeUsers= 4, metaScore= 82, userScore= 71}
+
+Game{name= Hacknet, platform= PC, developer= Orann, genre= General, numberPlayers= No Online Multiplayer, rating= , releaseDate= Aug 12, 2015, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 8, neutralUsers= 4, negativeUsers= 0, metaScore= 82, userScore= 78}
+
+Game{name= World of Warships, platform= PC, developer= Wargaming.net, genre= General, numberPlayers= Online Multiplayer, rating= T, releaseDate= Sep 17, 2015, positiveCritics= 27, neutralCritics= 2, negativeCritics= 0, positiveUsers= 18, neutralUsers= 5, negativeUsers= 40, metaScore= 81, userScore= 60}
+
+Game{name= Read Only Memories, platform= PC, developer= MidBoss, genre= General, numberPlayers= No Online Multiplayer, rating= , releaseDate= Oct  5, 2015, positiveCritics= 9, neutralCritics= 3, negativeCritics= 0, positiveUsers= 15, neutralUsers= 1, negativeUsers= 12, metaScore= 80, userScore= 43}
+
+Game{name= Fallout 4, platform= PC, developer= Bethesda Game Studios, genre= General, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Nov  9, 2015, positiveCritics= 30, neutralCritics= 8, negativeCritics= 0, positiveUsers= 655, neutralUsers= 431, negativeUsers= 1120, metaScore= 84, userScore= 55}
+
+Game{name= Fallout 4, platform= XONE, developer= Bethesda Game Studios, genre= General, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Nov 10, 2015, positiveCritics= 38, neutralCritics= 1, negativeCritics= 0, positiveUsers= 232, neutralUsers= 75, negativeUsers= 77, metaScore= 88, userScore= 64}
+
+Game{name= Fallout 4, platform= PS4, developer= Bethesda Game Studios, genre= General, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Nov 10, 2015, positiveCritics= 52, neutralCritics= 6, negativeCritics= 0, positiveUsers= 671, neutralUsers= 224, negativeUsers= 208, metaScore= 87, userScore= 66}
+
+Game{name= Nuclear Throne, platform= PC, developer= Vlambeer, genre= General, numberPlayers= No Online Multiplayer, rating= , releaseDate= Dec  5, 2015, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 21, neutralUsers= 9, negativeUsers= 0, metaScore= 88, userScore= 76}
+
+Game{name= Nuclear Throne, platform= PS4, developer= Vlambeer, genre= General, numberPlayers= , rating= E10+, releaseDate= Dec  5, 2015, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 5, neutralUsers= 2, negativeUsers= 4, metaScore= 82, userScore= 63}
+
+Game{name= Firewatch, platform= PC, developer= Campo Santo, genre= General, numberPlayers= No Online Multiplayer, rating= , releaseDate= Feb  9, 2016, positiveCritics= 51, neutralCritics= 14, negativeCritics= 0, positiveUsers= 108, neutralUsers= 72, negativeUsers= 64, metaScore= 81, userScore= 69}
+
+Game{name= Plants vs Zombies: Garden Warfare 2, platform= PS4, developer= PopCap, genre= General, numberPlayers= Up to 24 , rating= E10+, releaseDate= Feb 23, 2016, positiveCritics= 26, neutralCritics= 3, negativeCritics= 0, positiveUsers= 22, neutralUsers= 6, negativeUsers= 2, metaScore= 81, userScore= 77}
+
+Game{name= Stardew Valley, platform= PC, developer= Eric Barone, ConcernedApe, genre= General, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Feb 26, 2016, positiveCritics= 29, neutralCritics= 1, negativeCritics= 0, positiveUsers= 104, neutralUsers= 14, negativeUsers= 4, metaScore= 89, userScore= 87}
+
+Game{name= Assault Android Cactus, platform= PS4, developer= Witch Beam, genre= General, numberPlayers= , rating= E10+, releaseDate= Mar  8, 2016, positiveCritics= 17, neutralCritics= 3, negativeCritics= 0, positiveUsers= 4, neutralUsers= 1, negativeUsers= 1, metaScore= 85, userScore= 65}
+
+Game{name= Samorost 3, platform= PC, developer= Amanita Design, genre= General, numberPlayers= , rating= , releaseDate= Mar 24, 2016, positiveCritics= 23, neutralCritics= 6, negativeCritics= 0, positiveUsers= 13, neutralUsers= 2, negativeUsers= 2, metaScore= 80, userScore= 78}
+
+Game{name= Invisible, Inc. Console Edition, platform= PS4, developer= Klei Entertainment, genre= General, numberPlayers= , rating= T, releaseDate= Apr 19, 2016, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 6, negativeUsers= 2, metaScore= 82, userScore= 69}
+
+Game{name= 'Uncharted 4: A Thief''s End', platform= PS4, developer= Naughty Dog, genre= General, numberPlayers= Up to 10 , rating= T, releaseDate= May 10, 2016, positiveCritics= 111, neutralCritics= 1, negativeCritics= 1, positiveUsers= 1533, neutralUsers= 148, negativeUsers= 68, metaScore= 93, userScore= 84}
+
+Game{name= Overwatch, platform= PC, developer= Blizzard Entertainment, genre= General, numberPlayers= Up to 12 , rating= T, releaseDate= May 23, 2016, positiveCritics= 62, neutralCritics= 2, negativeCritics= 0, positiveUsers= 519, neutralUsers= 218, negativeUsers= 400, metaScore= 91, userScore= 67}
+
+Game{name= Tokyo Mirage Sessions #FE, platform= WIIU, developer= Atlus, genre= General, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jun 24, 2016, positiveCritics= 48, neutralCritics= 14, negativeCritics= 0, positiveUsers= 67, neutralUsers= 9, negativeUsers= 5, metaScore= 80, userScore= 79}
+
+Game{name= Redout, platform= PC, developer= 34BigThings, genre= General, numberPlayers= Online Multiplayer, rating= E, releaseDate= Sep  2, 2016, positiveCritics= 16, neutralCritics= 3, negativeCritics= 0, positiveUsers= 35, neutralUsers= 7, negativeUsers= 6, metaScore= 81, userScore= 79}
+
+Game{name= Battlefield 1, platform= PC, developer= EA DICE, genre= General, numberPlayers= , rating= M, releaseDate= Oct 21, 2016, positiveCritics= 52, neutralCritics= 2, negativeCritics= 0, positiveUsers= 164, neutralUsers= 86, negativeUsers= 156, metaScore= 88, userScore= 71}
+
+Game{name= Torment: Tides of Numenera, platform= PC, developer= InXile Entertainment, genre= General, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Feb 28, 2017, positiveCritics= 57, neutralCritics= 14, negativeCritics= 1, positiveUsers= 39, neutralUsers= 26, negativeUsers= 24, metaScore= 81, userScore= 70}
+
+Game{name= What Remains of Edith Finch, platform= PS4, developer= Giant Sparrow, genre= General, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Apr 25, 2017, positiveCritics= 61, neutralCritics= 4, negativeCritics= 0, positiveUsers= 31, neutralUsers= 9, negativeUsers= 3, metaScore= 88, userScore= 81}
+
+Game{name= Little Nightmares, platform= PC, developer= Tarsier Studios, genre= General, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Apr 28, 2017, positiveCritics= 24, neutralCritics= 5, negativeCritics= 0, positiveUsers= 32, neutralUsers= 5, negativeUsers= 1, metaScore= 81, userScore= 81}
+
+Game{name= Prey, platform= XONE, developer= Arkane Studios, genre= General, numberPlayers= No Online Multiplayer, rating= M, releaseDate= May  5, 2017, positiveCritics= 20, neutralCritics= 2, negativeCritics= 0, positiveUsers= 26, neutralUsers= 8, negativeUsers= 9, metaScore= 84, userScore= 77}
+
+Game{name= Prey, platform= PC, developer= Arkane Studios, genre= General, numberPlayers= No Online Multiplayer, rating= M, releaseDate= May  5, 2017, positiveCritics= 35, neutralCritics= 2, negativeCritics= 1, positiveUsers= 116, neutralUsers= 38, negativeUsers= 17, metaScore= 82, userScore= 81}
+
+Game{name= RiME, platform= PS4, developer= Tequila Works, genre= General, numberPlayers= , rating= E10+, releaseDate= May 26, 2017, positiveCritics= 48, neutralCritics= 15, negativeCritics= 0, positiveUsers= 41, neutralUsers= 14, negativeUsers= 3, metaScore= 80, userScore= 77}
+
+Game{name= Shin Megami Tensei: Strange Journey Redux, platform= 3DS, developer= Atlus, genre= General, numberPlayers= No Online Multiplayer, rating= M, releaseDate= May 15, 2018, positiveCritics= 26, neutralCritics= 6, negativeCritics= 0, positiveUsers= 6, neutralUsers= 0, negativeUsers= 3, metaScore= 80, userScore= 32}
+
+Game{name= Octopath Traveler, platform= Switch, developer= Square Enix, Acquire, genre= General, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jul 13, 2018, positiveCritics= 69, neutralCritics= 9, negativeCritics= 0, positiveUsers= 169, neutralUsers= 27, negativeUsers= 19, metaScore= 83, userScore= 87}
+
+Game{name= Wargroove, platform= PC, developer= Chucklefish, genre= General, numberPlayers= Up to 4 , rating= E10+, releaseDate= Feb  1, 2019, positiveCritics= 17, neutralCritics= 2, negativeCritics= 0, positiveUsers= 2, neutralUsers= 2, negativeUsers= 3, metaScore= 82, userScore= 59}
+
+Game{name= Wargroove, platform= XONE, developer= Chucklefish, genre= General, numberPlayers= Up to 4 , rating= E10+, releaseDate= Feb  1, 2019, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 1, metaScore= 80, userScore= 48}
+
+Game{name= Etrian Odyssey Nexus, platform= 3DS, developer= Atlus, genre= General, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Feb  5, 2019, positiveCritics= 24, neutralCritics= 2, negativeCritics= 0, positiveUsers= 1, neutralUsers= 1, negativeUsers= 1, metaScore= 80, userScore= 66}
+

@@ -1,0 +1,26 @@
+Game{name= Trine 2: Complete Story, platform= PS4, developer= Frozenbyte, Inc., genre= Platformer, numberPlayers= Up to 3 , rating= E10+, releaseDate= Nov 15, 2013, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 21, neutralUsers= 13, negativeUsers= 0, metaScore= 84, userScore= 76}
+
+Game{name= Super Mario 3D World, platform= WIIU, developer= Nintendo, genre= Platformer, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Nov 22, 2013, positiveCritics= 81, neutralCritics= 2, negativeCritics= 0, positiveUsers= 354, neutralUsers= 35, negativeUsers= 16, metaScore= 93, userScore= 89}
+
+Game{name= Rayman Legends, platform= PS4, developer= Ubisoft Montpellier, genre= Platformer, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Feb 18, 2014, positiveCritics= 16, neutralCritics= 0, negativeCritics= 0, positiveUsers= 95, neutralUsers= 5, negativeUsers= 3, metaScore= 90, userScore= 84}
+
+Game{name= Donkey Kong Country: Tropical Freeze, platform= WIIU, developer= Retro Studios, genre= Platformer, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Feb 21, 2014, positiveCritics= 65, neutralCritics= 12, negativeCritics= 0, positiveUsers= 138, neutralUsers= 10, negativeUsers= 3, metaScore= 83, userScore= 89}
+
+Game{name= Broforce, platform= PC, developer= Free Lives, genre= Platformer, numberPlayers= , rating= , releaseDate= Apr  7, 2014, positiveCritics= 30, neutralCritics= 2, negativeCritics= 0, positiveUsers= 30, neutralUsers= 7, negativeUsers= 3, metaScore= 83, userScore= 80}
+
+Game{name= Valiant Hearts: The Great War, platform= XONE, developer= Ubisoft Montpellier, genre= Platformer, numberPlayers= , rating= T, releaseDate= Jun 25, 2014, positiveCritics= 12, neutralCritics= 4, negativeCritics= 0, positiveUsers= 30, neutralUsers= 5, negativeUsers= 1, metaScore= 81, userScore= 81}
+
+Game{name= Shovel Knight, platform= 3DS, developer= Yacht Club Games, genre= Platformer, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Jun 26, 2014, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 50, neutralUsers= 4, negativeUsers= 1, metaScore= 90, userScore= 83}
+
+Game{name= Shovel Knight, platform= WIIU, developer= Yacht Club Games, genre= Platformer, numberPlayers= , rating= E, releaseDate= Jun 26, 2014, positiveCritics= 22, neutralCritics= 2, negativeCritics= 0, positiveUsers= 51, neutralUsers= 4, negativeUsers= 1, metaScore= 88, userScore= 84}
+
+Game{name= Shovel Knight, platform= PC, developer= Yacht Club Games, genre= Platformer, numberPlayers= , rating= E, releaseDate= Jun 26, 2014, positiveCritics= 44, neutralCritics= 2, negativeCritics= 0, positiveUsers= 65, neutralUsers= 9, negativeUsers= 4, metaScore= 85, userScore= 80}
+
+Game{name= 'Oddworld: Abe''s Oddysee - New ''n'' Tasty', platform= PS4, developer= Just Add Water, genre= Platformer, numberPlayers= , rating= T, releaseDate= Jul 22, 2014, positiveCritics= 44, neutralCritics= 6, negativeCritics= 0, positiveUsers= 26, neutralUsers= 13, negativeUsers= 2, metaScore= 84, userScore= 78}
+
+Game{name= 'Shantae and the Pirate''s Curse', platform= 3DS, developer= WayForward, genre= Platformer, numberPlayers= , rating= T, releaseDate= Oct 23, 2014, positiveCritics= 16, neutralCritics= 2, negativeCritics= 0, positiveUsers= 10, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 85}
+
+Game{name= N++, platform= PS4, developer= Metanet Software Inc., genre= Platformer, numberPlayers= , rating= E10+, releaseDate= Jul 28, 2015, positiveCritics= 43, neutralCritics= 4, negativeCritics= 0, positiveUsers= 14, neutralUsers= 1, negativeUsers= 6, metaScore= 82, userScore= 65}
+
+Game{name= Lovers in a Dangerous Spacetime, platform= XONE, developer= Asteroid Base, genre= Platformer, numberPlayers= , rating= E10+, releaseDate= Sep  9, 2015, positiveCritics= 23, neutralCritics= 4, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 74}
+

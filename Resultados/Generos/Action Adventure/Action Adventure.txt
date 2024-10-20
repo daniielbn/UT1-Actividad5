@@ -1,0 +1,380 @@
+Game{name= 'Assassin''s Creed: Brotherhood', platform= PC, developer= Ubisoft Montreal, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Mar 22, 2011, positiveCritics= 24, neutralCritics= 0, negativeCritics= 0, positiveUsers= 107, neutralUsers= 34, negativeUsers= 13, metaScore= 88, userScore= 82}
+
+Game{name= Dead Island, platform= PC, developer= Techland, genre= Action Adventure, numberPlayers= 4  Online, rating= M, releaseDate= Sep  5, 2011, positiveCritics= 18, neutralCritics= 6, negativeCritics= 0, positiveUsers= 197, neutralUsers= 97, negativeUsers= 82, metaScore= 80, userScore= 69}
+
+Game{name= L.A. Noire: The Complete Edition, platform= PC, developer= Rockstar Leeds, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Nov  8, 2011, positiveCritics= 23, neutralCritics= 5, negativeCritics= 0, positiveUsers= 114, neutralUsers= 54, negativeUsers= 30, metaScore= 83, userScore= 79}
+
+Game{name= Saints Row: The Third, platform= PC, developer= Volition Inc., genre= Action Adventure, numberPlayers= 2, rating= M, releaseDate= Nov 14, 2011, positiveCritics= 20, neutralCritics= 2, negativeCritics= 0, positiveUsers= 219, neutralUsers= 63, negativeUsers= 24, metaScore= 84, userScore= 81}
+
+Game{name= Batman: Arkham City, platform= PC, developer= Rocksteady Studios, genre= Action Adventure, numberPlayers= , rating= T, releaseDate= Nov 21, 2011, positiveCritics= 27, neutralCritics= 0, negativeCritics= 0, positiveUsers= 240, neutralUsers= 34, negativeUsers= 27, metaScore= 91, userScore= 87}
+
+Game{name= 'Assassin''s Creed: Revelations', platform= PC, developer= Ubisoft Montreal, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Nov 29, 2011, positiveCritics= 15, neutralCritics= 5, negativeCritics= 0, positiveUsers= 62, neutralUsers= 53, negativeUsers= 26, metaScore= 80, userScore= 74}
+
+Game{name= Resident Evil: Revelations, platform= 3DS, developer= Capcom, genre= Action Adventure, numberPlayers= 2, rating= M, releaseDate= Feb  7, 2012, positiveCritics= 68, neutralCritics= 10, negativeCritics= 0, positiveUsers= 98, neutralUsers= 13, negativeUsers= 2, metaScore= 82, userScore= 84}
+
+Game{name= Rayman Origins, platform= VITA, developer= UBlart Montpellier, genre= Action Adventure, numberPlayers= , rating= E10+, releaseDate= Feb 15, 2012, positiveCritics= 54, neutralCritics= 0, negativeCritics= 0, positiveUsers= 52, neutralUsers= 2, negativeUsers= 1, metaScore= 88, userScore= 84}
+
+Game{name= Uncharted: Golden Abyss, platform= VITA, developer= Naughty Dog, Sony Bend, genre= Action Adventure, numberPlayers= , rating= T, releaseDate= Feb 15, 2012, positiveCritics= 64, neutralCritics= 16, negativeCritics= 0, positiveUsers= 119, neutralUsers= 28, negativeUsers= 7, metaScore= 80, userScore= 74}
+
+Game{name= Alan Wake, platform= PC, developer= Remedy Entertainment, genre= Action Adventure, numberPlayers= , rating= T, releaseDate= Feb 16, 2012, positiveCritics= 27, neutralCritics= 3, negativeCritics= 0, positiveUsers= 186, neutralUsers= 69, negativeUsers= 41, metaScore= 83, userScore= 80}
+
+Game{name= Kid Icarus: Uprising, platform= 3DS, developer= Opus, Project Sora, genre= Action Adventure, numberPlayers= Up to 6 , rating= E10+, releaseDate= Mar 23, 2012, positiveCritics= 66, neutralCritics= 8, negativeCritics= 1, positiveUsers= 170, neutralUsers= 7, negativeUsers= 4, metaScore= 83, userScore= 88}
+
+Game{name= Lone Survivor, platform= PC, developer= superflat games, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= , releaseDate= Apr 23, 2012, positiveCritics= 20, neutralCritics= 4, negativeCritics= 0, positiveUsers= 24, neutralUsers= 5, negativeUsers= 10, metaScore= 81, userScore= 73}
+
+Game{name= Darksiders II, platform= PC, developer= Vigil Games, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Aug 13, 2012, positiveCritics= 21, neutralCritics= 2, negativeCritics= 0, positiveUsers= 93, neutralUsers= 30, negativeUsers= 21, metaScore= 81, userScore= 79}
+
+Game{name= Dishonored, platform= PC, developer= Arkane Studios, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct  8, 2012, positiveCritics= 29, neutralCritics= 0, negativeCritics= 0, positiveUsers= 470, neutralUsers= 129, negativeUsers= 53, metaScore= 91, userScore= 84}
+
+Game{name= 'Assassin''s Creed III', platform= WIIU, developer= Ubisoft Quebec, genre= Action Adventure, numberPlayers= Up to 8 , rating= M, releaseDate= Nov 18, 2012, positiveCritics= 25, neutralCritics= 1, negativeCritics= 0, positiveUsers= 27, neutralUsers= 10, negativeUsers= 2, metaScore= 85, userScore= 72}
+
+Game{name= Batman: Arkham City - Armored Edition, platform= WIIU, developer= Rocksteady Studios, WB Games Montreal, genre= Action Adventure, numberPlayers= 1 Player, rating= T, releaseDate= Nov 18, 2012, positiveCritics= 33, neutralCritics= 4, negativeCritics= 0, positiveUsers= 43, neutralUsers= 5, negativeUsers= 0, metaScore= 85, userScore= 84}
+
+Game{name= 'Assassin''s Creed III', platform= PC, developer= Ubisoft, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Nov 20, 2012, positiveCritics= 18, neutralCritics= 2, negativeCritics= 1, positiveUsers= 127, neutralUsers= 124, negativeUsers= 141, metaScore= 80, userScore= 63}
+
+Game{name= 'Oddworld: Stranger''s Wrath HD', platform= VITA, developer= Just Add Water, genre= Action Adventure, numberPlayers= , rating= T, releaseDate= Dec 18, 2012, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 9, neutralUsers= 3, negativeUsers= 1, metaScore= 83, userScore= 82}
+
+Game{name= Tomb Raider, platform= PC, developer= Crystal Dynamics, Nixxes Software, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Mar  4, 2013, positiveCritics= 17, neutralCritics= 1, negativeCritics= 0, positiveUsers= 547, neutralUsers= 123, negativeUsers= 63, metaScore= 86, userScore= 85}
+
+Game{name= LEGO City Undercover, platform= WIIU, developer= TT Games, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Mar 18, 2013, positiveCritics= 52, neutralCritics= 14, negativeCritics= 0, positiveUsers= 51, neutralUsers= 4, negativeUsers= 2, metaScore= 80, userScore= 83}
+
+Game{name= 'Luigi''s Mansion: Dark Moon', platform= 3DS, developer= Next Level Games, genre= Action Adventure, numberPlayers= Up to 4 , rating= E, releaseDate= Mar 24, 2013, positiveCritics= 67, neutralCritics= 7, negativeCritics= 0, positiveUsers= 98, neutralUsers= 17, negativeUsers= 2, metaScore= 86, userScore= 85}
+
+Game{name= Dishonored: The Knife of Dunwall, platform= PC, developer= Arkane Studios, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Apr 16, 2013, positiveCritics= 17, neutralCritics= 4, negativeCritics= 0, positiveUsers= 22, neutralUsers= 7, negativeUsers= 0, metaScore= 80, userScore= 82}
+
+Game{name= Resident Evil: Revelations, platform= WIIU, developer= Capcom, genre= Action Adventure, numberPlayers= 2, rating= M, releaseDate= May 21, 2013, positiveCritics= 14, neutralCritics= 5, negativeCritics= 0, positiveUsers= 6, neutralUsers= 3, negativeUsers= 4, metaScore= 80, userScore= 75}
+
+Game{name= Dishonored: The Brigmore Witches, platform= PC, developer= Arkane Studios, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Aug 13, 2013, positiveCritics= 13, neutralCritics= 2, negativeCritics= 0, positiveUsers= 15, neutralUsers= 1, negativeUsers= 0, metaScore= 80, userScore= 87}
+
+Game{name= Saints Row IV, platform= PC, developer= Volition Inc., genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Aug 19, 2013, positiveCritics= 42, neutralCritics= 3, negativeCritics= 0, positiveUsers= 195, neutralUsers= 82, negativeUsers= 64, metaScore= 86, userScore= 74}
+
+Game{name= 'Tom Clancy''s Splinter Cell: Blacklist', platform= PC, developer= Ubisoft Toronto, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Aug 20, 2013, positiveCritics= 12, neutralCritics= 1, negativeCritics= 0, positiveUsers= 79, neutralUsers= 32, negativeUsers= 53, metaScore= 82, userScore= 75}
+
+Game{name= Castlevania: Lords of Shadow Ultimate Edition, platform= PC, developer= Mercury Steam, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Aug 27, 2013, positiveCritics= 19, neutralCritics= 4, negativeCritics= 0, positiveUsers= 61, neutralUsers= 19, negativeUsers= 21, metaScore= 81, userScore= 74}
+
+Game{name= Brothers: A Tale of Two Sons, platform= PC, developer= Starbreeze, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Sep  3, 2013, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 205, neutralUsers= 30, negativeUsers= 17, metaScore= 90, userScore= 85}
+
+Game{name= The Legend of Zelda: The Wind Waker HD, platform= WIIU, developer= Nintendo, HexaDrive, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Sep 20, 2013, positiveCritics= 70, neutralCritics= 0, negativeCritics= 0, positiveUsers= 176, neutralUsers= 5, negativeUsers= 5, metaScore= 90, userScore= 89}
+
+Game{name= 'Lone Survivor: The Director''s Cut', platform= VITA, developer= Curve Studios, superflat games, genre= Action Adventure, numberPlayers= , rating= T, releaseDate= Sep 24, 2013, positiveCritics= 17, neutralCritics= 1, negativeCritics= 0, positiveUsers= 9, neutralUsers= 3, negativeUsers= 0, metaScore= 81, userScore= 80}
+
+Game{name= The Wolf Among Us: Episode 1 - Faith, platform= PC, developer= Telltale Games, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct 11, 2013, positiveCritics= 43, neutralCritics= 2, negativeCritics= 0, positiveUsers= 96, neutralUsers= 6, negativeUsers= 5, metaScore= 85, userScore= 89}
+
+Game{name= The Wolf Among Us, platform= PC, developer= Telltale Games, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Oct 11, 2013, positiveCritics= 12, neutralCritics= 1, negativeCritics= 0, positiveUsers= 64, neutralUsers= 14, negativeUsers= 2, metaScore= 80, userScore= 88}
+
+Game{name= 'Deus Ex: Human Revolution - Director''s Cut', platform= WIIU, developer= Eidos Montreal, Straight Right, genre= Action Adventure, numberPlayers= 1 Player, rating= M, releaseDate= Oct 22, 2013, positiveCritics= 30, neutralCritics= 0, negativeCritics= 0, positiveUsers= 12, neutralUsers= 2, negativeUsers= 2, metaScore= 88, userScore= 85}
+
+Game{name= LEGO Marvel Super Heroes, platform= WIIU, developer= TT Games, genre= Action Adventure, numberPlayers= , rating= E10+, releaseDate= Oct 22, 2013, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 11, neutralUsers= 2, negativeUsers= 1, metaScore= 82, userScore= 79}
+
+Game{name= 'Assassin''s Creed IV: Black Flag', platform= PS4, developer= Ubisoft, genre= Action Adventure, numberPlayers= Up to 8 , rating= M, releaseDate= Nov 12, 2013, positiveCritics= 25, neutralCritics= 4, negativeCritics= 0, positiveUsers= 203, neutralUsers= 65, negativeUsers= 24, metaScore= 83, userScore= 79}
+
+Game{name= LEGO Marvel Super Heroes, platform= PS4, developer= TT Games, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Nov 15, 2013, positiveCritics= 19, neutralCritics= 3, negativeCritics= 0, positiveUsers= 29, neutralUsers= 9, negativeUsers= 5, metaScore= 83, userScore= 77}
+
+Game{name= 'Assassin''s Creed IV: Black Flag', platform= PC, developer= Ubisoft, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Nov 19, 2013, positiveCritics= 8, neutralCritics= 2, negativeCritics= 0, positiveUsers= 200, neutralUsers= 58, negativeUsers= 59, metaScore= 84, userScore= 78}
+
+Game{name= Retro City Rampage DX, platform= 3DS, developer= Vblank Entertainment Inc., genre= Action Adventure, numberPlayers= , rating= T, releaseDate= Feb  6, 2014, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 11, neutralUsers= 0, negativeUsers= 0, metaScore= 83, userScore= 75}
+
+Game{name= Danganronpa: Trigger Happy Havoc, platform= VITA, developer= Spike Chunsoft, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Feb 11, 2014, positiveCritics= 48, neutralCritics= 6, negativeCritics= 1, positiveUsers= 24, neutralUsers= 7, negativeUsers= 1, metaScore= 80, userScore= 87}
+
+Game{name= The Last of Us Remastered, platform= PS4, developer= Naughty Dog, genre= Action Adventure, numberPlayers= Up to 8 , rating= M, releaseDate= Jul 29, 2014, positiveCritics= 68, neutralCritics= 1, negativeCritics= 0, positiveUsers= 943, neutralUsers= 53, negativeUsers= 35, metaScore= 95, userScore= 91}
+
+Game{name= Minecraft: PlayStation 4 Edition, platform= PS4, developer= 4J Studios, Mojang AB, genre= Action Adventure, numberPlayers= Up to 8 , rating= E10+, releaseDate= Sep  3, 2014, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 43, neutralUsers= 12, negativeUsers= 8, metaScore= 89, userScore= 65}
+
+Game{name= Bayonetta 2, platform= WIIU, developer= PlatinumGames, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Sep 20, 2014, positiveCritics= 78, neutralCritics= 2, negativeCritics= 0, positiveUsers= 186, neutralUsers= 5, negativeUsers= 7, metaScore= 91, userScore= 89}
+
+Game{name= Alien: Isolation, platform= PC, developer= Creative Assembly, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct  6, 2014, positiveCritics= 32, neutralCritics= 9, negativeCritics= 0, positiveUsers= 328, neutralUsers= 53, negativeUsers= 37, metaScore= 81, userScore= 84}
+
+Game{name= Minecraft: PlayStation Vita Edition, platform= VITA, developer= 4J Studios, Mojang AB, genre= Action Adventure, numberPlayers= Up to 4 , rating= E10+, releaseDate= Oct 14, 2014, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 11, neutralUsers= 1, negativeUsers= 0, metaScore= 84, userScore= 75}
+
+Game{name= Grand Theft Auto V, platform= XONE, developer= Rockstar North, genre= Action Adventure, numberPlayers= Up to 30 , rating= M, releaseDate= Nov 18, 2014, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 114, neutralUsers= 15, negativeUsers= 13, metaScore= 97, userScore= 78}
+
+Game{name= Grand Theft Auto V, platform= PS4, developer= Rockstar North, genre= Action Adventure, numberPlayers= Up to 30 , rating= M, releaseDate= Nov 18, 2014, positiveCritics= 66, neutralCritics= 0, negativeCritics= 0, positiveUsers= 369, neutralUsers= 71, negativeUsers= 69, metaScore= 97, userScore= 83}
+
+Game{name= Minecraft: Xbox One Edition, platform= XONE, developer= 4J Studios, Mojang AB, genre= Action Adventure, numberPlayers= Up to 8 , rating= E10+, releaseDate= Nov 18, 2014, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 38, neutralUsers= 9, negativeUsers= 9, metaScore= 88, userScore= 67}
+
+Game{name= Metal Gear Solid V: Ground Zeroes, platform= PC, developer= Kojima Productions, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Dec 18, 2014, positiveCritics= 18, neutralCritics= 2, negativeCritics= 0, positiveUsers= 39, neutralUsers= 12, negativeUsers= 10, metaScore= 80, userScore= 76}
+
+Game{name= Resident Evil HD Remaster, platform= PC, developer= Capcom, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jan 20, 2015, positiveCritics= 24, neutralCritics= 5, negativeCritics= 0, positiveUsers= 35, neutralUsers= 6, negativeUsers= 2, metaScore= 82, userScore= 84}
+
+Game{name= The Evil Within: The Assignment, platform= PS4, developer= Tango Gameworks, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Mar 10, 2015, positiveCritics= 13, neutralCritics= 2, negativeCritics= 0, positiveUsers= 4, neutralUsers= 0, negativeUsers= 2, metaScore= 80, userScore= 82}
+
+Game{name= Axiom Verge, platform= PC, developer= Tom Happ, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= T, releaseDate= May 14, 2015, positiveCritics= 9, neutralCritics= 2, negativeCritics= 0, positiveUsers= 16, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 77}
+
+Game{name= Life is Strange: Episode 3 - Chaos Theory, platform= PS4, developer= DONTNOD Entertainment, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= May 19, 2015, positiveCritics= 28, neutralCritics= 5, negativeCritics= 0, positiveUsers= 13, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 82}
+
+Game{name= Life is Strange: Episode 3 - Chaos Theory, platform= XONE, developer= DONTNOD Entertainment, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= May 19, 2015, positiveCritics= 10, neutralCritics= 2, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 87}
+
+Game{name= Life is Strange: Episode 3 - Chaos Theory, platform= PC, developer= DONTNOD Entertainment, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= May 19, 2015, positiveCritics= 6, neutralCritics= 2, negativeCritics= 0, positiveUsers= 10, neutralUsers= 1, negativeUsers= 1, metaScore= 80, userScore= 89}
+
+Game{name= God of War III Remastered, platform= PS4, developer= Wholesale Algorithms, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jul 14, 2015, positiveCritics= 55, neutralCritics= 12, negativeCritics= 0, positiveUsers= 72, neutralUsers= 15, negativeUsers= 5, metaScore= 81, userScore= 80}
+
+Game{name= Life is Strange: Episode 4 - Dark Room, platform= PS4, developer= DONTNOD Entertainment, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Jul 28, 2015, positiveCritics= 28, neutralCritics= 5, negativeCritics= 0, positiveUsers= 13, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 85}
+
+Game{name= Brothers: A Tale of Two Sons, platform= PS4, developer= Starbreeze, genre= Action Adventure, numberPlayers= , rating= T, releaseDate= Aug 11, 2015, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 14, neutralUsers= 3, negativeUsers= 0, metaScore= 81, userScore= 79}
+
+Game{name= Dishonored: Definitive Edition, platform= PS4, developer= Arkane Studios, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Aug 25, 2015, positiveCritics= 26, neutralCritics= 6, negativeCritics= 0, positiveUsers= 24, neutralUsers= 9, negativeUsers= 4, metaScore= 80, userScore= 74}
+
+Game{name= Disney Infinity 3.0 Edition, platform= PS4, developer= Avalanche Software, genre= Action Adventure, numberPlayers= Up to 4 , rating= E10+, releaseDate= Aug 30, 2015, positiveCritics= 45, neutralCritics= 7, negativeCritics= 1, positiveUsers= 13, neutralUsers= 3, negativeUsers= 3, metaScore= 80, userScore= 62}
+
+Game{name= Metal Gear Solid V: The Phantom Pain, platform= PC, developer= Kojima Productions, genre= Action Adventure, numberPlayers= Up to 16 , rating= M, releaseDate= Sep  1, 2015, positiveCritics= 13, neutralCritics= 0, negativeCritics= 0, positiveUsers= 156, neutralUsers= 72, negativeUsers= 50, metaScore= 91, userScore= 78}
+
+Game{name= Tearaway Unfolded, platform= PS4, developer= Media Molecule, genre= Action Adventure, numberPlayers= , rating= E, releaseDate= Sep  8, 2015, positiveCritics= 58, neutralCritics= 12, negativeCritics= 0, positiveUsers= 28, neutralUsers= 10, negativeUsers= 2, metaScore= 81, userScore= 80}
+
+Game{name= System Shock: Enhanced Edition, platform= PC, developer= Looking Glass Studios, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= , releaseDate= Sep 22, 2015, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 0, metaScore= 85, userScore= 84}
+
+Game{name= LEGO Dimensions, platform= XONE, developer= 'Traveller''s Tales', genre= Action Adventure, numberPlayers= , rating= E10+, releaseDate= Sep 27, 2015, positiveCritics= 10, neutralCritics= 2, negativeCritics= 0, positiveUsers= 6, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 70}
+
+Game{name= LEGO Dimensions, platform= PS4, developer= 'Traveller''s Tales', genre= Action Adventure, numberPlayers= Up to 4 , rating= E10+, releaseDate= Sep 27, 2015, positiveCritics= 45, neutralCritics= 8, negativeCritics= 0, positiveUsers= 8, neutralUsers= 2, negativeUsers= 2, metaScore= 80, userScore= 72}
+
+Game{name= Life is Strange, platform= PC, developer= DONTNOD Entertainment, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct 20, 2015, positiveCritics= 13, neutralCritics= 2, negativeCritics= 0, positiveUsers= 232, neutralUsers= 22, negativeUsers= 24, metaScore= 83, userScore= 87}
+
+Game{name= Life is Strange: Episode 5 - Polarized, platform= PC, developer= DONTNOD Entertainment, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Oct 20, 2015, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 22, neutralUsers= 12, negativeUsers= 9, metaScore= 83, userScore= 83}
+
+Game{name= Life is Strange: Episode 5 - Polarized, platform= PS4, developer= DONTNOD Entertainment, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Oct 20, 2015, positiveCritics= 24, neutralCritics= 6, negativeCritics= 0, positiveUsers= 13, neutralUsers= 3, negativeUsers= 3, metaScore= 81, userScore= 83}
+
+Game{name= Life is Strange: Episode 5 - Polarized, platform= XONE, developer= DONTNOD Entertainment, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Oct 20, 2015, positiveCritics= 5, neutralCritics= 2, negativeCritics= 0, positiveUsers= 5, neutralUsers= 0, negativeUsers= 1, metaScore= 80, userScore= 86}
+
+Game{name= Oxenfree, platform= PC, developer= Night School Studio, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jan 14, 2016, positiveCritics= 41, neutralCritics= 8, negativeCritics= 0, positiveUsers= 29, neutralUsers= 15, negativeUsers= 4, metaScore= 80, userScore= 77}
+
+Game{name= Rise of the Tomb Raider, platform= PC, developer= Crystal Dynamics, Nixxes Software, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jan 28, 2016, positiveCritics= 44, neutralCritics= 1, negativeCritics= 0, positiveUsers= 125, neutralUsers= 44, negativeUsers= 20, metaScore= 86, userScore= 79}
+
+Game{name= Dying Light: The Following, platform= XONE, developer= Techland, genre= Action Adventure, numberPlayers= , rating= , releaseDate= Feb  9, 2016, positiveCritics= 7, neutralCritics= 0, negativeCritics= 0, positiveUsers= 8, neutralUsers= 1, negativeUsers= 0, metaScore= 86, userScore= 81}
+
+Game{name= The Legend of Zelda: Twilight Princess HD, platform= WIIU, developer= Tantalus, Tantatus, Nintendo, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Mar  4, 2016, positiveCritics= 70, neutralCritics= 4, negativeCritics= 0, positiveUsers= 67, neutralUsers= 9, negativeUsers= 2, metaScore= 86, userScore= 85}
+
+Game{name= Hitman - Episode 2: Sapienza, platform= PC, developer= Io Interactive, genre= Action Adventure, numberPlayers= , rating= , releaseDate= Apr 26, 2016, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 10, neutralUsers= 0, negativeUsers= 3, metaScore= 84, userScore= 59}
+
+Game{name= Hitman - Episode 2: Sapienza, platform= PS4, developer= Io Interactive, genre= Action Adventure, numberPlayers= , rating= , releaseDate= Apr 26, 2016, positiveCritics= 33, neutralCritics= 4, negativeCritics= 0, positiveUsers= 4, neutralUsers= 2, negativeUsers= 3, metaScore= 84, userScore= 69}
+
+Game{name= Ghost 1.0, platform= PC, developer= @unepic_fran, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= , releaseDate= Jun  7, 2016, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 2, negativeUsers= 0, metaScore= 80, userScore= 75}
+
+Game{name= ABZU, platform= PC, developer= Giant Squid, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Aug  2, 2016, positiveCritics= 16, neutralCritics= 3, negativeCritics= 0, positiveUsers= 24, neutralUsers= 14, negativeUsers= 6, metaScore= 83, userScore= 69}
+
+Game{name= Deus Ex: Mankind Divided, platform= PS4, developer= Eidos Montreal, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Aug 23, 2016, positiveCritics= 53, neutralCritics= 6, negativeCritics= 0, positiveUsers= 77, neutralUsers= 39, negativeUsers= 23, metaScore= 84, userScore= 76}
+
+Game{name= Deus Ex: Mankind Divided, platform= PC, developer= Eidos Montreal, Nixxes Software, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Aug 23, 2016, positiveCritics= 48, neutralCritics= 8, negativeCritics= 0, positiveUsers= 94, neutralUsers= 58, negativeUsers= 74, metaScore= 83, userScore= 66}
+
+Game{name= Deus Ex: Mankind Divided, platform= XONE, developer= Eidos Montreal, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Aug 23, 2016, positiveCritics= 15, neutralCritics= 3, negativeCritics= 0, positiveUsers= 19, neutralUsers= 5, negativeUsers= 7, metaScore= 83, userScore= 73}
+
+Game{name= Resident Evil 4, platform= PS4, developer= Capcom, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Aug 30, 2016, positiveCritics= 17, neutralCritics= 3, negativeCritics= 0, positiveUsers= 38, neutralUsers= 6, negativeUsers= 7, metaScore= 82, userScore= 82}
+
+Game{name= Axiom Verge, platform= WIIU, developer= Tom Happ, genre= Action Adventure, numberPlayers= , rating= E10+, releaseDate= Sep  1, 2016, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 4, neutralUsers= 0, negativeUsers= 1, metaScore= 89, userScore= 86}
+
+Game{name= Severed, platform= WIIU, developer= DrinkBox Studios, genre= Action Adventure, numberPlayers= , rating= T, releaseDate= Sep 22, 2016, positiveCritics= 6, neutralCritics= 2, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 1, metaScore= 83, userScore= 81}
+
+Game{name= Rise of the Tomb Raider: 20 Year Celebration, platform= PS4, developer= Crystal Dynamics, Nixxes Software, genre= Action Adventure, numberPlayers= 2, rating= M, releaseDate= Oct 11, 2016, positiveCritics= 54, neutralCritics= 1, negativeCritics= 0, positiveUsers= 93, neutralUsers= 28, negativeUsers= 12, metaScore= 88, userScore= 81}
+
+Game{name= Dragon Quest Builders, platform= PS4, developer= Square Enix, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Oct 11, 2016, positiveCritics= 72, neutralCritics= 4, negativeCritics= 0, positiveUsers= 29, neutralUsers= 4, negativeUsers= 4, metaScore= 83, userScore= 81}
+
+Game{name= Hitman - Episode 6: Hokkaido, platform= PS4, developer= Io Interactive, genre= Action Adventure, numberPlayers= , rating= , releaseDate= Oct 31, 2016, positiveCritics= 20, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 67}
+
+Game{name= Dishonored 2, platform= XONE, developer= Arkane Studios, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Nov 10, 2016, positiveCritics= 25, neutralCritics= 0, negativeCritics= 0, positiveUsers= 25, neutralUsers= 10, negativeUsers= 6, metaScore= 88, userScore= 72}
+
+Game{name= Dishonored 2, platform= PS4, developer= Arkane Studios, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Nov 10, 2016, positiveCritics= 59, neutralCritics= 3, negativeCritics= 0, positiveUsers= 95, neutralUsers= 25, negativeUsers= 15, metaScore= 88, userScore= 79}
+
+Game{name= Dishonored 2, platform= PC, developer= Arkane Studios, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Nov 10, 2016, positiveCritics= 35, neutralCritics= 5, negativeCritics= 0, positiveUsers= 57, neutralUsers= 24, negativeUsers= 40, metaScore= 86, userScore= 68}
+
+Game{name= Watch Dogs 2, platform= PS4, developer= Ubisoft Montreal, genre= Action Adventure, numberPlayers= Up to 4 , rating= M, releaseDate= Nov 15, 2016, positiveCritics= 89, neutralCritics= 6, negativeCritics= 0, positiveUsers= 149, neutralUsers= 46, negativeUsers= 15, metaScore= 82, userScore= 77}
+
+Game{name= Watch Dogs 2, platform= XONE, developer= Ubisoft Montreal, genre= Action Adventure, numberPlayers= Up to 4 , rating= M, releaseDate= Nov 15, 2016, positiveCritics= 9, neutralCritics= 2, negativeCritics= 0, positiveUsers= 38, neutralUsers= 6, negativeUsers= 4, metaScore= 81, userScore= 73}
+
+Game{name= Darksiders: Warmastered Edition, platform= PS4, developer= Nordic Games Publishing, Kaiko, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Nov 22, 2016, positiveCritics= 11, neutralCritics= 1, negativeCritics= 0, positiveUsers= 9, neutralUsers= 4, negativeUsers= 0, metaScore= 81, userScore= 76}
+
+Game{name= Darksiders: Warmastered Edition, platform= XONE, developer= Nordic Games Publishing, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Nov 22, 2016, positiveCritics= 15, neutralCritics= 2, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 80}
+
+Game{name= Resident Evil 7: biohazard, platform= PC, developer= Capcom, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jan 23, 2017, positiveCritics= 15, neutralCritics= 1, negativeCritics= 1, positiveUsers= 94, neutralUsers= 20, negativeUsers= 32, metaScore= 83, userScore= 77}
+
+Game{name= Resident Evil 7: biohazard, platform= XONE, developer= Capcom, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jan 24, 2017, positiveCritics= 19, neutralCritics= 0, negativeCritics= 0, positiveUsers= 42, neutralUsers= 6, negativeUsers= 6, metaScore= 86, userScore= 76}
+
+Game{name= Resident Evil 7: biohazard, platform= PS4, developer= Capcom, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jan 24, 2017, positiveCritics= 96, neutralCritics= 4, negativeCritics= 0, positiveUsers= 376, neutralUsers= 51, negativeUsers= 100, metaScore= 86, userScore= 79}
+
+Game{name= Yakuza 0, platform= PS4, developer= Ryu ga Gotoku Studios, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jan 24, 2017, positiveCritics= 77, neutralCritics= 10, negativeCritics= 0, positiveUsers= 119, neutralUsers= 4, negativeUsers= 8, metaScore= 85, userScore= 84}
+
+Game{name= Deus Ex: Mankind Divided - A Criminal Past, platform= PS4, developer= Eidos Montreal, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Feb 23, 2017, positiveCritics= 6, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 1, metaScore= 81, userScore= 63}
+
+Game{name= Hollow Knight, platform= PC, developer= Team Cherry, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Feb 24, 2017, positiveCritics= 26, neutralCritics= 1, negativeCritics= 0, positiveUsers= 111, neutralUsers= 9, negativeUsers= 8, metaScore= 87, userScore= 90}
+
+Game{name= The Legend of Zelda: Breath of the Wild, platform= Switch, developer= Nintendo, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Mar  3, 2017, positiveCritics= 106, neutralCritics= 3, negativeCritics= 0, positiveUsers= 2762, neutralUsers= 241, negativeUsers= 135, metaScore= 97, userScore= 85}
+
+Game{name= EVERYTHING, platform= PS4, developer= David OReilly, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Mar 21, 2017, positiveCritics= 17, neutralCritics= 10, negativeCritics= 0, positiveUsers= 10, neutralUsers= 2, negativeUsers= 0, metaScore= 80, userScore= 72}
+
+Game{name= Bayonetta, platform= PC, developer= PlatinumGames, Nex Entertainment, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Apr 11, 2017, positiveCritics= 17, neutralCritics= 0, negativeCritics= 0, positiveUsers= 44, neutralUsers= 6, negativeUsers= 6, metaScore= 90, userScore= 82}
+
+Game{name= 'Wonder Boy: The Dragon''s Trap', platform= XONE, developer= Lizardcube, genre= Action Adventure, numberPlayers= , rating= E10+, releaseDate= Apr 18, 2017, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 0, metaScore= 80, userScore= 79}
+
+Game{name= Little Nightmares, platform= XONE, developer= Tarsier Studios, genre= Action Adventure, numberPlayers= , rating= T, releaseDate= Apr 28, 2017, positiveCritics= 20, neutralCritics= 2, negativeCritics= 0, positiveUsers= 6, neutralUsers= 4, negativeUsers= 2, metaScore= 83, userScore= 77}
+
+Game{name= Minecraft: Switch Edition, platform= Switch, developer= 4J Studios, genre= Action Adventure, numberPlayers= Up to 8 , rating= E10+, releaseDate= May 11, 2017, positiveCritics= 23, neutralCritics= 1, negativeCritics= 0, positiveUsers= 21, neutralUsers= 3, negativeUsers= 4, metaScore= 86, userScore= 73}
+
+Game{name= Slime-san, platform= Switch, developer= Fabraz, genre= Action Adventure, numberPlayers= , rating= E, releaseDate= Jun  8, 2017, positiveCritics= 10, neutralCritics= 1, negativeCritics= 0, positiveUsers= 7, neutralUsers= 1, negativeUsers= 0, metaScore= 82, userScore= 84}
+
+Game{name= Darkwood, platform= PC, developer= Acid Wizard Studio, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= , releaseDate= Jul 17, 2017, positiveCritics= 13, neutralCritics= 2, negativeCritics= 0, positiveUsers= 11, neutralUsers= 1, negativeUsers= 2, metaScore= 80, userScore= 84}
+
+Game{name= Lone Echo, platform= PC, developer= Ready at Dawn, genre= Action Adventure, numberPlayers= , rating= , releaseDate= Jul 20, 2017, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 11, neutralUsers= 1, negativeUsers= 2, metaScore= 89, userScore= 77}
+
+Game{name= 'Hellblade: Senua''s Sacrifice', platform= PC, developer= Ninja Theory, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Aug  7, 2017, positiveCritics= 21, neutralCritics= 3, negativeCritics= 0, positiveUsers= 91, neutralUsers= 20, negativeUsers= 21, metaScore= 83, userScore= 81}
+
+Game{name= Yakuza Kiwami, platform= PS4, developer= Ryu ga Gotoku Studios, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Aug 29, 2017, positiveCritics= 59, neutralCritics= 11, negativeCritics= 0, positiveUsers= 41, neutralUsers= 5, negativeUsers= 5, metaScore= 80, userScore= 81}
+
+Game{name= Life is Strange: Before the Storm - Episode 1: Awake, platform= PC, developer= Deck Nine Games, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Aug 31, 2017, positiveCritics= 10, neutralCritics= 1, negativeCritics= 0, positiveUsers= 6, neutralUsers= 3, negativeUsers= 0, metaScore= 80, userScore= 77}
+
+Game{name= Dishonored: Death of the Outsider, platform= PC, developer= Arkane Studios, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Sep 14, 2017, positiveCritics= 20, neutralCritics= 4, negativeCritics= 0, positiveUsers= 13, neutralUsers= 5, negativeUsers= 6, metaScore= 81, userScore= 69}
+
+Game{name= Metroid: Samus Returns, platform= 3DS, developer= Mercury Steam, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Sep 15, 2017, positiveCritics= 77, neutralCritics= 6, negativeCritics= 0, positiveUsers= 110, neutralUsers= 14, negativeUsers= 6, metaScore= 85, userScore= 89}
+
+Game{name= Dishonored: Death of the Outsider, platform= XONE, developer= Arkane Studios, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Sep 15, 2017, positiveCritics= 16, neutralCritics= 0, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 1, metaScore= 84, userScore= 67}
+
+Game{name= Dishonored: Death of the Outsider, platform= PS4, developer= Arkane Studios, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Sep 15, 2017, positiveCritics= 45, neutralCritics= 2, negativeCritics= 0, positiveUsers= 8, neutralUsers= 6, negativeUsers= 4, metaScore= 82, userScore= 70}
+
+Game{name= Axiom Verge, platform= Switch, developer= Tom Happ, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Oct  5, 2017, positiveCritics= 15, neutralCritics= 0, negativeCritics= 0, positiveUsers= 8, neutralUsers= 5, negativeUsers= 1, metaScore= 87, userScore= 84}
+
+Game{name= Oxenfree, platform= Switch, developer= Night School Studio, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Oct  6, 2017, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 13, neutralUsers= 10, negativeUsers= 4, metaScore= 81, userScore= 76}
+
+Game{name= Middle-earth: Shadow of War, platform= XONE, developer= Monolith Productions, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Oct 10, 2017, positiveCritics= 30, neutralCritics= 8, negativeCritics= 0, positiveUsers= 33, neutralUsers= 3, negativeUsers= 38, metaScore= 81, userScore= 37}
+
+Game{name= Middle-earth: Shadow of War, platform= PS4, developer= Monolith Productions, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct 10, 2017, positiveCritics= 53, neutralCritics= 16, negativeCritics= 0, positiveUsers= 114, neutralUsers= 51, negativeUsers= 186, metaScore= 80, userScore= 39}
+
+Game{name= The Evil Within 2, platform= PC, developer= Tango Gameworks, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct 12, 2017, positiveCritics= 23, neutralCritics= 5, negativeCritics= 0, positiveUsers= 56, neutralUsers= 15, negativeUsers= 7, metaScore= 80, userScore= 89}
+
+Game{name= The Evil Within 2, platform= XONE, developer= Tango Gameworks, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Oct 13, 2017, positiveCritics= 21, neutralCritics= 3, negativeCritics= 0, positiveUsers= 18, neutralUsers= 2, negativeUsers= 2, metaScore= 82, userScore= 91}
+
+Game{name= 'Assassin''s Creed Origins', platform= XONE, developer= Ubisoft, Ubisoft Montreal, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct 27, 2017, positiveCritics= 37, neutralCritics= 5, negativeCritics= 0, positiveUsers= 103, neutralUsers= 11, negativeUsers= 11, metaScore= 85, userScore= 75}
+
+Game{name= 'Assassin''s Creed Origins', platform= PC, developer= Ubisoft, Ubisoft Montreal, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct 27, 2017, positiveCritics= 26, neutralCritics= 2, negativeCritics= 1, positiveUsers= 162, neutralUsers= 44, negativeUsers= 76, metaScore= 84, userScore= 68}
+
+Game{name= 'Assassin''s Creed Origins', platform= PS4, developer= Ubisoft, Ubisoft Montreal, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct 27, 2017, positiveCritics= 53, neutralCritics= 10, negativeCritics= 0, positiveUsers= 267, neutralUsers= 73, negativeUsers= 101, metaScore= 81, userScore= 72}
+
+Game{name= SOMA, platform= XONE, developer= Frictional Games, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Dec  1, 2017, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 5, neutralUsers= 1, negativeUsers= 0, metaScore= 82, userScore= 78}
+
+Game{name= 'The Legend of Zelda: Breath of the Wild - The Champions'' Ballad', platform= Switch, developer= Nintendo, genre= Action Adventure, numberPlayers= , rating= E10+, releaseDate= Dec  7, 2017, positiveCritics= 20, neutralCritics= 2, negativeCritics= 0, positiveUsers= 15, neutralUsers= 9, negativeUsers= 3, metaScore= 81, userScore= 82}
+
+Game{name= Okami HD, platform= PC, developer= Capcom, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Dec 12, 2017, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 14, neutralUsers= 2, negativeUsers= 5, metaScore= 92, userScore= 77}
+
+Game{name= Okami HD, platform= PS4, developer= Capcom, genre= Action Adventure, numberPlayers= , rating= T, releaseDate= Dec 12, 2017, positiveCritics= 38, neutralCritics= 1, negativeCritics= 0, positiveUsers= 13, neutralUsers= 3, negativeUsers= 0, metaScore= 87, userScore= 80}
+
+Game{name= Okami HD, platform= XONE, developer= Capcom, genre= Action Adventure, numberPlayers= , rating= T, releaseDate= Dec 12, 2017, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 87, userScore= 82}
+
+Game{name= Life is Strange: Before the Storm - Episode 3: Hell is Empty, platform= XONE, developer= Deck Nine Games, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Dec 20, 2017, positiveCritics= 8, neutralCritics= 2, negativeCritics= 0, positiveUsers= 0, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 77}
+
+Game{name= Blossom Tales: The Sleeping King, platform= Switch, developer= Castle Pixel, LLC., genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Dec 21, 2017, positiveCritics= 14, neutralCritics= 2, negativeCritics= 0, positiveUsers= 14, neutralUsers= 6, negativeUsers= 1, metaScore= 80, userScore= 79}
+
+Game{name= Iconoclasts, platform= PC, developer= Joakim Sandberg, Konjak, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= , releaseDate= Jan 23, 2018, positiveCritics= 21, neutralCritics= 0, negativeCritics= 0, positiveUsers= 11, neutralUsers= 4, negativeUsers= 1, metaScore= 87, userScore= 76}
+
+Game{name= Iconoclasts, platform= PS4, developer= Joakim Sandberg, Konjak, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Jan 23, 2018, positiveCritics= 20, neutralCritics= 3, negativeCritics= 0, positiveUsers= 4, neutralUsers= 2, negativeUsers= 2, metaScore= 83, userScore= 66}
+
+Game{name= Night in the Woods, platform= Switch, developer= Infinite Fall, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Feb  1, 2018, positiveCritics= 17, neutralCritics= 0, negativeCritics= 0, positiveUsers= 8, neutralUsers= 4, negativeUsers= 2, metaScore= 85, userScore= 81}
+
+Game{name= Shadow of the Colossus, platform= PS4, developer= Bluepoint Games, SCE Japan Studio, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Feb  6, 2018, positiveCritics= 97, neutralCritics= 3, negativeCritics= 0, positiveUsers= 132, neutralUsers= 41, negativeUsers= 39, metaScore= 91, userScore= 78}
+
+Game{name= Dragon Quest Builders, platform= Switch, developer= Square Enix, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Feb  9, 2018, positiveCritics= 43, neutralCritics= 2, negativeCritics= 0, positiveUsers= 12, neutralUsers= 3, negativeUsers= 0, metaScore= 81, userScore= 81}
+
+Game{name= Owlboy, platform= Switch, developer= BlitWorks, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Feb 13, 2018, positiveCritics= 25, neutralCritics= 2, negativeCritics= 0, positiveUsers= 12, neutralUsers= 11, negativeUsers= 6, metaScore= 87, userScore= 75}
+
+Game{name= Bayonetta 2, platform= Switch, developer= Nintendo, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Feb 16, 2018, positiveCritics= 31, neutralCritics= 0, negativeCritics= 0, positiveUsers= 29, neutralUsers= 2, negativeUsers= 0, metaScore= 92, userScore= 84}
+
+Game{name= Bayonetta, platform= Switch, developer= Nintendo, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Feb 16, 2018, positiveCritics= 23, neutralCritics= 0, negativeCritics= 0, positiveUsers= 14, neutralUsers= 5, negativeUsers= 0, metaScore= 84, userScore= 81}
+
+Game{name= Moss, platform= PS4, developer= Polyarc, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Feb 27, 2018, positiveCritics= 59, neutralCritics= 5, negativeCritics= 0, positiveUsers= 27, neutralUsers= 4, negativeUsers= 0, metaScore= 85, userScore= 80}
+
+Game{name= Life is Strange: Before the Storm - Farewell, platform= PS4, developer= Deck Nine Games, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= , releaseDate= Mar  5, 2018, positiveCritics= 9, neutralCritics= 3, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 0, metaScore= 80, userScore= 73}
+
+Game{name= 'Assassin''s Creed Origins: The Curse of the Pharaohs', platform= PS4, developer= Ubisoft Sofia, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Mar 13, 2018, positiveCritics= 15, neutralCritics= 0, negativeCritics= 0, positiveUsers= 5, neutralUsers= 0, negativeUsers= 0, metaScore= 83, userScore= 76}
+
+Game{name= Owlboy, platform= PS4, developer= BlitWorks, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Apr 10, 2018, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 4, neutralUsers= 3, negativeUsers= 2, metaScore= 88, userScore= 66}
+
+Game{name= Owlboy, platform= XONE, developer= BlitWorks, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Apr 10, 2018, positiveCritics= 10, neutralCritics= 2, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 83, userScore= 61}
+
+Game{name= 'Hellblade: Senua''s Sacrifice', platform= XONE, developer= Ninja Theory, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Apr 11, 2018, positiveCritics= 17, neutralCritics= 1, negativeCritics= 0, positiveUsers= 20, neutralUsers= 7, negativeUsers= 3, metaScore= 88, userScore= 73}
+
+Game{name= Yakuza 6: The Song of Life, platform= PS4, developer= Ryu ga Gotoku Studios, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Apr 17, 2018, positiveCritics= 82, neutralCritics= 9, negativeCritics= 0, positiveUsers= 40, neutralUsers= 7, negativeUsers= 1, metaScore= 83, userScore= 82}
+
+Game{name= God of War, platform= PS4, developer= SCE Santa Monica, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Apr 20, 2018, positiveCritics= 118, neutralCritics= 0, negativeCritics= 0, positiveUsers= 2488, neutralUsers= 109, negativeUsers= 109, metaScore= 94, userScore= 91}
+
+Game{name= Frostpunk, platform= PC, developer= 11 bit studios, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Apr 24, 2018, positiveCritics= 62, neutralCritics= 4, negativeCritics= 0, positiveUsers= 70, neutralUsers= 9, negativeUsers= 9, metaScore= 84, userScore= 84}
+
+Game{name= Bloodstained: Curse of the Moon, platform= Switch, developer= Inti Creates, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= T, releaseDate= May 24, 2018, positiveCritics= 10, neutralCritics= 0, negativeCritics= 0, positiveUsers= 18, neutralUsers= 3, negativeUsers= 0, metaScore= 82, userScore= 86}
+
+Game{name= Aragami: Shadow Edition, platform= XONE, developer= Lince Works, genre= Action Adventure, numberPlayers= 2, rating= M, releaseDate= Jun  5, 2018, positiveCritics= 7, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 54}
+
+Game{name= Hollow Knight, platform= Switch, developer= Team Cherry, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Jun 12, 2018, positiveCritics= 27, neutralCritics= 0, negativeCritics= 0, positiveUsers= 124, neutralUsers= 8, negativeUsers= 18, metaScore= 90, userScore= 88}
+
+Game{name= Slime-san: Superslime Edition, platform= PS4, developer= Fabraz, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Jun 26, 2018, positiveCritics= 9, neutralCritics= 2, negativeCritics= 0, positiveUsers= 4, neutralUsers= 0, negativeUsers= 0, metaScore= 81, userScore= 66}
+
+Game{name= Youropa, platform= PC, developer= frecle ApS, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= , releaseDate= Jun 27, 2018, positiveCritics= 15, neutralCritics= 2, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 80, userScore= 78}
+
+Game{name= Yakuza 0, platform= PC, developer= Ryu ga Gotoku Studios, genre= Action Adventure, numberPlayers= Up to 4 , rating= M, releaseDate= Aug  1, 2018, positiveCritics= 20, neutralCritics= 1, negativeCritics= 0, positiveUsers= 10, neutralUsers= 1, negativeUsers= 1, metaScore= 86, userScore= 81}
+
+Game{name= Iconoclasts, platform= Switch, developer= MP2 Games, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Aug  2, 2018, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 3, negativeUsers= 1, metaScore= 87, userScore= 79}
+
+Game{name= Okami HD, platform= Switch, developer= Capcom, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Aug  9, 2018, positiveCritics= 31, neutralCritics= 1, negativeCritics= 0, positiveUsers= 10, neutralUsers= 3, negativeUsers= 0, metaScore= 89, userScore= 86}
+
+Game{name= Yakuza Kiwami 2, platform= PS4, developer= Sega, Ryu ga Gotoku Studios, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Aug 28, 2018, positiveCritics= 64, neutralCritics= 5, negativeCritics= 0, positiveUsers= 25, neutralUsers= 1, negativeUsers= 0, metaScore= 85, userScore= 80}
+
+Game{name= 428: Shibuya Scramble, platform= PS4, developer= Spike Chunsoft, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Sep  4, 2018, positiveCritics= 17, neutralCritics= 2, negativeCritics= 0, positiveUsers= 1, neutralUsers= 0, negativeUsers= 0, metaScore= 85, userScore= 73}
+
+Game{name= 'Marvel''s Spider-Man', platform= PS4, developer= Insomniac Games, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= T, releaseDate= Sep  7, 2018, positiveCritics= 110, neutralCritics= 6, negativeCritics= 0, positiveUsers= 795, neutralUsers= 66, negativeUsers= 44, metaScore= 87, userScore= 87}
+
+Game{name= Shadow of the Tomb Raider, platform= XONE, developer= Eidos Montreal, genre= Action Adventure, numberPlayers= 2, rating= M, releaseDate= Sep 12, 2018, positiveCritics= 51, neutralCritics= 5, negativeCritics= 0, positiveUsers= 42, neutralUsers= 17, negativeUsers= 8, metaScore= 82, userScore= 72}
+
+Game{name= Life is Strange 2: Episode 1 - Roads, platform= PS4, developer= DONTNOD Entertainment, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Sep 27, 2018, positiveCritics= 32, neutralCritics= 6, negativeCritics= 0, positiveUsers= 5, neutralUsers= 3, negativeUsers= 10, metaScore= 81, userScore= 58}
+
+Game{name= Life is Strange 2: Episode 1 - Roads, platform= PC, developer= DONTNOD Entertainment, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= , releaseDate= Sep 27, 2018, positiveCritics= 18, neutralCritics= 5, negativeCritics= 0, positiveUsers= 10, neutralUsers= 1, negativeUsers= 16, metaScore= 80, userScore= 54}
+
+Game{name= Life is Strange 2: Episode 1 - Roads, platform= XONE, developer= DONTNOD Entertainment, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Sep 27, 2018, positiveCritics= 9, neutralCritics= 5, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 4, metaScore= 80, userScore= 51}
+
+Game{name= Astro Bot: Rescue Mission, platform= PS4, developer= JapanStudio, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Oct  2, 2018, positiveCritics= 50, neutralCritics= 0, negativeCritics= 0, positiveUsers= 105, neutralUsers= 1, negativeUsers= 3, metaScore= 90, userScore= 88}
+
+Game{name= 'Assassin''s Creed Odyssey', platform= XONE, developer= Ubisoft, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct  2, 2018, positiveCritics= 34, neutralCritics= 0, negativeCritics= 0, positiveUsers= 58, neutralUsers= 12, negativeUsers= 17, metaScore= 87, userScore= 56}
+
+Game{name= 'Assassin''s Creed Odyssey', platform= PC, developer= Ubisoft, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct  2, 2018, positiveCritics= 13, neutralCritics= 1, negativeCritics= 0, positiveUsers= 127, neutralUsers= 27, negativeUsers= 104, metaScore= 86, userScore= 56}
+
+Game{name= 'Assassin''s Creed Odyssey', platform= PS4, developer= Ubisoft, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Oct  2, 2018, positiveCritics= 73, neutralCritics= 13, negativeCritics= 0, positiveUsers= 194, neutralUsers= 59, negativeUsers= 126, metaScore= 83, userScore= 59}
+
+Game{name= Red Dead Redemption 2, platform= XONE, developer= Rockstar Games, genre= Action Adventure, numberPlayers= Up to 32 , rating= M, releaseDate= Oct 26, 2018, positiveCritics= 33, neutralCritics= 0, negativeCritics= 0, positiveUsers= 346, neutralUsers= 62, negativeUsers= 85, metaScore= 97, userScore= 74}
+
+Game{name= Red Dead Redemption 2, platform= PS4, developer= Rockstar Games, genre= Action Adventure, numberPlayers= Up to 32 , rating= M, releaseDate= Oct 26, 2018, positiveCritics= 97, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1462, neutralUsers= 279, negativeUsers= 331, metaScore= 97, userScore= 79}
+
+Game{name= Hitman 2, platform= XONE, developer= Io Interactive, genre= Action Adventure, numberPlayers= 2, rating= M, releaseDate= Nov  9, 2018, positiveCritics= 25, neutralCritics= 0, negativeCritics= 0, positiveUsers= 13, neutralUsers= 1, negativeUsers= 4, metaScore= 84, userScore= 70}
+
+Game{name= Hitman 2, platform= PS4, developer= Io Interactive, genre= Action Adventure, numberPlayers= 2, rating= M, releaseDate= Nov  9, 2018, positiveCritics= 65, neutralCritics= 5, negativeCritics= 0, positiveUsers= 31, neutralUsers= 4, negativeUsers= 5, metaScore= 82, userScore= 86}
+
+Game{name= Hitman 2, platform= PC, developer= Io Interactive, genre= Action Adventure, numberPlayers= 2, rating= M, releaseDate= Nov 13, 2018, positiveCritics= 21, neutralCritics= 1, negativeCritics= 0, positiveUsers= 27, neutralUsers= 9, negativeUsers= 7, metaScore= 82, userScore= 73}
+
+Game{name= Monster Boy and the Cursed Kingdom, platform= Switch, developer= FDG Entertainment, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Dec  4, 2018, positiveCritics= 18, neutralCritics= 1, negativeCritics= 0, positiveUsers= 9, neutralUsers= 2, negativeUsers= 1, metaScore= 87, userScore= 82}
+
+Game{name= Monster Boy and the Cursed Kingdom, platform= PS4, developer= FDG Entertainment, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Dec  4, 2018, positiveCritics= 17, neutralCritics= 0, negativeCritics= 0, positiveUsers= 2, neutralUsers= 1, negativeUsers= 0, metaScore= 87, userScore= 78}
+
+Game{name= Monster Boy and the Cursed Kingdom, platform= XONE, developer= FDG Entertainment, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E10+, releaseDate= Dec  4, 2018, positiveCritics= 10, neutralCritics= 2, negativeCritics= 0, positiveUsers= 3, neutralUsers= 0, negativeUsers= 0, metaScore= 85, userScore= 84}
+
+Game{name= Katamari Damacy REROLL, platform= PC, developer= MONKEYCRAFT Co. Ltd., genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Dec  6, 2018, positiveCritics= 9, neutralCritics= 1, negativeCritics= 0, positiveUsers= 1, neutralUsers= 1, negativeUsers= 0, metaScore= 81, userScore= 81}
+
+Game{name= Katamari Damacy REROLL, platform= Switch, developer= Bandai Namco Games, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Dec  7, 2018, positiveCritics= 22, neutralCritics= 0, negativeCritics= 0, positiveUsers= 11, neutralUsers= 0, negativeUsers= 1, metaScore= 86, userScore= 84}
+
+Game{name= Catherine Classic, platform= PC, developer= Atlus, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jan 10, 2019, positiveCritics= 12, neutralCritics= 3, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 1, metaScore= 80, userScore= 80}
+
+Game{name= Resident Evil 2, platform= XONE, developer= Capcom R&D Division 1, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jan 25, 2019, positiveCritics= 25, neutralCritics= 1, negativeCritics= 0, positiveUsers= 62, neutralUsers= 3, negativeUsers= 1, metaScore= 93, userScore= 84}
+
+Game{name= Resident Evil 2, platform= PS4, developer= Capcom R&D Division 1, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Jan 25, 2019, positiveCritics= 82, neutralCritics= 1, negativeCritics= 0, positiveUsers= 315, neutralUsers= 20, negativeUsers= 18, metaScore= 90, userScore= 87}
+
+Game{name= Resident Evil 2, platform= PC, developer= Capcom R&D Division 1, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= , releaseDate= Jan 25, 2019, positiveCritics= 25, neutralCritics= 1, negativeCritics= 0, positiveUsers= 159, neutralUsers= 6, negativeUsers= 8, metaScore= 89, userScore= 90}
+
+Game{name= Sunless Skies, platform= PC, developer= Failbetter Games, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= , releaseDate= Jan 31, 2019, positiveCritics= 24, neutralCritics= 2, negativeCritics= 0, positiveUsers= 4, neutralUsers= 3, negativeUsers= 1, metaScore= 86, userScore= 64}
+
+Game{name= Devotion, platform= PC, developer= Red Candle Game, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= , releaseDate= Feb 19, 2019, positiveCritics= 11, neutralCritics= 1, negativeCritics= 0, positiveUsers= 11, neutralUsers= 0, negativeUsers= 1, metaScore= 85, userScore= 73}
+
+Game{name= Yakuza Kiwami, platform= PC, developer= Ryu ga Gotoku Studios, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Feb 19, 2019, positiveCritics= 16, neutralCritics= 2, negativeCritics= 0, positiveUsers= 4, neutralUsers= 0, negativeUsers= 1, metaScore= 80, userScore= 73}
+
+Game{name= Devil May Cry 5, platform= PC, developer= Capcom, genre= Action Adventure, numberPlayers= Online Multiplayer, rating= M, releaseDate= Mar  7, 2019, positiveCritics= 19, neutralCritics= 0, negativeCritics= 0, positiveUsers= 82, neutralUsers= 10, negativeUsers= 6, metaScore= 90, userScore= 89}
+
+Game{name= Devil May Cry 5, platform= PS4, developer= Capcom, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Mar  8, 2019, positiveCritics= 38, neutralCritics= 2, negativeCritics= 0, positiveUsers= 111, neutralUsers= 10, negativeUsers= 11, metaScore= 87, userScore= 78}
+
+Game{name= Devil May Cry 5, platform= XONE, developer= Capcom, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Mar  8, 2019, positiveCritics= 56, neutralCritics= 5, negativeCritics= 0, positiveUsers= 67, neutralUsers= 9, negativeUsers= 7, metaScore= 87, userScore= 75}
+
+Game{name= Baba Is You, platform= Switch, developer= Hempuli Oy, MP2 Games, genre= Action Adventure, numberPlayers= , rating= , releaseDate= Mar 13, 2019, positiveCritics= 13, neutralCritics= 2, negativeCritics= 0, positiveUsers= 9, neutralUsers= 0, negativeUsers= 0, metaScore= 84, userScore= 78}
+
+Game{name= Sekiro: Shadows Die Twice, platform= PC, developer= From Software, genre= Action Adventure, numberPlayers= No Online Multiplayer, rating= M, releaseDate= Mar 22, 2019, positiveCritics= 15, neutralCritics= 0, negativeCritics= 0, positiveUsers= 80, neutralUsers= 26, negativeUsers= 27, metaScore= 92, userScore= 79}
+
+Game{name= Sekiro: Shadows Die Twice, platform= XONE, developer= From Software, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Mar 22, 2019, positiveCritics= 20, neutralCritics= 0, negativeCritics= 0, positiveUsers= 17, neutralUsers= 2, negativeUsers= 5, metaScore= 91, userScore= 85}
+
+Game{name= Sekiro: Shadows Die Twice, platform= PS4, developer= From Software, genre= Action Adventure, numberPlayers= , rating= M, releaseDate= Mar 22, 2019, positiveCritics= 58, neutralCritics= 0, negativeCritics= 1, positiveUsers= 169, neutralUsers= 38, negativeUsers= 40, metaScore= 90, userScore= 77}
+

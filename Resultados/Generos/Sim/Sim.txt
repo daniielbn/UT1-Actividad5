@@ -1,0 +1,4 @@
+Game{name= NBA 2K14, platform= XONE, developer= Visual Concepts, genre= Sim, numberPlayers= Up to 10 , rating= E, releaseDate= Nov 12, 2013, positiveCritics= 15, neutralCritics= 0, negativeCritics= 0, positiveUsers= 13, neutralUsers= 8, negativeUsers= 25, metaScore= 86, userScore= 57}
+
+Game{name= FIFA 14, platform= XONE, developer= EA Canada, genre= Sim, numberPlayers= Up to 22 , rating= E, releaseDate= Nov 19, 2013, positiveCritics= 22, neutralCritics= 0, negativeCritics= 0, positiveUsers= 26, neutralUsers= 7, negativeUsers= 28, metaScore= 88, userScore= 58}
+

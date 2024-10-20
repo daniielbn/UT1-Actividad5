@@ -1,0 +1,80 @@
+Game{name= Rocket League, platform= PS4, developer= Psyonix, Panic Button, genre= Racing, numberPlayers= Up to 8 , rating= E, releaseDate= Jul  7, 2015, positiveCritics= 47, neutralCritics= 3, negativeCritics= 0, positiveUsers= 288, neutralUsers= 18, negativeUsers= 11, metaScore= 85, userScore= 85}
+
+Game{name= DiRT Rally, platform= PC, developer= Codemasters, genre= Racing, numberPlayers= , rating= E, releaseDate= Dec  7, 2015, positiveCritics= 33, neutralCritics= 0, negativeCritics= 0, positiveUsers= 39, neutralUsers= 7, negativeUsers= 3, metaScore= 86, userScore= 87}
+
+Game{name= Trackmania Turbo, platform= PS4, developer= Nadeo, genre= Racing, numberPlayers= Up to 32 , rating= E, releaseDate= Mar 22, 2016, positiveCritics= 48, neutralCritics= 4, negativeCritics= 0, positiveUsers= 22, neutralUsers= 6, negativeUsers= 5, metaScore= 81, userScore= 76}
+
+Game{name= DiRT Rally, platform= XONE, developer= Codemasters, genre= Racing, numberPlayers= , rating= E, releaseDate= Apr  5, 2016, positiveCritics= 17, neutralCritics= 0, negativeCritics= 0, positiveUsers= 12, neutralUsers= 1, negativeUsers= 4, metaScore= 86, userScore= 81}
+
+Game{name= DiRT Rally, platform= PS4, developer= Codemasters, genre= Racing, numberPlayers= Up to 8 , rating= E, releaseDate= Apr  5, 2016, positiveCritics= 45, neutralCritics= 1, negativeCritics= 0, positiveUsers= 53, neutralUsers= 9, negativeUsers= 9, metaScore= 85, userScore= 79}
+
+Game{name= F1 2016, platform= PC, developer= Codemasters, genre= Racing, numberPlayers= , rating= E, releaseDate= Aug 19, 2016, positiveCritics= 12, neutralCritics= 0, negativeCritics= 0, positiveUsers= 3, neutralUsers= 1, negativeUsers= 0, metaScore= 86, userScore= 77}
+
+Game{name= F1 2016, platform= XONE, developer= Codemasters, genre= Racing, numberPlayers= , rating= E, releaseDate= Aug 19, 2016, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 7, neutralUsers= 1, negativeUsers= 0, metaScore= 85, userScore= 78}
+
+Game{name= F1 2016, platform= PS4, developer= Codemasters, genre= Racing, numberPlayers= Up to 22 , rating= E, releaseDate= Aug 19, 2016, positiveCritics= 47, neutralCritics= 2, negativeCritics= 0, positiveUsers= 22, neutralUsers= 0, negativeUsers= 1, metaScore= 82, userScore= 79}
+
+Game{name= Forza Horizon 3, platform= XONE, developer= Playground Games, genre= Racing, numberPlayers= Up to 12 , rating= E, releaseDate= Sep 23, 2016, positiveCritics= 89, neutralCritics= 1, negativeCritics= 1, positiveUsers= 142, neutralUsers= 13, negativeUsers= 12, metaScore= 91, userScore= 80}
+
+Game{name= Forza Horizon 3, platform= PC, developer= Playground Games, genre= Racing, numberPlayers= , rating= E, releaseDate= Sep 27, 2016, positiveCritics= 12, neutralCritics= 0, negativeCritics= 0, positiveUsers= 50, neutralUsers= 10, negativeUsers= 31, metaScore= 86, userScore= 69}
+
+Game{name= Forza Horizon 3: Blizzard Mountain, platform= XONE, developer= Playground Games, genre= Racing, numberPlayers= , rating= , releaseDate= Dec 13, 2016, positiveCritics= 16, neutralCritics= 0, negativeCritics= 0, positiveUsers= 4, neutralUsers= 2, negativeUsers= 0, metaScore= 87, userScore= 77}
+
+Game{name= Fast RMX, platform= Switch, developer= 'Shin''en', genre= Racing, numberPlayers= , rating= E, releaseDate= Mar  3, 2017, positiveCritics= 46, neutralCritics= 8, negativeCritics= 0, positiveUsers= 56, neutralUsers= 12, negativeUsers= 5, metaScore= 81, userScore= 79}
+
+Game{name= Forza Horizon 3: Hot Wheels, platform= XONE, developer= Playground Games, genre= Racing, numberPlayers= , rating= , releaseDate= May  9, 2017, positiveCritics= 11, neutralCritics= 2, negativeCritics= 0, positiveUsers= 9, neutralUsers= 0, negativeUsers= 0, metaScore= 87, userScore= 75}
+
+Game{name= DiRT 4, platform= XONE, developer= Codemasters, Deep Silver, genre= Racing, numberPlayers= , rating= T, releaseDate= Jun  6, 2017, positiveCritics= 21, neutralCritics= 0, negativeCritics= 0, positiveUsers= 6, neutralUsers= 2, negativeUsers= 3, metaScore= 86, userScore= 67}
+
+Game{name= Wipeout: Omega Collection, platform= PS4, developer= Sony Interactive Entertainment, genre= Racing, numberPlayers= Up to 8 , rating= E10+, releaseDate= Jun  6, 2017, positiveCritics= 52, neutralCritics= 1, negativeCritics= 0, positiveUsers= 32, neutralUsers= 1, negativeUsers= 4, metaScore= 85, userScore= 82}
+
+Game{name= DiRT 4, platform= PS4, developer= Codemasters, genre= Racing, numberPlayers= Up to 8 , rating= T, releaseDate= Jun  6, 2017, positiveCritics= 41, neutralCritics= 3, negativeCritics= 0, positiveUsers= 18, neutralUsers= 4, negativeUsers= 7, metaScore= 85, userScore= 75}
+
+Game{name= F1 2017, platform= PC, developer= Codemasters, genre= Racing, numberPlayers= , rating= E, releaseDate= Aug 24, 2017, positiveCritics= 13, neutralCritics= 0, negativeCritics= 0, positiveUsers= 10, neutralUsers= 1, negativeUsers= 1, metaScore= 89, userScore= 74}
+
+Game{name= F1 2017, platform= PS4, developer= Codemasters, genre= Racing, numberPlayers= Up to 20 , rating= E, releaseDate= Aug 25, 2017, positiveCritics= 41, neutralCritics= 0, negativeCritics= 0, positiveUsers= 8, neutralUsers= 1, negativeUsers= 1, metaScore= 86, userScore= 76}
+
+Game{name= F1 2017, platform= XONE, developer= Codemasters, genre= Racing, numberPlayers= , rating= E, releaseDate= Aug 25, 2017, positiveCritics= 16, neutralCritics= 1, negativeCritics= 0, positiveUsers= 4, neutralUsers= 1, negativeUsers= 2, metaScore= 84, userScore= 72}
+
+Game{name= Redout, platform= PS4, developer= 505 Games, genre= Racing, numberPlayers= Up to 6 , rating= E, releaseDate= Aug 29, 2017, positiveCritics= 9, neutralCritics= 2, negativeCritics= 0, positiveUsers= 5, neutralUsers= 1, negativeUsers= 0, metaScore= 81, userScore= 74}
+
+Game{name= Project CARS 2, platform= PC, developer= Slightly Mad Studios, genre= Racing, numberPlayers= Online Multiplayer, rating= E, releaseDate= Sep 21, 2017, positiveCritics= 22, neutralCritics= 3, negativeCritics= 0, positiveUsers= 20, neutralUsers= 4, negativeUsers= 9, metaScore= 84, userScore= 71}
+
+Game{name= Project CARS 2, platform= XONE, developer= Bandai Namco Games, Slightly Mad Studios, genre= Racing, numberPlayers= , rating= E, releaseDate= Sep 22, 2017, positiveCritics= 21, neutralCritics= 1, negativeCritics= 0, positiveUsers= 6, neutralUsers= 1, negativeUsers= 7, metaScore= 84, userScore= 56}
+
+Game{name= Project CARS 2, platform= PS4, developer= Bandai Namco Games, Slightly Mad Studios, genre= Racing, numberPlayers= Up to 16 , rating= E, releaseDate= Sep 22, 2017, positiveCritics= 37, neutralCritics= 7, negativeCritics= 0, positiveUsers= 20, neutralUsers= 7, negativeUsers= 19, metaScore= 82, userScore= 61}
+
+Game{name= Forza Motorsport 7, platform= XONE, developer= Turn 10, genre= Racing, numberPlayers= Up to 24 , rating= E, releaseDate= Sep 29, 2017, positiveCritics= 72, neutralCritics= 7, negativeCritics= 0, positiveUsers= 78, neutralUsers= 14, negativeUsers= 63, metaScore= 86, userScore= 59}
+
+Game{name= Forza Motorsport 7, platform= PC, developer= Turn 10, genre= Racing, numberPlayers= , rating= E, releaseDate= Oct  3, 2017, positiveCritics= 13, neutralCritics= 4, negativeCritics= 0, positiveUsers= 15, neutralUsers= 7, negativeUsers= 34, metaScore= 82, userScore= 43}
+
+Game{name= Sprint Vector, platform= PC, developer= Survios, genre= Racing, numberPlayers= Up to 8 , rating= , releaseDate= Feb  2, 2018, positiveCritics= 8, neutralCritics= 1, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 0, metaScore= 84, userScore= 68}
+
+Game{name= Sprint Vector, platform= PS4, developer= Survios, genre= Racing, numberPlayers= Up to 8 , rating= E10+, releaseDate= Feb 13, 2018, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 5, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 74}
+
+Game{name= Burnout Paradise Remastered, platform= PS4, developer= Criterion Games, STELLAR ENTERTAINMENT SOFTWARE LTD, genre= Racing, numberPlayers= Up to 8 , rating= E10+, releaseDate= Mar 16, 2018, positiveCritics= 37, neutralCritics= 2, negativeCritics= 0, positiveUsers= 21, neutralUsers= 3, negativeUsers= 3, metaScore= 82, userScore= 65}
+
+Game{name= F1 2018, platform= PC, developer= Codemasters, genre= Racing, numberPlayers= Up to 20 , rating= E, releaseDate= Aug 23, 2018, positiveCritics= 9, neutralCritics= 0, negativeCritics= 0, positiveUsers= 5, neutralUsers= 0, negativeUsers= 2, metaScore= 83, userScore= 76}
+
+Game{name= F1 2018, platform= PS4, developer= Codemasters, genre= Racing, numberPlayers= Up to 20 , rating= E, releaseDate= Aug 24, 2018, positiveCritics= 38, neutralCritics= 3, negativeCritics= 0, positiveUsers= 10, neutralUsers= 3, negativeUsers= 2, metaScore= 84, userScore= 78}
+
+Game{name= F1 2018, platform= XONE, developer= Codemasters, genre= Racing, numberPlayers= Up to 20 , rating= E, releaseDate= Aug 24, 2018, positiveCritics= 16, neutralCritics= 2, negativeCritics= 0, positiveUsers= 2, neutralUsers= 0, negativeUsers= 2, metaScore= 84, userScore= 80}
+
+Game{name= Forza Horizon 4, platform= XONE, developer= Playground Games, genre= Racing, numberPlayers= Up to 12 , rating= E, releaseDate= Sep 28, 2018, positiveCritics= 88, neutralCritics= 0, negativeCritics= 0, positiveUsers= 155, neutralUsers= 10, negativeUsers= 22, metaScore= 92, userScore= 79}
+
+Game{name= Forza Horizon 4, platform= PC, developer= Playground Games, genre= Racing, numberPlayers= Up to 12 , rating= E, releaseDate= Sep 28, 2018, positiveCritics= 20, neutralCritics= 2, negativeCritics= 0, positiveUsers= 36, neutralUsers= 7, negativeUsers= 15, metaScore= 88, userScore= 77}
+
+Game{name= Horizon Chase Turbo, platform= Switch, developer= Aquiris Game Studio, genre= Racing, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Nov 28, 2018, positiveCritics= 13, neutralCritics= 3, negativeCritics= 0, positiveUsers= 7, neutralUsers= 1, negativeUsers= 1, metaScore= 82, userScore= 80}
+
+Game{name= Sega Ages: OutRun, platform= Switch, developer= Sega, genre= Racing, numberPlayers= No Online Multiplayer, rating= E, releaseDate= Jan 10, 2019, positiveCritics= 8, neutralCritics= 0, negativeCritics= 0, positiveUsers= 6, neutralUsers= 0, negativeUsers= 0, metaScore= 84, userScore= 77}
+
+Game{name= DiRT Rally 2.0, platform= PC, developer= Codemasters, genre= Racing, numberPlayers= Up to 8 , rating= E, releaseDate= Feb 26, 2019, positiveCritics= 19, neutralCritics= 0, negativeCritics= 0, positiveUsers= 3, neutralUsers= 4, negativeUsers= 9, metaScore= 86, userScore= 51}
+
+Game{name= Trials Rising, platform= XONE, developer= RedLynx, genre= Racing, numberPlayers= Up to 8 , rating= T, releaseDate= Feb 26, 2019, positiveCritics= 14, neutralCritics= 0, negativeCritics= 0, positiveUsers= 4, neutralUsers= 2, negativeUsers= 1, metaScore= 85, userScore= 53}
+
+Game{name= DiRT Rally 2.0, platform= PS4, developer= Codemasters, genre= Racing, numberPlayers= Up to 8 , rating= E, releaseDate= Feb 26, 2019, positiveCritics= 31, neutralCritics= 1, negativeCritics= 0, positiveUsers= 7, neutralUsers= 2, negativeUsers= 9, metaScore= 84, userScore= 57}
+
+Game{name= Trials Rising, platform= PC, developer= RedLynx, genre= Racing, numberPlayers= Up to 8 , rating= T, releaseDate= Feb 26, 2019, positiveCritics= 11, neutralCritics= 1, negativeCritics= 0, positiveUsers= 4, neutralUsers= 0, negativeUsers= 5, metaScore= 83, userScore= 53}
+
+Game{name= DiRT Rally 2.0, platform= XONE, developer= Codemasters, genre= Racing, numberPlayers= Up to 8 , rating= E, releaseDate= Feb 26, 2019, positiveCritics= 18, neutralCritics= 3, negativeCritics= 0, positiveUsers= 5, neutralUsers= 0, negativeUsers= 0, metaScore= 82, userScore= 76}
+
